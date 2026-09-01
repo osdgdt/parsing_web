@@ -1,0 +1,383 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Lavoro a Brescia</title>
+<style>
+  :root {
+    --bg: #faf7f2;
+    --card-bg: #ffffff;
+    --text: #2b2420;
+    --text-dim: #7a7268;
+    --accent: #c8553d;
+    --accent-soft: #f4d9ce;
+    --chip-bg: #eee7dd;
+    --chip-active-bg: #2b2420;
+    --chip-active-text: #faf7f2;
+    --border: #e8e0d4;
+    --new-badge: #2f8f5b;
+    --shadow: 0 1px 3px rgba(43,36,32,0.08), 0 1px 2px rgba(43,36,32,0.06);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--bg);
+    color: var(--text);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.45;
+    padding-bottom: 40px;
+  }
+  header {
+    padding: 24px 16px 16px;
+    max-width: 720px;
+    margin: 0 auto;
+  }
+  h1 {
+    margin: 0 0 4px;
+    font-size: 1.6rem;
+  }
+  .subtitle {
+    color: var(--text-dim);
+    font-size: 0.95rem;
+    margin: 0 0 4px;
+  }
+  .updated {
+    color: var(--text-dim);
+    font-size: 0.85rem;
+    margin: 8px 0 0;
+  }
+  main {
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 0 16px;
+  }
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 12px 0;
+  }
+  .filters.secondary {
+    margin-top: 4px;
+  }
+  .chip {
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 7px 14px;
+    font-size: 0.88rem;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s;
+  }
+  .chip.active {
+    background: var(--chip-active-bg);
+    color: var(--chip-active-text);
+    border-color: var(--chip-active-bg);
+  }
+  .toggle-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin: 10px 0 4px;
+    font-size: 0.9rem;
+    color: var(--text-dim);
+  }
+  .toggle-row .chip { margin-left: auto; }
+  .count {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin: 14px 0 10px;
+  }
+  .card {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 16px;
+    margin-bottom: 12px;
+    box-shadow: var(--shadow);
+    position: relative;
+  }
+  .card-top {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 8px;
+  }
+  .role-tag {
+    display: inline-block;
+    font-size: 0.72rem;
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+    color: var(--accent);
+    background: var(--accent-soft);
+    padding: 3px 9px;
+    border-radius: 999px;
+    font-weight: 600;
+    margin-bottom: 6px;
+  }
+  .new-badge {
+    background: var(--new-badge);
+    color: #fff;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.03em;
+    padding: 3px 9px;
+    border-radius: 999px;
+    flex-shrink: 0;
+  }
+  .card h3 {
+    margin: 0 0 2px;
+    font-size: 1.08rem;
+  }
+  .company {
+    color: var(--text-dim);
+    font-size: 0.92rem;
+    margin: 0 0 8px;
+  }
+  .meta-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 14px;
+    font-size: 0.82rem;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+  }
+  .meta-row span { white-space: nowrap; }
+  .desc {
+    font-size: 0.9rem;
+    color: var(--text);
+    margin: 0 0 12px;
+  }
+  .apply-link {
+    display: inline-block;
+    background: var(--accent);
+    color: #fff;
+    text-decoration: none;
+    font-size: 0.88rem;
+    font-weight: 600;
+    padding: 9px 16px;
+    border-radius: 10px;
+  }
+  .source {
+    font-size: 0.76rem;
+    color: var(--text-dim);
+    margin-left: 10px;
+  }
+  .empty-state {
+    text-align: center;
+    padding: 48px 16px;
+    color: var(--text-dim);
+  }
+  .empty-state h2 {
+    color: var(--text);
+    font-size: 1.1rem;
+  }
+  footer {
+    max-width: 720px;
+    margin: 32px auto 0;
+    padding: 0 16px;
+    color: var(--text-dim);
+    font-size: 0.78rem;
+    line-height: 1.6;
+  }
+  footer p { margin: 0 0 8px; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Lavoro a Brescia</h1>
+  <p class="subtitle">Cameriera · Commessa · Barista · Cassiera · Cucina · Reception — Brescia e dintorni</p>
+  <p class="updated" id="updated">Caricamento...</p>
+</header>
+
+<main>
+  <div class="filters" id="roleFilters"></div>
+  <div class="filters secondary" id="contractFilters"></div>
+  <div class="toggle-row">
+    <span>Novità</span>
+    <div class="chip" id="newOnlyToggle" data-active="false">Solo nuovi di oggi</div>
+  </div>
+
+  <p class="count" id="count"></p>
+  <div id="list"></div>
+</main>
+
+<footer>
+  <p><strong>Come funziona:</strong> questa pagina si aggiorna da sola una volta al giorno raccogliendo annunci pubblici da Indeed, InfoJobs, Subito.it, Bakeca, agenzie interinali (Adecco, Randstad, Gi Group) e dal portale Regione Lombardia. Non è un elenco completo di tutte le offerte esistenti, ma una selezione automatica — vale sempre la pena controllare anche direttamente sui siti delle agenzie ogni tanto.</p>
+  <p>Nessuna candidatura viene inviata automaticamente: clicca sempre "Vedi e candidati" per andare sull'annuncio originale e candidarti tu stessa.</p>
+</footer>
+
+<script>
+const ROLES = [
+  { key: 'tutti', label: 'Tutti' },
+  { key: 'cameriera', label: 'Cameriera' },
+  { key: 'commessa', label: 'Commessa' },
+  { key: 'barista', label: 'Barista' },
+  { key: 'cassiera', label: 'Cassiera' },
+  { key: 'cucina', label: 'Cucina' },
+  { key: 'reception', label: 'Reception' },
+];
+
+const CONTRACTS = [
+  { key: 'indifferente', label: 'Indifferente' },
+  { key: 'tempo-pieno', label: 'Tempo pieno' },
+  { key: 'part-time', label: 'Part-time' },
+  { key: 'weekend-sera', label: 'Weekend / sera' },
+];
+
+const state = {
+  role: localStorage.getItem('lb_role') || 'tutti',
+  contract: localStorage.getItem('lb_contract') || 'indifferente',
+  newOnly: false,
+  listings: [],
+  lastUpdated: null,
+};
+
+function renderChips(container, items, activeKey, onPick) {
+  container.innerHTML = '';
+  items.forEach(item => {
+    const chip = document.createElement('div');
+    chip.className = 'chip' + (item.key === activeKey ? ' active' : '');
+    chip.textContent = item.label;
+    chip.addEventListener('click', () => onPick(item.key));
+    container.appendChild(chip);
+  });
+}
+
+function formatUpdated(iso) {
+  if (!iso) return 'Ancora nessun aggiornamento — controlla di nuovo tra poco.';
+  const d = new Date(iso);
+  const opts = { day: 'numeric', month: 'long', hour: '2-digit', minute: '2-digit' };
+  return 'Ultimo aggiornamento: ' + d.toLocaleString('it-IT', opts);
+}
+
+function daysAgoLabel(iso) {
+  if (!iso) return null;
+  const then = new Date(iso);
+  const now = new Date();
+  const diffDays = Math.floor((now - then) / (1000 * 60 * 60 * 24));
+  if (diffDays <= 0) return 'pubblicato oggi';
+  if (diffDays === 1) return 'pubblicato ieri';
+  return 'pubblicato ' + diffDays + ' giorni fa';
+}
+
+function isNewToday(listing) {
+  if (!listing.firstSeen || !state.lastUpdated) return false;
+  const a = new Date(listing.firstSeen).toDateString();
+  const b = new Date(state.lastUpdated).toDateString();
+  return a === b;
+}
+
+function matchesFilters(listing) {
+  if (state.role !== 'tutti' && listing.role !== state.role) return false;
+  if (state.contract !== 'indifferente' && listing.contractType &&
+      listing.contractType !== 'indifferente' && listing.contractType !== state.contract) return false;
+  if (state.newOnly && !isNewToday(listing)) return false;
+  return true;
+}
+
+function renderList() {
+  const listEl = document.getElementById('list');
+  const countEl = document.getElementById('count');
+  const filtered = state.listings.filter(matchesFilters);
+
+  countEl.textContent = filtered.length === 0
+    ? ''
+    : filtered.length + (filtered.length === 1 ? ' annuncio trovato' : ' annunci trovati');
+
+  if (state.listings.length === 0) {
+    listEl.innerHTML = `<div class="empty-state">
+      <h2>Nessun annuncio ancora disponibile</h2>
+      <p>La pagina si aggiorna automaticamente ogni giorno. Ricontrolla tra poco.</p>
+    </div>`;
+    return;
+  }
+
+  if (filtered.length === 0) {
+    listEl.innerHTML = `<div class="empty-state">
+      <h2>Nessun annuncio con questi filtri</h2>
+      <p>Prova ad allargare i filtri selezionati sopra.</p>
+    </div>`;
+    return;
+  }
+
+  listEl.innerHTML = filtered.map(l => {
+    const roleLabel = (ROLES.find(r => r.key === l.role) || {}).label || 'Altro';
+    const contractLabel = (CONTRACTS.find(c => c.key === l.contractType) || {}).label || 'Non specificato';
+    const salary = l.salary && l.salary.trim() ? l.salary : 'Stipendio non indicato';
+    const posted = daysAgoLabel(l.datePosted) || '';
+    const badge = isNewToday(l) ? '<span class="new-badge">NUOVO</span>' : '';
+    const desc = l.description ? `<p class="desc">${escapeHtml(l.description)}</p>` : '';
+    return `<div class="card">
+      <div class="card-top">
+        <div>
+          <div class="role-tag">${roleLabel}</div>
+          <h3>${escapeHtml(l.title || 'Annuncio')}</h3>
+          <p class="company">${escapeHtml(l.company || '')}${l.location ? ' · ' + escapeHtml(l.location) : ''}</p>
+        </div>
+        ${badge}
+      </div>
+      <div class="meta-row">
+        <span>${escapeHtml(salary)}</span>
+        <span>${escapeHtml(contractLabel)}</span>
+        ${posted ? `<span>${posted}</span>` : ''}
+      </div>
+      ${desc}
+      <a class="apply-link" href="${escapeAttr(l.url)}" target="_blank" rel="noopener">Vedi e candidati</a>
+      <span class="source">${escapeHtml(l.source || '')}</span>
+    </div>`;
+  }).join('');
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str == null ? '' : String(str);
+  return div.innerHTML;
+}
+function escapeAttr(str) {
+  return escapeHtml(str).replace(/"/g, '&quot;');
+}
+
+function pickRole(key) {
+  state.role = key;
+  localStorage.setItem('lb_role', key);
+  renderChips(document.getElementById('roleFilters'), ROLES, state.role, pickRole);
+  renderList();
+}
+function pickContract(key) {
+  state.contract = key;
+  localStorage.setItem('lb_contract', key);
+  renderChips(document.getElementById('contractFilters'), CONTRACTS, state.contract, pickContract);
+  renderList();
+}
+
+document.getElementById('newOnlyToggle').addEventListener('click', function () {
+  state.newOnly = !state.newOnly;
+  this.classList.toggle('active', state.newOnly);
+  renderList();
+});
+
+renderChips(document.getElementById('roleFilters'), ROLES, state.role, pickRole);
+renderChips(document.getElementById('contractFilters'), CONTRACTS, state.contract, pickContract);
+
+fetch('./data.json?_=' + Date.now())
+  .then(r => r.json())
+  .then(data => {
+    state.listings = Array.isArray(data.listings) ? data.listings : [];
+    state.lastUpdated = data.lastUpdated || null;
+    document.getElementById('updated').textContent = formatUpdated(state.lastUpdated);
+    renderList();
+  })
+  .catch(() => {
+    document.getElementById('updated').textContent = 'Impossibile caricare gli annunci al momento.';
+    renderList();
+  });
+</script>
+
+</body>
+</html>
