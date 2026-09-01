@@ -313,6 +313,9 @@ function renderList() {
     const posted = daysAgoLabel(l.datePosted) || '';
     const badge = isNewToday(l) ? '<span class="new-badge">NUOVO</span>' : '';
     const desc = l.description ? `<p class="desc">${escapeHtml(l.description)}</p>` : '';
+    const link = l.url && l.url.trim()
+      ? `<a class="apply-link" href="${escapeAttr(l.url)}" target="_blank" rel="noopener">Vedi e candidati</a>`
+      : `<span class="apply-link" style="opacity:.5;cursor:default;">Link non disponibile</span>`;
     return `<div class="card">
       <div class="card-top">
         <div>
@@ -328,7 +331,7 @@ function renderList() {
         ${posted ? `<span>${posted}</span>` : ''}
       </div>
       ${desc}
-      <a class="apply-link" href="${escapeAttr(l.url)}" target="_blank" rel="noopener">Vedi e candidati</a>
+      ${link}
       <span class="source">${escapeHtml(l.source || '')}</span>
     </div>`;
   }).join('');
