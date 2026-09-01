@@ -78,15 +78,41 @@
     color: var(--chip-active-text);
     border-color: var(--chip-active-bg);
   }
-  .toggle-row {
+  .searchbox {
+    width: 100%;
+    padding: 11px 14px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-size: 0.95rem;
+    margin: 4px 0 12px;
+    background: var(--card-bg);
+    color: var(--text);
+    font-family: inherit;
+  }
+  .searchbox:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  .refresh-row {
     display: flex;
     align-items: center;
-    gap: 8px;
-    margin: 10px 0 4px;
-    font-size: 0.9rem;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 14px 0 0;
+  }
+  .refresh-btn {
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 8px 16px;
+    font-size: 0.88rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+  }
+  .refresh-btn:disabled { opacity: .55; cursor: default; }
+  .refresh-status {
+    font-size: 0.82rem;
     color: var(--text-dim);
   }
-  .toggle-row .chip { margin-left: auto; }
   .count {
     font-size: 0.85rem;
     color: var(--text-dim);
@@ -193,14 +219,22 @@
   <h1>Lavoro a Brescia</h1>
   <p class="subtitle">Cameriera · Commessa · Barista · Cassiera · Cucina · Reception — Brescia e dintorni</p>
   <p class="updated" id="updated">Caricamento...</p>
+  <div class="refresh-row">
+    <button class="refresh-btn" id="refreshBtn" type="button">🔄 Aggiorna ora</button>
+    <span class="refresh-status" id="refreshStatus"></span>
+  </div>
 </header>
 
 <main>
+  <input type="search" class="searchbox" id="searchBox" placeholder="Cerca per parola chiave (es. barista, Adecco...)">
+
   <div class="filters" id="roleFilters"></div>
   <div class="filters secondary" id="contractFilters"></div>
-  <div class="toggle-row">
-    <span>Novità</span>
-    <div class="chip" id="newOnlyToggle" data-active="false">Solo nuovi di oggi</div>
+  <div class="filters secondary" id="comuneFilters"></div>
+  <div class="filters secondary" id="sourceFilters"></div>
+  <div class="filters secondary" id="toggleFilters">
+    <div class="chip" id="newOnlyToggle">Solo nuovi di oggi</div>
+    <div class="chip" id="salaryOnlyToggle">Solo con stipendio</div>
   </div>
 
   <p class="count" id="count"></p>
@@ -230,13 +264,50 @@ const CONTRACTS = [
   { key: 'weekend-sera', label: 'Weekend / sera' },
 ];
 
+const COMUNI = [
+  { key: 'tutti', label: 'Tutti i comuni' },
+  { key: 'brescia', label: 'Brescia' },
+  { key: 'rezzato', label: 'Rezzato' },
+  { key: 'botticino', label: 'Botticino' },
+  { key: 'san-zeno-naviglio', label: 'San Zeno Naviglio' },
+  { key: 'castenedolo', label: 'Castenedolo' },
+  { key: 'bagnolo-mella', label: 'Bagnolo Mella' },
+  { key: 'mazzano', label: 'Mazzano' },
+  { key: 'concesio', label: 'Concesio' },
+  { key: 'bovezzo', label: 'Bovezzo' },
+  { key: 'collebeato', label: 'Collebeato' },
+  { key: 'nuvolento', label: 'Nuvolento' },
+  { key: 'nuvolera', label: 'Nuvolera' },
+];
+
+const SOURCES = [
+  { key: 'tutte', label: 'Tutte le fonti' },
+  { key: 'indeed', label: 'Indeed' },
+  { key: 'infojobs', label: 'InfoJobs' },
+  { key: 'subito', label: 'Subito.it' },
+  { key: 'bakeca', label: 'Bakeca' },
+  { key: 'adecco', label: 'Adecco' },
+  { key: 'randstad', label: 'Randstad' },
+  { key: 'gigroup', label: 'Gi Group' },
+  { key: 'regione-lombardia', label: 'Regione Lombardia' },
+  { key: 'linkedin', label: 'LinkedIn' },
+];
+
 const state = {
   role: localStorage.getItem('lb_role') || 'tutti',
   contract: localStorage.getItem('lb_contract') || 'indifferente',
+  comune: localStorage.getItem('lb_comune') || 'tutti',
+  source: localStorage.getItem('lb_source') || 'tutte',
   newOnly: false,
+  salaryOnly: false,
+  search: '',
   listings: [],
   lastUpdated: null,
 };
+
+function normalize(str) {
+  return (str || '').toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+}
 
 function renderChips(container, items, activeKey, onPick) {
   container.innerHTML = '';
@@ -277,7 +348,14 @@ function matchesFilters(listing) {
   if (state.role !== 'tutti' && listing.role !== state.role) return false;
   if (state.contract !== 'indifferente' && listing.contractType &&
       listing.contractType !== 'indifferente' && listing.contractType !== state.contract) return false;
+  if (state.comune !== 'tutti' && listing.comune !== state.comune) return false;
+  if (state.source !== 'tutte' && listing.source !== state.source) return false;
   if (state.newOnly && !isNewToday(listing)) return false;
+  if (state.salaryOnly && !(listing.salary && listing.salary.trim())) return false;
+  if (state.search) {
+    const haystack = normalize([listing.title, listing.company, listing.description].filter(Boolean).join(' '));
+    if (!haystack.includes(state.search)) return false;
+  }
   return true;
 }
 
@@ -358,28 +436,147 @@ function pickContract(key) {
   renderChips(document.getElementById('contractFilters'), CONTRACTS, state.contract, pickContract);
   renderList();
 }
+function pickComune(key) {
+  state.comune = key;
+  localStorage.setItem('lb_comune', key);
+  renderChips(document.getElementById('comuneFilters'), COMUNI, state.comune, pickComune);
+  renderList();
+}
+function pickSource(key) {
+  state.source = key;
+  localStorage.setItem('lb_source', key);
+  renderChips(document.getElementById('sourceFilters'), SOURCES, state.source, pickSource);
+  renderList();
+}
 
 document.getElementById('newOnlyToggle').addEventListener('click', function () {
   state.newOnly = !state.newOnly;
   this.classList.toggle('active', state.newOnly);
   renderList();
 });
+document.getElementById('salaryOnlyToggle').addEventListener('click', function () {
+  state.salaryOnly = !state.salaryOnly;
+  this.classList.toggle('active', state.salaryOnly);
+  renderList();
+});
+document.getElementById('searchBox').addEventListener('input', function (e) {
+  state.search = normalize(e.target.value.trim());
+  renderList();
+});
 
 renderChips(document.getElementById('roleFilters'), ROLES, state.role, pickRole);
 renderChips(document.getElementById('contractFilters'), CONTRACTS, state.contract, pickContract);
+renderChips(document.getElementById('comuneFilters'), COMUNI, state.comune, pickComune);
+renderChips(document.getElementById('sourceFilters'), SOURCES, state.source, pickSource);
 
-fetch('./data.json?_=' + Date.now())
-  .then(r => r.json())
-  .then(data => {
-    state.listings = Array.isArray(data.listings) ? data.listings : [];
-    state.lastUpdated = data.lastUpdated || null;
-    document.getElementById('updated').textContent = formatUpdated(state.lastUpdated);
-    renderList();
-  })
-  .catch(() => {
-    document.getElementById('updated').textContent = 'Impossibile caricare gli annunci al momento.';
-    renderList();
-  });
+function loadData() {
+  return fetch('./data.json?_=' + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      state.listings = Array.isArray(data.listings) ? data.listings : [];
+      state.lastUpdated = data.lastUpdated || null;
+      document.getElementById('updated').textContent = formatUpdated(state.lastUpdated);
+      renderList();
+      return state.lastUpdated;
+    })
+    .catch(() => {
+      document.getElementById('updated').textContent = 'Impossibile caricare gli annunci al momento.';
+      renderList();
+      return null;
+    });
+}
+
+loadData();
+
+/* --- Tasto "Aggiorna ora" ---
+   Chiama l'API GitHub per far scattare subito una nuova esecuzione della routine di
+   ricerca, invece di aspettare l'aggiornamento automatico del mattino. Il token qui sotto
+   è volutamente limitato al solo repository di questa pagina (nessun altro accesso). */
+const GH_OWNER = 'osdgdt';
+const GH_REPO = 'parsing_web';
+const REFRESH_TOKEN = 'INCOLLA_QUI_IL_TOKEN_GITHUB';
+const REFRESH_COOLDOWN_MS = 15 * 60 * 1000;
+
+const refreshBtn = document.getElementById('refreshBtn');
+const refreshStatus = document.getElementById('refreshStatus');
+let refreshPollTimer = null;
+
+function formatCountdown(ms) {
+  const totalSec = Math.max(0, Math.ceil(ms / 1000));
+  const m = Math.floor(totalSec / 60);
+  const s = totalSec % 60;
+  return m + 'm ' + String(s).padStart(2, '0') + 's';
+}
+
+function refreshCooldownRemaining() {
+  const last = parseInt(localStorage.getItem('lb_lastRefreshClick') || '0', 10);
+  return REFRESH_COOLDOWN_MS - (Date.now() - last);
+}
+
+function updateRefreshButtonState() {
+  const remaining = refreshCooldownRemaining();
+  if (remaining > 0) {
+    refreshBtn.disabled = true;
+    refreshStatus.textContent = 'Disponibile tra ' + formatCountdown(remaining);
+    setTimeout(updateRefreshButtonState, 1000);
+  } else {
+    refreshBtn.disabled = false;
+  }
+}
+
+function pollForFreshData(previousLastUpdated) {
+  let attempts = 0;
+  if (refreshPollTimer) clearInterval(refreshPollTimer);
+  refreshPollTimer = setInterval(() => {
+    attempts++;
+    loadData().then(newLastUpdated => {
+      if (newLastUpdated && newLastUpdated !== previousLastUpdated) {
+        clearInterval(refreshPollTimer);
+        refreshStatus.textContent = 'Fatto! Nuovi annunci caricati.';
+      } else if (attempts >= 30) {
+        clearInterval(refreshPollTimer);
+        refreshStatus.textContent = 'Ricerca ancora in corso, ricontrolla tra qualche minuto.';
+      }
+    });
+  }, 15000);
+}
+
+async function handleRefreshClick() {
+  if (refreshCooldownRemaining() > 0) return;
+  if (!REFRESH_TOKEN || REFRESH_TOKEN.indexOf('INCOLLA') === 0) {
+    refreshStatus.textContent = 'Aggiornamento manuale non ancora configurato.';
+    return;
+  }
+  const previousLastUpdated = state.lastUpdated;
+  refreshBtn.disabled = true;
+  refreshStatus.textContent = 'Richiesta inviata…';
+  try {
+    const res = await fetch(`https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/dispatches`, {
+      method: 'POST',
+      headers: {
+        'Authorization': 'Bearer ' + REFRESH_TOKEN,
+        'Accept': 'application/vnd.github+json',
+        'X-GitHub-Api-Version': '2022-11-28',
+      },
+      body: JSON.stringify({ event_type: 'refresh-requested' }),
+    });
+    if (res.status === 204) {
+      localStorage.setItem('lb_lastRefreshClick', String(Date.now()));
+      refreshStatus.textContent = 'Ricerca avviata, ci vogliono un paio di minuti…';
+      pollForFreshData(previousLastUpdated);
+      updateRefreshButtonState();
+    } else {
+      refreshStatus.textContent = 'Aggiornamento manuale non disponibile al momento.';
+      refreshBtn.disabled = false;
+    }
+  } catch (e) {
+    refreshStatus.textContent = 'Qualcosa non ha funzionato, riprova più tardi.';
+    refreshBtn.disabled = false;
+  }
+}
+
+refreshBtn.addEventListener('click', handleRefreshClick);
+updateRefreshButtonState();
 </script>
 
 </body>
