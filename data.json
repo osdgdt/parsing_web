@@ -50,108 +50,6 @@
       "lastSeen": "2026-09-01T15:47:19Z"
     },
     {
-      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "role": "commessa",
-      "title": "Commessa/o Supermercato - Stage",
-      "company": "Adecco",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Stage propedeutico all'assunzione presso un supermercato della GDO a Brescia.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": "Adecco",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Posizione full-time per barista presso bar interno a punto vendita a Brescia.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
-      "role": "cameriera",
-      "title": "Cameriere/a a Brescia",
-      "company": "Randstad",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Ricerca cameriere/a per locale fast casual a Brescia.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-verso-cocktail-club-cameriere-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a",
-      "company": "Verso Cocktail Club",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriere",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Cocktail bar con cucina nel centro di Brescia cerca cameriere/a solare e professionale.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
-      "role": "cameriera",
-      "title": "Cameriera/Barista/Cassiera - Part-time 4h",
-      "company": "In Job",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Agenzia per il lavoro In Job ricerca personale part-time (4 ore) per ruoli di cameriera/barista/cassiera.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
-      "role": "cassiera",
-      "title": "Cassiera, Barista e Cameriera",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Ricerca personale per ruoli di cassiera, barista e cameriera.",
-      "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-01T15:47:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
       "role": "cucina",
       "title": "Lavapiatti",
@@ -229,7 +127,8 @@
       "datePosted": null,
       "description": "Ricerca barista part-time (24, 28 o 32 ore) a Rezzato, richiesta esperienza di almeno 1 anno.",
       "firstSeen": "2026-09-01T15:47:19Z",
-      "lastSeen": "2026-09-01T15:47:19Z"
+      "lastSeen": "2026-09-01T15:47:19Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-lavapiatti-weekend-birrificio-mompiano-brescia",
@@ -245,7 +144,8 @@
       "datePosted": null,
       "description": "Ricerca lavapiatti/aiuto cucina per birrificio in zona Mompiano (Brescia), part-time nel weekend (12 ore settimanali).",
       "firstSeen": "2026-09-01T15:47:19Z",
-      "lastSeen": "2026-09-01T15:47:19Z"
+      "lastSeen": "2026-09-01T15:47:19Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
