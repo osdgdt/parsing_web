@@ -513,11 +513,18 @@ function refreshCooldownRemaining() {
   return REFRESH_COOLDOWN_MS - (Date.now() - last);
 }
 
+let refreshInProgress = false;
+
 function updateRefreshButtonState() {
   const remaining = refreshCooldownRemaining();
   if (remaining > 0) {
     refreshBtn.disabled = true;
-    refreshStatus.textContent = 'Disponibile tra ' + formatCountdown(remaining);
+    // Don't stomp on the "richiesta inviata / fatto" message while a request
+    // just made is still being reported on - only show the countdown once
+    // that message has had its say (or on a fresh page load).
+    if (!refreshInProgress) {
+      refreshStatus.textContent = 'Disponibile tra ' + formatCountdown(remaining);
+    }
     setTimeout(updateRefreshButtonState, 1000);
   } else {
     refreshBtn.disabled = false;
@@ -533,9 +540,11 @@ function pollForFreshData(previousLastUpdated) {
       if (newLastUpdated && newLastUpdated !== previousLastUpdated) {
         clearInterval(refreshPollTimer);
         refreshStatus.textContent = 'Fatto! Nuovi annunci caricati.';
+        refreshInProgress = false;
       } else if (attempts >= 30) {
         clearInterval(refreshPollTimer);
         refreshStatus.textContent = 'Ricerca ancora in corso, ricontrolla tra qualche minuto.';
+        refreshInProgress = false;
       }
     });
   }, 15000);
@@ -544,6 +553,7 @@ function pollForFreshData(previousLastUpdated) {
 async function handleRefreshClick() {
   if (refreshCooldownRemaining() > 0) return;
   const previousLastUpdated = state.lastUpdated;
+  refreshInProgress = true;
   refreshBtn.disabled = true;
   refreshStatus.textContent = 'Richiesta inviata…';
   try {
@@ -557,10 +567,12 @@ async function handleRefreshClick() {
     } else {
       refreshStatus.textContent = 'Aggiornamento manuale non disponibile al momento.';
       refreshBtn.disabled = false;
+      refreshInProgress = false;
     }
   } catch (e) {
     refreshStatus.textContent = 'Qualcosa non ha funzionato, riprova più tardi.';
     refreshBtn.disabled = false;
+    refreshInProgress = false;
   }
 }
 
