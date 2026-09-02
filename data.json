@@ -114,40 +114,6 @@
       "lastSeen": "2026-09-02T00:07:06Z"
     },
     {
-      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "role": "commessa",
-      "title": "Commessa/o Supermercato - Stage",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca commessa/o per supermercato a Brescia, stage retail/GDO finalizzato all'inserimento.",
-      "firstSeen": "2026-09-01T23:10:46Z",
-      "lastSeen": "2026-09-02T00:07:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Adecco ricerca barista con esperienza per posizione full-time presso un bar all'interno di un punto vendita a Brescia.",
-      "firstSeen": "2026-09-01T23:10:46Z",
-      "lastSeen": "2026-09-02T00:07:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "randstad-barista-rezzato-pt",
       "role": "barista",
       "title": "Barista part-time - Rezzato",
@@ -161,7 +127,8 @@
       "datePosted": null,
       "description": "Randstad ricerca barista part-time (24, 28 o 32 ore settimanali) a Rezzato, richiesto circa 1 anno di esperienza.",
       "firstSeen": "2026-09-02T00:07:06Z",
-      "lastSeen": "2026-09-02T00:07:06Z"
+      "lastSeen": "2026-09-02T00:07:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -177,7 +144,8 @@
       "datePosted": null,
       "description": "Randstad ricerca camerieri/e per azienda di ristorazione fast casual a Brescia, persone dinamiche e a proprio agio nel contatto con il cliente.",
       "firstSeen": "2026-09-02T00:07:06Z",
-      "lastSeen": "2026-09-02T00:07:06Z"
+      "lastSeen": "2026-09-02T00:07:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "infojobs-bar-cameriere-brescia-centro",
@@ -193,7 +161,8 @@
       "datePosted": null,
       "description": "Bar in centro a Brescia cerca cameriere/a, retribuzione da 8 a 13 €/ora, contratto inizialmente a termine con possibilità di conferma.",
       "firstSeen": "2026-09-02T00:07:06Z",
-      "lastSeen": "2026-09-02T00:07:06Z"
+      "lastSeen": "2026-09-02T00:07:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-cameriere-verso-cocktail-club-brescia",
@@ -209,7 +178,8 @@
       "datePosted": null,
       "description": "Verso Cocktail Club, cocktail bar con cucina nel centro di Brescia, cerca cameriere/a solare e professionale per il servizio ai tavoli.",
       "firstSeen": "2026-09-02T00:07:06Z",
-      "lastSeen": "2026-09-02T00:07:06Z"
+      "lastSeen": "2026-09-02T00:07:06Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
