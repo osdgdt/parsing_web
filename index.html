@@ -113,6 +113,89 @@
     font-size: 0.82rem;
     color: var(--text-dim);
   }
+  .distance-row {
+    margin: 14px 0 4px;
+  }
+  .distance-row label {
+    display: block;
+    font-size: 0.88rem;
+    color: var(--text-dim);
+    margin-bottom: 6px;
+  }
+  .distance-row input[type="range"] {
+    width: 100%;
+    accent-color: var(--accent);
+  }
+  .manage-roles {
+    margin: 16px 0 4px;
+    padding: 12px 14px;
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    background: var(--card-bg);
+  }
+  .manage-roles-label {
+    font-size: 0.85rem;
+    color: var(--text-dim);
+    margin-bottom: 8px;
+  }
+  .custom-role-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 10px;
+  }
+  .custom-role-chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    border-radius: 999px;
+    padding: 5px 8px 5px 14px;
+    font-size: 0.85rem;
+  }
+  .custom-role-chip button {
+    border: none;
+    background: none;
+    color: var(--text-dim);
+    cursor: pointer;
+    font-size: 1rem;
+    line-height: 1;
+    padding: 2px 4px;
+  }
+  .add-role-row {
+    display: flex;
+    gap: 8px;
+  }
+  .add-role-row input {
+    flex: 1;
+    padding: 9px 12px;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    font-size: 0.9rem;
+    font-family: inherit;
+    background: var(--bg);
+    color: var(--text);
+  }
+  .add-role-row button {
+    border: 1px solid var(--border);
+    background: var(--chip-bg);
+    color: var(--text);
+    border-radius: 10px;
+    padding: 9px 14px;
+    font-size: 0.9rem;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+    white-space: nowrap;
+  }
+  .add-role-row button:disabled { opacity: .55; cursor: default; }
+  .role-status {
+    display: block;
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    margin-top: 8px;
+  }
   .count {
     font-size: 0.85rem;
     color: var(--text-dim);
@@ -237,24 +320,45 @@
     <div class="chip" id="salaryOnlyToggle">Solo con stipendio</div>
   </div>
 
+  <div class="distance-row">
+    <label for="distanceSlider">Entro <span id="distanceValue">20</span> km da Brescia</label>
+    <input type="range" id="distanceSlider" min="0" max="20" step="1" value="20">
+  </div>
+
+  <div class="manage-roles">
+    <div class="manage-roles-label">Le tue mansioni aggiunte</div>
+    <div class="custom-role-list" id="customRoleList"></div>
+    <div class="add-role-row">
+      <input type="text" id="newRoleInput" placeholder="Aggiungi una mansione (es. magazziniere)" maxlength="40">
+      <button id="addRoleBtn" type="button">Aggiungi</button>
+    </div>
+    <span class="role-status" id="roleStatus"></span>
+  </div>
+
   <p class="count" id="count"></p>
   <div id="list"></div>
 </main>
 
 <footer>
-  <p><strong>Come funziona:</strong> questa pagina si aggiorna da sola una volta al giorno raccogliendo annunci pubblici da Indeed, InfoJobs, Subito.it, Bakeca, agenzie interinali (Adecco, Randstad, Gi Group) e dal portale Regione Lombardia. Non è un elenco completo di tutte le offerte esistenti, ma una selezione automatica — vale sempre la pena controllare anche direttamente sui siti delle agenzie ogni tanto.</p>
+  <p><strong>Come funziona:</strong> questa pagina si aggiorna da sola una volta al giorno raccogliendo annunci pubblici da Indeed, Subito.it, Bakeca, agenzie interinali (Adecco, Randstad, Gi Group) e dal portale Regione Lombardia. Non è un elenco completo di tutte le offerte esistenti, ma una selezione automatica — vale sempre la pena controllare anche direttamente sui siti delle agenzie ogni tanto.</p>
   <p>Nessuna candidatura viene inviata automaticamente: clicca sempre "Vedi e candidati" per andare sull'annuncio originale e candidarti tu stessa.</p>
 </footer>
 
 <script>
-const ROLES = [
-  { key: 'tutti', label: 'Tutti' },
+// Ruoli e comuni "di riserva", usati SOLO se roles.json/comuni.json non si riescono a
+// caricare (es. offline) - la fonte di verità normale è quei due file, letti a runtime.
+const FALLBACK_BUILTIN_ROLES = [
   { key: 'cameriera', label: 'Cameriera' },
   { key: 'commessa', label: 'Commessa' },
   { key: 'barista', label: 'Barista' },
   { key: 'cassiera', label: 'Cassiera' },
   { key: 'cucina', label: 'Cucina' },
   { key: 'reception', label: 'Reception' },
+];
+const FALLBACK_COMUNI = [
+  { key: 'brescia', label: 'Brescia', distanceKm: 0 },
+  { key: 'rezzato', label: 'Rezzato', distanceKm: 10 },
+  { key: 'botticino', label: 'Botticino', distanceKm: 9 },
 ];
 
 const CONTRACTS = [
@@ -264,26 +368,9 @@ const CONTRACTS = [
   { key: 'weekend-sera', label: 'Weekend / sera' },
 ];
 
-const COMUNI = [
-  { key: 'tutti', label: 'Tutti i comuni' },
-  { key: 'brescia', label: 'Brescia' },
-  { key: 'rezzato', label: 'Rezzato' },
-  { key: 'botticino', label: 'Botticino' },
-  { key: 'san-zeno-naviglio', label: 'San Zeno Naviglio' },
-  { key: 'castenedolo', label: 'Castenedolo' },
-  { key: 'bagnolo-mella', label: 'Bagnolo Mella' },
-  { key: 'mazzano', label: 'Mazzano' },
-  { key: 'concesio', label: 'Concesio' },
-  { key: 'bovezzo', label: 'Bovezzo' },
-  { key: 'collebeato', label: 'Collebeato' },
-  { key: 'nuvolento', label: 'Nuvolento' },
-  { key: 'nuvolera', label: 'Nuvolera' },
-];
-
 const SOURCES = [
   { key: 'tutte', label: 'Tutte le fonti' },
   { key: 'indeed', label: 'Indeed' },
-  { key: 'infojobs', label: 'InfoJobs' },
   { key: 'subito', label: 'Subito.it' },
   { key: 'bakeca', label: 'Bakeca' },
   { key: 'adecco', label: 'Adecco' },
@@ -293,11 +380,17 @@ const SOURCES = [
   { key: 'linkedin', label: 'LinkedIn' },
 ];
 
+let ROLES = [{ key: 'tutti', label: 'Tutti' }, ...FALLBACK_BUILTIN_ROLES];
+let COMUNI = [{ key: 'tutti', label: 'Tutti i comuni' }, ...FALLBACK_COMUNI];
+let comuneDistance = new Map(FALLBACK_COMUNI.map(c => [c.key, c.distanceKm]));
+let customRoles = [];
+
 const state = {
   role: localStorage.getItem('lb_role') || 'tutti',
   contract: localStorage.getItem('lb_contract') || 'indifferente',
   comune: localStorage.getItem('lb_comune') || 'tutti',
   source: localStorage.getItem('lb_source') || 'tutte',
+  maxDistanceKm: parseInt(localStorage.getItem('lb_maxDistance'), 10) || 20,
   newOnly: false,
   salaryOnly: false,
   search: '',
@@ -350,6 +443,9 @@ function matchesFilters(listing) {
       listing.contractType !== 'indifferente' && listing.contractType !== state.contract) return false;
   if (state.comune !== 'tutti' && listing.comune !== state.comune) return false;
   if (state.source !== 'tutte' && listing.source !== state.source) return false;
+  const dist = comuneDistance.get(listing.comune);
+  // Fail-open: un comune sconosciuto non fa sparire l'annuncio per un problema tecnico invisibile.
+  if (dist !== undefined && dist > state.maxDistanceKm) return false;
   if (state.newOnly && !isNewToday(listing)) return false;
   if (state.salaryOnly && !(listing.salary && listing.salary.trim())) return false;
   if (state.search) {
@@ -464,9 +560,24 @@ document.getElementById('searchBox').addEventListener('input', function (e) {
   renderList();
 });
 
-renderChips(document.getElementById('roleFilters'), ROLES, state.role, pickRole);
+const distanceSlider = document.getElementById('distanceSlider');
+const distanceValue = document.getElementById('distanceValue');
+distanceSlider.value = state.maxDistanceKm;
+distanceValue.textContent = state.maxDistanceKm;
+distanceSlider.addEventListener('input', function () {
+  state.maxDistanceKm = parseInt(this.value, 10);
+  distanceValue.textContent = state.maxDistanceKm;
+  localStorage.setItem('lb_maxDistance', String(state.maxDistanceKm));
+  renderList();
+});
+
+function renderRoleFilterChips() {
+  renderChips(document.getElementById('roleFilters'), ROLES, state.role, pickRole);
+}
+function renderComuneFilterChips() {
+  renderChips(document.getElementById('comuneFilters'), COMUNI, state.comune, pickComune);
+}
 renderChips(document.getElementById('contractFilters'), CONTRACTS, state.contract, pickContract);
-renderChips(document.getElementById('comuneFilters'), COMUNI, state.comune, pickComune);
 renderChips(document.getElementById('sourceFilters'), SOURCES, state.source, pickSource);
 
 function loadData() {
@@ -486,7 +597,113 @@ function loadData() {
     });
 }
 
-loadData();
+/* --- Ruoli/comuni caricati da roles.json / comuni.json ---
+   Queste due chiamate popolano ROLES/COMUNI/comuneDistance con i dati reali (aggiunti
+   in futuro tramite il form "Aggiungi mansione" o rigenerati per comuni.json). Se il
+   caricamento fallisce, restano attivi i valori di riserva già impostati sopra. */
+function loadRoles() {
+  return fetch('./roles.json?_=' + Date.now())
+    .then(r => r.json())
+    .then(rolesFile => {
+      customRoles = Array.isArray(rolesFile.custom) ? rolesFile.custom : [];
+      const builtin = Array.isArray(rolesFile.builtin) && rolesFile.builtin.length
+        ? rolesFile.builtin : FALLBACK_BUILTIN_ROLES;
+      ROLES = [{ key: 'tutti', label: 'Tutti' }, ...builtin, ...customRoles];
+      renderRoleFilterChips();
+      renderCustomRoleList();
+    })
+    .catch(() => { /* resta il valore di riserva */ });
+}
+function loadComuni() {
+  return fetch('./comuni.json?_=' + Date.now())
+    .then(r => r.json())
+    .then(comuniFile => {
+      const list = Array.isArray(comuniFile) && comuniFile.length ? comuniFile : FALLBACK_COMUNI;
+      COMUNI = [{ key: 'tutti', label: 'Tutti i comuni' }, ...list];
+      comuneDistance = new Map(list.map(c => [c.key, c.distanceKm]));
+      renderComuneFilterChips();
+    })
+    .catch(() => { /* resta il valore di riserva */ });
+}
+
+Promise.all([loadRoles(), loadComuni()]).then(loadData);
+
+/* --- Aggiungi/rimuovi mansione (Worker Cloudflare, stessa protezione del tasto "Aggiorna ora") --- */
+const newRoleInput = document.getElementById('newRoleInput');
+const addRoleBtn = document.getElementById('addRoleBtn');
+const roleStatus = document.getElementById('roleStatus');
+const customRoleList = document.getElementById('customRoleList');
+
+function renderCustomRoleList() {
+  if (customRoles.length === 0) {
+    customRoleList.innerHTML = '<span style="color:var(--text-dim);font-size:0.85rem;">Nessuna mansione aggiunta finora.</span>';
+    return;
+  }
+  customRoleList.innerHTML = '';
+  customRoles.forEach(r => {
+    const chip = document.createElement('span');
+    chip.className = 'custom-role-chip';
+    const label = document.createElement('span');
+    label.textContent = r.label;
+    const removeBtn = document.createElement('button');
+    removeBtn.type = 'button';
+    removeBtn.textContent = '✕';
+    removeBtn.title = 'Rimuovi ' + r.label;
+    removeBtn.addEventListener('click', () => handleRemoveRole(r.key, r.label));
+    chip.appendChild(label);
+    chip.appendChild(removeBtn);
+    customRoleList.appendChild(chip);
+  });
+}
+
+async function callWorker(payload) {
+  const res = await fetch(REFRESH_WORKER_URL, { method: 'POST', body: JSON.stringify(payload) });
+  const data = await res.json().catch(() => ({}));
+  return { ok: res.ok && data.ok, data };
+}
+
+async function handleAddRole() {
+  const label = newRoleInput.value.trim();
+  if (!label) return;
+  addRoleBtn.disabled = true;
+  newRoleInput.disabled = true;
+  roleStatus.textContent = 'Aggiunta in corso…';
+  try {
+    const { ok, data } = await callWorker({ action: 'add_role', label });
+    if (ok) {
+      roleStatus.textContent = data.noop
+        ? 'Mansione già presente.'
+        : 'Aggiunta! I nuovi annunci arriveranno a breve.';
+      newRoleInput.value = '';
+      await loadRoles();
+    } else {
+      roleStatus.textContent = 'Non sono riuscita ad aggiungerla, riprova più tardi.';
+    }
+  } catch (e) {
+    roleStatus.textContent = 'Non sono riuscita ad aggiungerla, riprova più tardi.';
+  } finally {
+    addRoleBtn.disabled = false;
+    newRoleInput.disabled = false;
+  }
+}
+
+async function handleRemoveRole(key, label) {
+  roleStatus.textContent = 'Rimozione di "' + label + '" in corso…';
+  try {
+    const { ok } = await callWorker({ action: 'remove_role', key });
+    roleStatus.textContent = ok
+      ? 'Rimossa. Gli annunci per questa mansione spariranno al prossimo aggiornamento.'
+      : 'Non sono riuscita a rimuoverla, riprova più tardi.';
+    if (ok) await loadRoles();
+  } catch (e) {
+    roleStatus.textContent = 'Non sono riuscita a rimuoverla, riprova più tardi.';
+  }
+}
+
+addRoleBtn.addEventListener('click', handleAddRole);
+newRoleInput.addEventListener('keydown', function (e) {
+  if (e.key === 'Enter') handleAddRole();
+});
 
 /* --- Tasto "Aggiorna ora" ---
    Chiama un piccolo intermediario (Cloudflare Worker) che a sua volta fa scattare
