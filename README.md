@@ -45,31 +45,47 @@ giorno da una routine cloud (Claude schedule/RemoteTrigger), più a comando tram
   Gira nella sandbox cloud "CCR" di Claude, che **blocca l'accesso diretto** (WebFetch) a
   tutti i domini dei portali di lavoro — la routine usa quindi solo gli snippet di
   WebSearch, non apre mai le singole pagine annuncio.
-- **Tasto "Aggiorna ora"** (in `index.html`): chiama `POST /repos/osdgdt/parsing_web/dispatches`
-  con `event_type: "refresh-requested"`, usando un fine-grained Personal Access Token
-  incorporato nel codice JS della pagina, con permesso **Contents: Read and write** limitato
-  a questo solo repository (è il permesso minimo che GitHub richiede per questo endpoint,
-  non esiste un permesso più granulare "solo dispatch"). Un webhook trigger collegato alla
-  routine (`RemoteTrigger action=create_webhook_trigger`, evento `repository_dispatch`) fa
-  scattare la stessa routine giornaliera. Protezioni anti-abuso: cooldown di 15 minuti lato
-  pagina (solo UX, non sicurezza) + guardia lato routine (passo 0 del prompt: se
-  `lastUpdated` ha meno di 15 minuti, la routine si ferma subito senza fare nulla) — questa
-  seconda guardia è la vera protezione contro chiamate ripetute all'API.
-  - **Token**: creato manualmente su github.com (Settings, poi Developer settings, poi
-    Fine-grained tokens), scadenza consigliata 90 giorni. **Data di creazione/scadenza da
-    annotare qui una volta creato.** Se scade, il tasto smette di funzionare ma la routine
-    giornaliera continua regolarmente (usa la Claude GitHub App, non questo token).
-  - **Rischio noto e accettato**: essendo nel codice JS di una pagina pubblica, chiunque
-    legga il sorgente della pagina potrebbe estrarre il token e usarlo per scrivere
-    direttamente nel repository (non solo per lanciare aggiornamenti), perché il permesso
-    concesso è più ampio di un ipotetico permesso "solo dispatch" che GitHub non offre. Il
-    repository non contiene dati sensibili; un'eventuale manomissione sarebbe comunque
-    visibile e reversibile nella cronologia git. Non è stata aggiunta una protezione sul
-    branch `main` per bloccare questo scenario: configurarla in modo sicuro richiederebbe
-    identificare con precisione le identità con cui la routine e la GitHub Action fanno
-    push, con il rischio concreto di bloccare per errore l'automazione legittima — un
-    rischio giudicato non proporzionato al beneficio per un sito pubblico a basso rischio
-    come questo.
+- **Tasto "Aggiorna ora"** (in `index.html`): chiama un piccolo **Cloudflare Worker**
+  pubblico (`https://web-parser.roberto-modonesi1.workers.dev`, account Cloudflare di
+  Roberto) con un semplice `POST`, senza header o corpo. Il Worker (codice sorgente in
+  `cloudflare-worker.js`, incollato manualmente nell'editor Cloudflare — non è collegato
+  automaticamente a questo repo) usa un token GitHub salvato come **secret** nelle sue
+  impostazioni (Settings → Variables and Secrets → `GITHUB_PAT`, mai nel codice né in
+  questo repository) per aggiornare `trigger.json` sul branch dedicato `refresh-trigger`
+  tramite la Contents API di GitHub. Un webhook trigger collegato alla routine
+  (`RemoteTrigger action=create_webhook_trigger`, evento `push`, scope l'intero repository)
+  fa scattare la stessa routine giornaliera ad ogni push su qualsiasi branch — non solo su
+  `refresh-trigger` (un tentativo di limitarlo con `filter.ref` è stato accettato dalla API
+  ma silenziosamente ignorato: verificato empiricamente che un push su `main` fa comunque
+  scattare una nuova esecuzione).
+  - **Perché non un token incorporato direttamente in `index.html`** (approccio tentato
+    per primo): **GitHub revoca automaticamente qualsiasi suo Personal Access Token
+    rilevato in un repository pubblico**, pochi secondi dopo il push, indipendentemente
+    dal fatto che la protezione "push cannot contain secrets" venga superata manualmente.
+    È una misura di sicurezza nativa di GitHub (parte del suo stesso "secret scanning
+    partner program"), non aggirabile: qualunque token ci si mettesse morirebbe
+    all'istante. Da qui la necessità del Worker come intermediario — il token vive solo
+    lato server Cloudflare, mai in codice committato pubblicamente.
+  - Protezioni anti-abuso: cooldown di 15 minuti lato pagina (solo UX, mostra un conto
+    alla rovescia, non è una barriera reale dato che il Worker è un endpoint pubblico) +
+    guardia lato routine (passo 0 del prompt: se `lastUpdated` ha meno di 15 minuti,
+    la routine si ferma subito senza fare ricerche né commit) — questa seconda guardia è
+    la vera protezione contro chiamate ripetute, e copre anche i doppi/tripli scatti
+    "a cascata" causati dal webhook non filtrato per branch (ogni push, incluso quello
+    della routine stessa o della GitHub Action di verifica link, fa ripartire una nuova
+    esecuzione che però si ferma da sola in ~15 secondi se troppo ravvicinata — comportamento
+    verificato dal vivo, inclusa la gestione automatica di un conflitto di push tra due
+    esecuzioni quasi simultanee, risolto dalla routine stessa con fetch + cherry-pick).
+  - **Token nel Worker**: fine-grained PAT, permesso Contents: Read and write, limitato al
+    solo repository `parsing_web`, scadenza consigliata 90 giorni (**da annotare qui la
+    data una volta nota**). Essendo solo nelle impostazioni del Worker (mai in un repository
+    git, pubblico o privato), non è soggetto alla revoca automatica di GitHub descritta
+    sopra. Se scade, il tasto smette di funzionare ma la routine giornaliera continua
+    regolarmente (usa la Claude GitHub App, non questo token).
+  - **Nota**: durante il primo tentativo di setup è stato creato per errore anche un
+    progetto Cloudflare **Pages** (non Workers) collegato al repository, all'indirizzo
+    `parsing-web.roberto-modonesi1.workers.dev` — inutilizzato, può essere eliminato dalla
+    dashboard Cloudflare quando comodo (nessun impatto se lasciato lì).
 - **Verifica link** (`.github/workflows/verify-links.yml` + `scripts/verify_links.py`):
   gira su un runner GitHub Actions normale (internet vero, diverso dalla sandbox della
   routine), automaticamente ad ogni push su `main` che tocca `data.json`. Per ogni annuncio:
@@ -96,5 +112,10 @@ GitHub Pages servito dal branch `main`, root (`/`). Live su
 - Per modificare gli schemi URL riconosciuti nella verifica link: `scripts/verify_links.py`,
   dizionario `SPECIFIC_LISTING_PATTERNS`.
 - Per ruotare il token del tasto "Aggiorna ora": creare un nuovo fine-grained PAT (stesso
-  permesso, stesso repository), sostituire il valore di `REFRESH_TOKEN` in `index.html`,
-  fare commit/push, revocare il vecchio token su github.com.
+  permesso, stesso repository), aggiornare il secret `GITHUB_PAT` nelle impostazioni del
+  Worker Cloudflare (Settings → Variables and Secrets), poi revocare il vecchio token su
+  github.com. Non serve toccare `index.html` né fare alcun commit.
+- Per modificare la logica del tasto "Aggiorna ora": codice sorgente in
+  `cloudflare-worker.js` in questo repo (solo per riferimento/versionamento — va poi
+  incollato manualmente nell'editor del Worker su dash.cloudflare.com e ripubblicato, non
+  c'è deploy automatico da qui).
