@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-01T23:10:46Z",
+  "lastUpdated": "2026-09-02T00:07:06Z",
   "listings": [
     {
       "id": "https://www.infojobs.it/brescia/barista-banconista/of-i02c2d0eee849f7aa23ac67d6082291",
@@ -111,7 +111,7 @@
       "datePosted": null,
       "description": "Bar/pasticceria presso il centro commerciale IperTosano di Mazzano cerca personale barista e cameriere con disponibilità immediata.",
       "firstSeen": "2026-09-01T15:47:19Z",
-      "lastSeen": "2026-09-01T23:10:46Z"
+      "lastSeen": "2026-09-02T00:07:06Z"
     },
     {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
@@ -127,7 +127,7 @@
       "datePosted": null,
       "description": "Adecco ricerca commessa/o per supermercato a Brescia, stage retail/GDO finalizzato all'inserimento.",
       "firstSeen": "2026-09-01T23:10:46Z",
-      "lastSeen": "2026-09-01T23:10:46Z",
+      "lastSeen": "2026-09-02T00:07:06Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -144,8 +144,72 @@
       "datePosted": null,
       "description": "Adecco ricerca barista con esperienza per posizione full-time presso un bar all'interno di un punto vendita a Brescia.",
       "firstSeen": "2026-09-01T23:10:46Z",
-      "lastSeen": "2026-09-01T23:10:46Z",
+      "lastSeen": "2026-09-02T00:07:06Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-barista-rezzato-pt",
+      "role": "barista",
+      "title": "Barista part-time - Rezzato",
+      "company": null,
+      "location": "Rezzato",
+      "comune": "rezzato",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "18.000-22.000 €/anno",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad ricerca barista part-time (24, 28 o 32 ore settimanali) a Rezzato, richiesto circa 1 anno di esperienza.",
+      "firstSeen": "2026-09-02T00:07:06Z",
+      "lastSeen": "2026-09-02T00:07:06Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "role": "cameriera",
+      "title": "Cameriere/a a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad ricerca camerieri/e per azienda di ristorazione fast casual a Brescia, persone dinamiche e a proprio agio nel contatto con il cliente.",
+      "firstSeen": "2026-09-02T00:07:06Z",
+      "lastSeen": "2026-09-02T00:07:06Z"
+    },
+    {
+      "id": "infojobs-bar-cameriere-brescia-centro",
+      "role": "cameriera",
+      "title": "Cameriere/a - Bar centro Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.infojobs.it/offerte-lavoro/lombardia-brescia/bar",
+      "source": "infojobs",
+      "salary": "8-13 €/ora",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Bar in centro a Brescia cerca cameriere/a, retribuzione da 8 a 13 €/ora, contratto inizialmente a termine con possibilità di conferma.",
+      "firstSeen": "2026-09-02T00:07:06Z",
+      "lastSeen": "2026-09-02T00:07:06Z"
+    },
+    {
+      "id": "bakeca-cameriere-verso-cocktail-club-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Verso Cocktail Club",
+      "company": "Verso Cocktail Club",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriera",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Verso Cocktail Club, cocktail bar con cucina nel centro di Brescia, cerca cameriere/a solare e professionale per il servizio ai tavoli.",
+      "firstSeen": "2026-09-02T00:07:06Z",
+      "lastSeen": "2026-09-02T00:07:06Z"
     }
   ]
 }
