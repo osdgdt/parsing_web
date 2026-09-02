@@ -489,12 +489,12 @@ function loadData() {
 loadData();
 
 /* --- Tasto "Aggiorna ora" ---
-   Chiama l'API GitHub per far scattare subito una nuova esecuzione della routine di
-   ricerca, invece di aspettare l'aggiornamento automatico del mattino. Il token qui sotto
-   è volutamente limitato al solo repository di questa pagina (nessun altro accesso). */
-const GH_OWNER = 'osdgdt';
-const GH_REPO = 'parsing_web';
-const REFRESH_TOKEN = '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';
+   Chiama un piccolo intermediario (Cloudflare Worker) che a sua volta fa scattare
+   subito una nuova esecuzione della routine di ricerca, invece di aspettare
+   l'aggiornamento automatico del mattino. Il token GitHub necessario NON è mai in
+   questo codice: vive solo lato server nel Worker (GitHub disattiva automaticamente
+   qualsiasi suo token trovato in un repository pubblico, quindi non può stare qui). */
+const REFRESH_WORKER_URL = 'https://web-parser.roberto-modonesi1.workers.dev';
 const REFRESH_COOLDOWN_MS = 15 * 60 * 1000;
 
 const refreshBtn = document.getElementById('refreshBtn');
@@ -541,43 +541,15 @@ function pollForFreshData(previousLastUpdated) {
   }, 15000);
 }
 
-const TRIGGER_BRANCH = 'refresh-trigger';
-const TRIGGER_FILE = 'trigger.json';
-
 async function handleRefreshClick() {
   if (refreshCooldownRemaining() > 0) return;
-  if (!REFRESH_TOKEN || REFRESH_TOKEN.indexOf('INCOLLA') === 0) {
-    refreshStatus.textContent = 'Aggiornamento manuale non ancora configurato.';
-    return;
-  }
   const previousLastUpdated = state.lastUpdated;
   refreshBtn.disabled = true;
   refreshStatus.textContent = 'Richiesta inviata…';
-  const apiHeaders = {
-    'Authorization': 'Bearer ' + REFRESH_TOKEN,
-    'Accept': 'application/vnd.github+json',
-    'X-GitHub-Api-Version': '2022-11-28',
-  };
   try {
-    // Pushing a commit to a dedicated branch is what actually fires the search
-    // routine (a repository_dispatch event turned out not to reliably trigger
-    // it) - the GitHub Contents API needs the current file's sha to update it.
-    const contentsUrl = `https://api.github.com/repos/${GH_OWNER}/${GH_REPO}/contents/${TRIGGER_FILE}`;
-    const getRes = await fetch(`${contentsUrl}?ref=${TRIGGER_BRANCH}`, { headers: apiHeaders });
-    if (!getRes.ok) throw new Error('lettura trigger.json fallita');
-    const currentFile = await getRes.json();
-    const newContent = btoa(JSON.stringify({ lastTriggeredAt: new Date().toISOString() }, null, 2) + '\n');
-    const putRes = await fetch(contentsUrl, {
-      method: 'PUT',
-      headers: apiHeaders,
-      body: JSON.stringify({
-        message: 'Richiesta aggiornamento dal tasto sulla pagina',
-        content: newContent,
-        sha: currentFile.sha,
-        branch: TRIGGER_BRANCH,
-      }),
-    });
-    if (putRes.ok) {
+    const res = await fetch(REFRESH_WORKER_URL, { method: 'POST' });
+    const data = await res.json().catch(() => ({}));
+    if (res.ok && data.ok) {
       localStorage.setItem('lb_lastRefreshClick', String(Date.now()));
       refreshStatus.textContent = 'Ricerca avviata, ci vogliono un paio di minuti…';
       pollForFreshData(previousLastUpdated);
