@@ -1,0 +1,11 @@
+{
+  "builtin": [
+    { "key": "cameriera", "label": "Cameriera" },
+    { "key": "commessa", "label": "Commessa" },
+    { "key": "barista", "label": "Barista" },
+    { "key": "cassiera", "label": "Cassiera" },
+    { "key": "cucina", "label": "Cucina" },
+    { "key": "reception", "label": "Reception" }
+  ],
+  "custom": []
+}

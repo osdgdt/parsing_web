@@ -1,0 +1,261 @@
+[
+  {
+    "key": "collebeato",
+    "label": "Collebeato",
+    "lat": 45.5813147,
+    "lon": 10.2102711,
+    "distanceKm": 2.7
+  },
+  {
+    "key": "brescia",
+    "label": "Brescia",
+    "lat": 45.5398022,
+    "lon": 10.2200214,
+    "distanceKm": 2.9
+  },
+  {
+    "key": "cellatica",
+    "label": "Cellatica",
+    "lat": 45.5841062,
+    "lon": 10.1802449,
+    "distanceKm": 3.0
+  },
+  {
+    "key": "gussago",
+    "label": "Gussago",
+    "lat": 45.5926638,
+    "lon": 10.15345,
+    "distanceKm": 4.9
+  },
+  {
+    "key": "roncadelle",
+    "label": "Roncadelle",
+    "lat": 45.5341255,
+    "lon": 10.1422742,
+    "distanceKm": 5.0
+  },
+  {
+    "key": "bovezzo",
+    "label": "Bovezzo",
+    "lat": 45.5925731,
+    "lon": 10.2435207,
+    "distanceKm": 5.3
+  },
+  {
+    "key": "concesio",
+    "label": "Concesio",
+    "lat": 45.6113014,
+    "lon": 10.2102655,
+    "distanceKm": 5.9
+  },
+  {
+    "key": "castegnato",
+    "label": "Castegnato",
+    "lat": 45.5605302,
+    "lon": 10.1158587,
+    "distanceKm": 6.2
+  },
+  {
+    "key": "san-zeno-naviglio",
+    "label": "San Zeno Naviglio",
+    "lat": 45.4915723,
+    "lon": 10.2170575,
+    "distanceKm": 7.7
+  },
+  {
+    "key": "castel-mella",
+    "label": "Castel Mella",
+    "lat": 45.4995922,
+    "lon": 10.1450083,
+    "distanceKm": 7.7
+  },
+  {
+    "key": "nave",
+    "label": "Nave",
+    "lat": 45.5860247,
+    "lon": 10.2878573,
+    "distanceKm": 7.8
+  },
+  {
+    "key": "rodengo-saiano",
+    "label": "Rodengo-Saiano",
+    "lat": 45.5976458,
+    "lon": 10.1094679,
+    "distanceKm": 7.9
+  },
+  {
+    "key": "villa-carcina",
+    "label": "Villa Carcina",
+    "lat": 45.632214,
+    "lon": 10.1944422,
+    "distanceKm": 8.1
+  },
+  {
+    "key": "flero",
+    "label": "Flero",
+    "lat": 45.4828867,
+    "lon": 10.1750082,
+    "distanceKm": 8.6
+  },
+  {
+    "key": "botticino",
+    "label": "Botticino",
+    "lat": 45.5360232,
+    "lon": 10.3009461,
+    "distanceKm": 8.7
+  },
+  {
+    "key": "ospitaletto",
+    "label": "Ospitaletto",
+    "lat": 45.5552224,
+    "lon": 10.073946,
+    "distanceKm": 9.4
+  },
+  {
+    "key": "torbole-casaglia",
+    "label": "Torbole Casaglia",
+    "lat": 45.5053097,
+    "lon": 10.1024645,
+    "distanceKm": 9.4
+  },
+  {
+    "key": "borgosatollo",
+    "label": "Borgosatollo",
+    "lat": 45.4771826,
+    "lon": 10.2407303,
+    "distanceKm": 9.8
+  },
+  {
+    "key": "rezzato",
+    "label": "Rezzato",
+    "lat": 45.5142403,
+    "lon": 10.3168627,
+    "distanceKm": 10.7
+  },
+  {
+    "key": "travagliato",
+    "label": "Travagliato",
+    "lat": 45.5194808,
+    "lon": 10.0705969,
+    "distanceKm": 10.7
+  },
+  {
+    "key": "passirano",
+    "label": "Passirano",
+    "lat": 45.599487,
+    "lon": 10.0649179,
+    "distanceKm": 11.1
+  },
+  {
+    "key": "poncarale",
+    "label": "Poncarale",
+    "lat": 45.4606628,
+    "lon": 10.1739092,
+    "distanceKm": 11.1
+  },
+  {
+    "key": "lumezzane",
+    "label": "Lumezzane",
+    "lat": 45.6499145,
+    "lon": 10.2615018,
+    "distanceKm": 11.3
+  },
+  {
+    "key": "sarezzo",
+    "label": "Sarezzo",
+    "lat": 45.6618702,
+    "lon": 10.1958762,
+    "distanceKm": 11.4
+  },
+  {
+    "key": "caino",
+    "label": "Caino",
+    "lat": 45.6188386,
+    "lon": 10.3220276,
+    "distanceKm": 11.9
+  },
+  {
+    "key": "castenedolo",
+    "label": "Castenedolo",
+    "lat": 45.4715763,
+    "lon": 10.29831,
+    "distanceKm": 12.7
+  },
+  {
+    "key": "capriano-del-colle",
+    "label": "Capriano del Colle",
+    "lat": 45.4548691,
+    "lon": 10.1303478,
+    "distanceKm": 12.7
+  },
+  {
+    "key": "serle",
+    "label": "Serle",
+    "lat": 45.576656,
+    "lon": 10.359983,
+    "distanceKm": 13.0
+  },
+  {
+    "key": "nuvolera",
+    "label": "Nuvolera",
+    "lat": 45.5380469,
+    "lon": 10.3602003,
+    "distanceKm": 13.1
+  },
+  {
+    "key": "azzano-mella",
+    "label": "Azzano Mella",
+    "lat": 45.454722,
+    "lon": 10.1168233,
+    "distanceKm": 13.1
+  },
+  {
+    "key": "berlingo",
+    "label": "Berlingo",
+    "lat": 45.50298,
+    "lon": 10.043665,
+    "distanceKm": 13.4
+  },
+  {
+    "key": "mazzano",
+    "label": "Mazzano",
+    "lat": 45.504384,
+    "lon": 10.3576099,
+    "distanceKm": 14.1
+  },
+  {
+    "key": "bagnolo-mella",
+    "label": "Bagnolo Mella",
+    "lat": 45.429079,
+    "lon": 10.18437,
+    "distanceKm": 14.5
+  },
+  {
+    "key": "nuvolento",
+    "label": "Nuvolento",
+    "lat": 45.5459737,
+    "lon": 10.3845484,
+    "distanceKm": 14.8
+  },
+  {
+    "key": "paitone",
+    "label": "Paitone",
+    "lat": 45.5533455,
+    "lon": 10.4009274,
+    "distanceKm": 16.1
+  },
+  {
+    "key": "prevalle",
+    "label": "Prevalle",
+    "lat": 45.5514816,
+    "lon": 10.421857,
+    "distanceKm": 17.7
+  },
+  {
+    "key": "ghedi",
+    "label": "Ghedi",
+    "lat": 45.4013599,
+    "lon": 10.2770637,
+    "distanceKm": 18.7
+  }
+]
