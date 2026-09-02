@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T00:07:06Z",
+  "lastUpdated": "2026-09-02T00:38:46Z",
   "listings": [
     {
       "id": "https://www.infojobs.it/brescia/barista-banconista/of-i02c2d0eee849f7aa23ac67d6082291",
@@ -180,6 +180,54 @@
       "firstSeen": "2026-09-02T00:07:06Z",
       "lastSeen": "2026-09-02T00:07:06Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.infojobs.it/brescia/barista/of-i04b2f472394c13880a6d20c2f772d8",
+      "role": "barista",
+      "title": "Barista a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.infojobs.it/brescia/barista/of-i04b2f472394c13880a6d20c2f772d8",
+      "source": "infojobs",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Annuncio InfoJobs per barista a Brescia.",
+      "firstSeen": "2026-09-02T00:38:46Z",
+      "lastSeen": "2026-09-02T00:38:46Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "role": "commessa",
+      "title": "Commessa/o Supermercato - Stage - Brescia (BS)",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Annuncio Adecco per commesso/a supermercato in stage a Brescia (GDO/retail).",
+      "firstSeen": "2026-09-02T00:38:46Z",
+      "lastSeen": "2026-09-02T00:38:46Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "role": "barista",
+      "title": "Barista - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Annuncio Adecco per barista a Brescia (bar, catering, personale di sala).",
+      "firstSeen": "2026-09-02T00:38:46Z",
+      "lastSeen": "2026-09-02T00:38:46Z"
     }
   ]
 }
