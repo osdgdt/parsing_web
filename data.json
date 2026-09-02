@@ -32,40 +32,6 @@
       "description": "Bar/pasticceria presso il centro commerciale IperTosano di Mazzano cerca personale barista e cameriere con disponibilità immediata.",
       "firstSeen": "2026-09-01T15:47:19Z",
       "lastSeen": "2026-09-02T00:07:06Z"
-    },
-    {
-      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "role": "commessa",
-      "title": "Commessa/o Supermercato - Stage - Brescia (BS)",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Annuncio Adecco per commesso/a supermercato in stage a Brescia (GDO/retail).",
-      "firstSeen": "2026-09-02T00:38:46Z",
-      "lastSeen": "2026-09-02T00:38:46Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Annuncio Adecco per barista a Brescia (bar, catering, personale di sala).",
-      "firstSeen": "2026-09-02T00:38:46Z",
-      "lastSeen": "2026-09-02T00:38:46Z",
-      "linkVerifyFailCount": 1
     }
   ]
 }
