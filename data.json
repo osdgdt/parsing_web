@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T05:16:42Z",
+  "lastUpdated": "2026-09-03T05:16:13Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Offerta di lavoro Adecco per barista a Brescia, settore bar/catering/personale di sala.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-02T05:16:42Z",
+      "lastSeen": "2026-09-03T05:16:13Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -64,7 +64,7 @@
       "datePosted": null,
       "description": "Offerta Randstad per cameriere/a a Brescia.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-02T05:16:42Z",
+      "lastSeen": "2026-09-03T05:16:13Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -81,7 +81,7 @@
       "datePosted": null,
       "description": "Randstad Brescia ricerca un/a barista per Autogrill Italia, azienda leader nella ristorazione con punti vendita in aeroporti, autostrade, stazioni.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-02T05:16:42Z",
+      "lastSeen": "2026-09-03T05:16:13Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -114,7 +114,7 @@
       "datePosted": null,
       "description": "Cocktail bar con cucina nel cuore di Brescia cerca cameriere/a solare e professionale.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-02T05:16:42Z",
+      "lastSeen": "2026-09-03T05:16:13Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -230,6 +230,134 @@
       "description": "Ricerca cameriere di sala, zona 25122 Brescia.",
       "firstSeen": "2026-09-02T05:16:42Z",
       "lastSeen": "2026-09-02T05:16:42Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "role": "cassiera",
+      "title": "Cassiera Full Time",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Gi Group ricerca cassiera full time a Brescia per negozio, gestione cassa ed emissione fatture, 40 ore settimanali con turni festivi a rotazione.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
+      "role": "cucina",
+      "title": "Cuoco/Aiuto Cuoco a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
+      "source": "randstad",
+      "salary": "€34.000 - €40.000 annui",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad ricerca cuoco/aiuto cuoco per ristorante di prestigio a Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
+      "role": "cucina",
+      "title": "Aiuto Cuoco Part Time Brescia",
+      "company": null,
+      "location": "Brescia (via Triumplina)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
+      "source": "randstad",
+      "salary": "€15.000 - €18.000 annui",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad ricerca aiuto cuoco part-time con turno serale in via Triumplina a Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/aiuto-cucina_brescia_2b58343a-900b-401e-91a4-f0d075266447/",
+      "role": "cucina",
+      "title": "Aiuto Cucina a Brescia",
+      "company": null,
+      "location": "Roncadelle (Elnos Shopping)",
+      "comune": "roncadelle",
+      "url": "https://www.randstad.it/offerte-lavoro/aiuto-cucina_brescia_2b58343a-900b-401e-91a4-f0d075266447/",
+      "source": "randstad",
+      "salary": "€15.000 - €18.000 annui",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad ricerca aiuto cucina part-time 20/24 ore settimanali presso il centro commerciale Elnos Shopping di Roncadelle.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.subito.it/offerte-lavoro/hostess-promoter-citta-di-brescia-brescia-575840794.htm",
+      "role": "reception",
+      "title": "Hostess & Promoter",
+      "company": "D Rec",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.subito.it/offerte-lavoro/hostess-promoter-citta-di-brescia-brescia-575840794.htm",
+      "source": "subito",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "D Rec ricerca hostess e promoter per attività in città di Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerte-lavoro?k=Hostess/Steward+di+Stazione+Ferroviaria&l=Brescia&display=5",
+      "role": "reception",
+      "title": "Hostess/Steward di Stazione Ferroviaria",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro?k=Hostess/Steward+di+Stazione+Ferroviaria&l=Brescia&display=5",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta Adecco per hostess/steward presso la stazione ferroviaria di Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerte-lavoro?k=Receptionist+concessionaria+auto&l=Brescia",
+      "role": "reception",
+      "title": "Receptionist concessionaria auto",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro?k=Receptionist+concessionaria+auto&l=Brescia",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta Adecco per receptionist presso concessionaria auto a Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerte-lavoro?k=Promoter+-+Brescia&l=Brescia&display=15",
+      "role": "reception",
+      "title": "Promoter - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro?k=Promoter+-+Brescia&l=Brescia&display=15",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta Adecco per promoter a Brescia.",
+      "firstSeen": "2026-09-03T05:16:13Z",
+      "lastSeen": "2026-09-03T05:16:13Z"
     }
   ]
 }
