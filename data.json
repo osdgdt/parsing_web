@@ -290,193 +290,6 @@
       "lastSeen": "2026-09-06T05:12:39Z"
     },
     {
-      "id": "randstad-lavapiatti-mompiano-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti/Aiuto cucina - Birrificio (Mompiano, Brescia)",
-      "company": null,
-      "location": "Mompiano, Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-personale-di-cucina/r-lavapiatti/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca lavapiatti/aiuto cucina per un birrificio in zona Mompiano (Brescia), part-time 12 ore concentrate nel weekend.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerte-lavoro?k=Promoter+-+Brescia&l=Brescia&display=15",
-      "role": "reception",
-      "title": "Promoter - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=Promoter+-+Brescia&l=Brescia&display=15",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerte Adecco per promoter a Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerte-lavoro?k=Lavapiatti+Hotel+Brescia&l=Brescia",
-      "role": "cucina",
-      "title": "Lavapiatti - Hotel Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=Lavapiatti+Hotel+Brescia&l=Brescia",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerte Adecco per lavapiatti presso struttura alberghiera di Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-barista-rezzato",
-      "role": "barista",
-      "title": "Barista - Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/r-barista/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "€18.000-22.000/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca barista part-time (24/28/32 ore) a Rezzato (BS), richiesto un anno di esperienza.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cameriera-weekend-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - locale (turni weekend sera)",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-addetti-alla-ristorazione-e-servizi-alberghieri/r-cameriere/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "€15.000-18.000/anno",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca cameriere/a part-time 12 ore settimanali, turni venerdì-sabato-domenica sera, ambiente giovane e informale, nessuna esperienza richiesta.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
-      "role": "reception",
-      "title": "Receptionist - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca receptionist a Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "role": "reception",
-      "title": "Hostess & Steward di Stazione Italo - Brescia",
-      "company": "Italo - Nuovo Trasporto Viaggiatori S.p.A.",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia Spa, filiale di Brescia, seleziona una figura di Hostess & Steward di Stazione per il cliente Italo presso la stazione di Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
-      "role": "reception",
-      "title": "Receptionist - Brescia (Gi Group)",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Gi Group ricerca receptionist a Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
-      "role": "cameriera",
-      "title": "Cameriera/Barista/Cassiera - part-time 4h",
-      "company": "In Job",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "In Job ricerca personale cameriera/barista/cassiera, contratto part-time 4 ore.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
-      "role": "cassiera",
-      "title": "Cassiera, Barista e Cameriera",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerta per cassiera, barista e cameriera nell'area di Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerte-lavoro?k=MACELLAIO+BANCONISTA&l=Brescia",
-      "role": "cucina",
-      "title": "Macellaio Banconista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=MACELLAIO+BANCONISTA&l=Brescia",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerte Adecco per macellaio banconista a Brescia.",
-      "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
       "role": "cassiera",
       "title": "Cassiera Full Time - Brescia",
@@ -490,7 +303,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca cassiera full time per punto vendita a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
@@ -506,7 +320,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista part-time per punto vendita a Roncadelle Sud.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-rodengo-saiano-brescia-barista/1036555/",
@@ -522,7 +337,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista a Rodengo Saiano.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/cuoco-per-centro-pasti-brescia_brescia_cb92b1d1-31ba-4333-9fe6-48a342a23bf9/",
@@ -538,7 +354,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cuoco per centro pasti a Brescia, turno spezzato full-time su 6 giorni a settimana, richiesti 2 anni di esperienza.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
@@ -554,7 +371,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca aiuto cuoco part-time in Via Triumplina, Brescia, richiesto 1 anno di esperienza.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/aiuto-cucina_brescia_2b58343a-900b-401e-91a4-f0d075266447/",
@@ -570,7 +388,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca aiuto cucina per azienda di ristorazione a Brescia, 35 ore settimanali dal lunedì al venerdì.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
@@ -586,7 +405,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cuoco/aiuto cuoco a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=Barista+all'interno+di+una+scuola+e+centro+educativo&l=Brescia",
@@ -602,7 +422,8 @@
       "datePosted": null,
       "description": "Adecco ricerca barista per bar interno di una scuola e centro educativo a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=Receptionist+concessionaria+auto&l=Brescia",
@@ -618,7 +439,8 @@
       "datePosted": null,
       "description": "Adecco ricerca receptionist per concessionaria auto a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=addetto/a+cucina+-+cameriere/a+ai+tavoli&l=Brescia&display=15",
@@ -634,7 +456,8 @@
       "datePosted": null,
       "description": "Adecco ricerca addetto/a cucina con mansioni anche di cameriere/a ai tavoli a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=Commessa/o+di+punto+vendita&l=Brescia&display=15",
@@ -650,7 +473,8 @@
       "datePosted": null,
       "description": "Adecco ricerca commessa/o di punto vendita a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=receptionist&l=Brescia",
@@ -666,7 +490,8 @@
       "datePosted": null,
       "description": "Adecco ricerca receptionist a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=Barista+-+Brescia&l=Brescia",
@@ -682,7 +507,8 @@
       "datePosted": null,
       "description": "Adecco ricerca barista a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-07T05:17:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "markas-mensa-lavapiatti-brescia",
