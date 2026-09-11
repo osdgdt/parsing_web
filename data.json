@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-10T05:13:17Z",
+  "lastUpdated": "2026-09-11T05:15:45Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -255,7 +255,7 @@
       "datePosted": null,
       "description": "Cigierre (Wiener Haus) ricerca responsabile di cucina per il punto vendita di Brescia Sorbanella.",
       "firstSeen": "2026-09-05T05:12:13Z",
-      "lastSeen": "2026-09-10T05:13:17Z"
+      "lastSeen": "2026-09-11T05:15:45Z"
     },
     {
       "id": "novotel-brescia2-lavapiatti-brescia",
@@ -271,7 +271,7 @@
       "datePosted": null,
       "description": "Novotel Brescia 2 ricerca personale lavapiatti.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-11T05:15:45Z"
     },
     {
       "id": "signorvino-lavapiatti-brescia",
@@ -287,7 +287,7 @@
       "datePosted": null,
       "description": "Signorvino Brescia ricerca lavapiatti per collaborare con il team di cucina, seguendo le procedure di igiene e sicurezza alimentare.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-06T05:12:39Z"
+      "lastSeen": "2026-09-11T05:15:45Z"
     },
     {
       "id": "markas-mensa-lavapiatti-brescia",
@@ -335,7 +335,7 @@
       "datePosted": null,
       "description": "Latteria 2.0, locale nel centro di Brescia, ricerca cassiere/a.",
       "firstSeen": "2026-09-09T05:15:03Z",
-      "lastSeen": "2026-09-10T05:13:17Z"
+      "lastSeen": "2026-09-11T05:15:45Z"
     },
     {
       "id": "adecco-barista-brescia-bar-catering",
@@ -351,7 +351,7 @@
       "datePosted": null,
       "description": "Adecco ricerca barista per bar all'interno di un punto vendita a Brescia.",
       "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-10T05:13:17Z",
+      "lastSeen": "2026-09-11T05:15:45Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -368,7 +368,7 @@
       "datePosted": null,
       "description": "Adecco ricerca commesso/a per supermercato a Brescia, stage retribuito nel settore GDO/retail.",
       "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-10T05:13:17Z",
+      "lastSeen": "2026-09-11T05:15:45Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -385,7 +385,7 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia **** a Castenedolo (BS) ricerca personale di sala/piano con possibilità di inserimento immediato.",
       "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-10T05:13:17Z",
+      "lastSeen": "2026-09-11T05:15:45Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -402,7 +402,7 @@
       "datePosted": null,
       "description": "Starbucks ricerca barista per il punto vendita presso il centro commerciale Elnos Shopping di Roncadelle.",
       "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-10T05:13:17Z",
+      "lastSeen": "2026-09-11T05:15:45Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -421,6 +421,70 @@
       "firstSeen": "2026-09-10T05:13:17Z",
       "lastSeen": "2026-09-10T05:13:17Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-receptionist-hotel-brescia",
+      "role": "reception",
+      "title": "Receptionist - Hotel Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Hospitality & Food ricerca receptionist per un hotel di prestigio a Brescia, richiesti almeno 2 anni di esperienza.",
+      "firstSeen": "2026-09-11T05:15:45Z",
+      "lastSeen": "2026-09-11T05:15:45Z"
+    },
+    {
+      "id": "randstad-barista-autogrill-brescia",
+      "role": "barista",
+      "title": "Barista - Autogrill",
+      "company": "Autogrill Italia",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia (divisione Hospitality & Food), ricerca barista per Autogrill Italia.",
+      "firstSeen": "2026-09-11T05:15:45Z",
+      "lastSeen": "2026-09-11T05:15:45Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "role": "cameriera",
+      "title": "Cameriere/a - Fast Casual Food",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca personale di sala/cameriere per un locale fast casual food a Brescia.",
+      "firstSeen": "2026-09-11T05:15:45Z",
+      "lastSeen": "2026-09-11T05:15:45Z"
+    },
+    {
+      "id": "randstad-aiutocuoco-weekend-mompiano-brescia",
+      "role": "cucina",
+      "title": "Aiuto Cuoco/Lavapiatti weekend - Mompiano",
+      "company": null,
+      "location": "Brescia (Mompiano)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-cuochi/r-aiuto-cuoco/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Randstad ricerca aiuto cuoco/lavapiatti per un brewpub in zona Mompiano (Brescia), lavoro nel weekend.",
+      "firstSeen": "2026-09-11T05:15:45Z",
+      "lastSeen": "2026-09-11T05:15:45Z"
     }
   ]
 }
