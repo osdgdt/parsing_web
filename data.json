@@ -338,91 +338,6 @@
       "lastSeen": "2026-09-11T05:15:45Z"
     },
     {
-      "id": "adecco-barista-brescia-bar-catering",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca barista per bar all'interno di un punto vendita a Brescia.",
-      "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-11T05:15:45Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "adecco-commessa-stage-supermercato-brescia",
-      "role": "commessa",
-      "title": "Commessa/o Supermercato - Stage",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca commesso/a per supermercato a Brescia, stage retribuito nel settore GDO/retail.",
-      "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-11T05:15:45Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bluhotelbrixia-cameriera-castenedolo",
-      "role": "cameriera",
-      "title": "Junior Waitstaff Sala - Blu Hotel Brixia",
-      "company": "Blu Hotel Brixia",
-      "location": "Castenedolo",
-      "comune": "castenedolo",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Blu Hotel Brixia **** a Castenedolo (BS) ricerca personale di sala/piano con possibilità di inserimento immediato.",
-      "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-11T05:15:45Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "starbucks-elnos-barista-roncadelle",
-      "role": "barista",
-      "title": "Barista - Starbucks Elnos Shopping",
-      "company": "Starbucks",
-      "location": "Roncadelle (Elnos Shopping)",
-      "comune": "roncadelle",
-      "url": "https://it.linkedin.com/jobs/barista-offerte-di-lavoro",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Starbucks ricerca barista per il punto vendita presso il centro commerciale Elnos Shopping di Roncadelle.",
-      "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-11T05:15:45Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-mensa-cucina-torbole-casaglia",
-      "role": "cucina",
-      "title": "Addetto/a centro cottura - mensa",
-      "company": null,
-      "location": "Torbole Casaglia",
-      "comune": "torbole-casaglia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-cuochi/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad ricerca addetto/a al centro cottura/mensa a Torbole Casaglia, 30 ore settimanali dal lunedì al venerdì (6:00-11:00).",
-      "firstSeen": "2026-09-10T05:13:17Z",
-      "lastSeen": "2026-09-10T05:13:17Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "randstad-receptionist-hotel-brescia",
       "role": "reception",
       "title": "Receptionist - Hotel Brescia",
@@ -436,7 +351,8 @@
       "datePosted": null,
       "description": "Randstad Hospitality & Food ricerca receptionist per un hotel di prestigio a Brescia, richiesti almeno 2 anni di esperienza.",
       "firstSeen": "2026-09-11T05:15:45Z",
-      "lastSeen": "2026-09-11T05:15:45Z"
+      "lastSeen": "2026-09-11T05:15:45Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-barista-autogrill-brescia",
@@ -452,7 +368,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia (divisione Hospitality & Food), ricerca barista per Autogrill Italia.",
       "firstSeen": "2026-09-11T05:15:45Z",
-      "lastSeen": "2026-09-11T05:15:45Z"
+      "lastSeen": "2026-09-11T05:15:45Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -468,7 +385,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca personale di sala/cameriere per un locale fast casual food a Brescia.",
       "firstSeen": "2026-09-11T05:15:45Z",
-      "lastSeen": "2026-09-11T05:15:45Z"
+      "lastSeen": "2026-09-11T05:15:45Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-aiutocuoco-weekend-mompiano-brescia",
@@ -484,7 +402,8 @@
       "datePosted": null,
       "description": "Randstad ricerca aiuto cuoco/lavapiatti per un brewpub in zona Mompiano (Brescia), lavoro nel weekend.",
       "firstSeen": "2026-09-11T05:15:45Z",
-      "lastSeen": "2026-09-11T05:15:45Z"
+      "lastSeen": "2026-09-11T05:15:45Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
