@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-12T05:12:11Z",
+  "lastUpdated": "2026-09-13T05:10:16Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -15,7 +15,7 @@
       "datePosted": null,
       "description": "Ricerca lavapiatti con orario spezzato da mercoledì a domenica (11-14 e 18-22), contratto a termine con inizio immediato.",
       "firstSeen": "2026-09-01T14:58:08Z",
-      "lastSeen": "2026-09-12T05:12:11Z"
+      "lastSeen": "2026-09-13T05:10:16Z"
     },
     {
       "id": "indeed-ipertosano-mazzano-barista-cameriere",
@@ -287,7 +287,7 @@
       "datePosted": null,
       "description": "Signorvino Brescia ricerca lavapiatti per collaborare con il team di cucina, seguendo le procedure di igiene e sicurezza alimentare.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-12T05:12:11Z"
+      "lastSeen": "2026-09-13T05:10:16Z"
     },
     {
       "id": "markas-mensa-lavapiatti-brescia",
@@ -351,7 +351,7 @@
       "datePosted": null,
       "description": "Adecco Italia ricerca un/a barista full-time per un bar all'interno di un punto vendita a Brescia.",
       "firstSeen": "2026-09-12T05:12:11Z",
-      "lastSeen": "2026-09-12T05:12:11Z",
+      "lastSeen": "2026-09-13T05:10:16Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -368,7 +368,7 @@
       "datePosted": null,
       "description": "Adecco Italia offre un percorso di stage retribuito propedeutico all'inserimento presso una nota catena di supermercati a Brescia.",
       "firstSeen": "2026-09-12T05:12:11Z",
-      "lastSeen": "2026-09-12T05:12:11Z",
+      "lastSeen": "2026-09-13T05:10:16Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -385,7 +385,7 @@
       "datePosted": null,
       "description": "Adecco Italia ricerca un/a lavapiatti per un hotel 4 stelle a Brescia.",
       "firstSeen": "2026-09-12T05:12:11Z",
-      "lastSeen": "2026-09-12T05:12:11Z",
+      "lastSeen": "2026-09-13T05:10:16Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -469,7 +469,7 @@
       "datePosted": null,
       "description": "Solo 50 Centesimi ricerca personale per mansioni di cassiera, barista e cameriera a Brescia.",
       "firstSeen": "2026-09-12T05:12:11Z",
-      "lastSeen": "2026-09-12T05:12:11Z",
+      "lastSeen": "2026-09-13T05:10:16Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -486,8 +486,72 @@
       "datePosted": null,
       "description": "In Job ricerca personale part-time (4 ore) per mansioni di cameriera/barista/cassiera a Brescia.",
       "firstSeen": "2026-09-12T05:12:11Z",
-      "lastSeen": "2026-09-12T05:12:11Z",
+      "lastSeen": "2026-09-13T05:10:16Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "versococktailclub-cameriera-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Verso Cocktail Club",
+      "company": "Verso Cocktail Club",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriere",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Verso Cocktail Club, nel centro di Brescia, ricerca cameriere/a a tempo pieno.",
+      "firstSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-13T05:10:16Z"
+    },
+    {
+      "id": "indeed-barista-cameriera-rezzato-fulltime",
+      "role": "barista",
+      "title": "Barista/Cameriera - Rezzato",
+      "company": null,
+      "location": "Rezzato",
+      "comune": "rezzato",
+      "url": "https://it.indeed.com/q-barista-l-rezzato,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Ricerca barista/cameriera/banconista per bar a Rezzato, contratto a tempo pieno indeterminato su 6 giorni la settimana inclusi i weekend.",
+      "firstSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-13T05:10:16Z"
+    },
+    {
+      "id": "bluhotelbrixia-chefderang-castenedolo",
+      "role": "cameriera",
+      "title": "Chef de Rang - Blu Hotel Brixia",
+      "company": "Blu Hotel Brixia",
+      "location": "Castenedolo",
+      "comune": "castenedolo",
+      "url": "https://it.indeed.com/Castenedolo,-Lombardia-offerte-lavoro-Barista,cameriera,commessa",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Chef de Rang per il servizio di sala.",
+      "firstSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-13T05:10:16Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "role": "cameriera",
+      "title": "Cameriere/a a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca cameriere/a a Brescia.",
+      "firstSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-13T05:10:16Z"
     }
   ]
 }
