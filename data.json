@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T05:10:16Z",
+  "lastUpdated": "2026-09-14T05:14:54Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -31,7 +31,7 @@
       "datePosted": null,
       "description": "Bar/pasticceria presso il centro commerciale IperTosano di Mazzano cerca personale barista e cameriere con disponibilità immediata.",
       "firstSeen": "2026-09-01T15:47:19Z",
-      "lastSeen": "2026-09-10T05:13:17Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40946/",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia per barista, nuova apertura ristorante, gestione autonoma del servizio bar.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-02T05:16:42Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-641809183.htm",
@@ -175,7 +175,7 @@
       "datePosted": null,
       "description": "Areadocks Loft cerca personale per cocktail bar con servizio serale su turni feriali e festivi, minima esperienza richiesta.",
       "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-04T05:15:20Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "actionitalia-commessa-ghedi",
@@ -255,7 +255,7 @@
       "datePosted": null,
       "description": "Cigierre (Wiener Haus) ricerca responsabile di cucina per il punto vendita di Brescia Sorbanella.",
       "firstSeen": "2026-09-05T05:12:13Z",
-      "lastSeen": "2026-09-12T05:12:11Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "novotel-brescia2-lavapiatti-brescia",
@@ -271,7 +271,7 @@
       "datePosted": null,
       "description": "Novotel Brescia 2 ricerca personale lavapiatti.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-12T05:12:11Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "signorvino-lavapiatti-brescia",
@@ -287,7 +287,7 @@
       "datePosted": null,
       "description": "Signorvino Brescia ricerca lavapiatti per collaborare con il team di cucina, seguendo le procedure di igiene e sicurezza alimentare.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-13T05:10:16Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "markas-mensa-lavapiatti-brescia",
@@ -303,7 +303,7 @@
       "datePosted": null,
       "description": "Markas S.p.A. ricerca operatore mensa/lavapiatti per mensa aziendale a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-07T05:17:39Z"
+      "lastSeen": "2026-09-14T05:14:54Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-617333768.htm",
@@ -367,7 +367,7 @@
       "datePosted": null,
       "description": "Verso Cocktail Club, nel centro di Brescia, ricerca cameriere/a a tempo pieno.",
       "firstSeen": "2026-09-13T05:10:16Z",
-      "lastSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-14T05:14:54Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -416,8 +416,104 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cameriere/a a Brescia.",
       "firstSeen": "2026-09-13T05:10:16Z",
-      "lastSeen": "2026-09-13T05:10:16Z",
+      "lastSeen": "2026-09-14T05:14:54Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "role": "commessa",
+      "title": "Commessa/o Supermercato - Stage - Brescia (BS)",
+      "company": "Adecco Italia SpA",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco Italia SpA ricerca commessa/o per supermercato a Brescia (BS), stage nel settore GDO Retail, addetti vendita e scaffalisti.",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "role": "barista",
+      "title": "Barista - Brescia",
+      "company": "Adecco Italia SpA",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco Italia SpA ricerca barista per punto vendita bar/catering a Brescia.",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "randstad-receptionist-brescia",
+      "role": "reception",
+      "title": "Receptionist - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca receptionist/addetto/a front office a Brescia.",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "randstad-lavapiatti-birreria-mompiano-brescia",
+      "role": "cucina",
+      "title": "Lavapiatti/Aiuto Cucina - Birreria Mompiano",
+      "company": null,
+      "location": "Mompiano, Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-lavapiatti/",
+      "source": "randstad",
+      "salary": "€15.000-18.000/anno",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca lavapiatti/aiuto cucina per birreria in zona Mompiano, Brescia, part-time 12 ore settimanali concentrate nel weekend.",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
+      "role": "barista",
+      "title": "Barista PT - Roncadelle Sud",
+      "company": null,
+      "location": "Roncadelle",
+      "comune": "roncadelle",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Gi Group ricerca barista part-time per punto vendita a Roncadelle Sud (BS).",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "https://www.subito.it/offerte-lavoro/brescia-hostess-promoter-senza-esperienza-brescia-573714391.htm",
+      "role": "reception",
+      "title": "Hostess & Promoter Senza Esperienza",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.subito.it/offerte-lavoro/brescia-hostess-promoter-senza-esperienza-brescia-573714391.htm",
+      "source": "subito",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Ricerca hostess e promoter senza esperienza per attività a Brescia.",
+      "firstSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-14T05:14:54Z"
     }
   ]
 }
