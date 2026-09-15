@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T05:14:54Z",
+  "lastUpdated": "2026-09-15T05:11:43Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -271,7 +271,7 @@
       "datePosted": null,
       "description": "Novotel Brescia 2 ricerca personale lavapiatti.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-14T05:14:54Z"
+      "lastSeen": "2026-09-15T05:11:43Z"
     },
     {
       "id": "signorvino-lavapiatti-brescia",
@@ -399,7 +399,7 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca commessa/o per supermercato a Brescia (BS), stage nel settore GDO Retail, addetti vendita e scaffalisti.",
       "firstSeen": "2026-09-14T05:14:54Z",
-      "lastSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-15T05:11:43Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -416,7 +416,7 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca barista per punto vendita bar/catering a Brescia.",
       "firstSeen": "2026-09-14T05:14:54Z",
-      "lastSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-15T05:11:43Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -433,7 +433,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca receptionist/addetto/a front office a Brescia.",
       "firstSeen": "2026-09-14T05:14:54Z",
-      "lastSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-15T05:11:43Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -450,7 +450,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca lavapiatti/aiuto cucina per birreria in zona Mompiano, Brescia, part-time 12 ore settimanali concentrate nel weekend.",
       "firstSeen": "2026-09-14T05:14:54Z",
-      "lastSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-15T05:11:43Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -485,6 +485,118 @@
       "description": "Ricerca hostess e promoter senza esperienza per attività a Brescia.",
       "firstSeen": "2026-09-14T05:14:54Z",
       "lastSeen": "2026-09-14T05:14:54Z"
+    },
+    {
+      "id": "indeed-receptionist-nightshift-brescia",
+      "role": "reception",
+      "title": "Receptionist - turno notturno",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-receptionist-l-provincia-di-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Ricerca receptionist con disponibilità al turno notturno, provincia di Brescia.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "indeed-hostess-resort-brescia",
+      "role": "reception",
+      "title": "Hostess - Resort",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-hostess-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Resort in zona Brescia ricerca hostess per accoglienza ospiti in ristorante, sistemazione ai tavoli e gestione di richieste speciali.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "versococktailclub-cameriere-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a di sala - Verso Cocktail Club",
+      "company": "Verso Cocktail Club",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriere",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Verso Cocktail Club, locale con cucina nel centro di Brescia, cerca personale di sala/cameriere.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "gigroup-barista-brescia-pr",
+      "role": "barista",
+      "title": "Barista - Provincia di Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro/barista-jo/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca barista per punti vendita in provincia di Brescia.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "gigroup-cameriere-ristorante-brescia-pr",
+      "role": "cameriera",
+      "title": "Cameriere/a di ristorante - Provincia di Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro/cameriere-di-ristorante-jo/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca cameriere/a di ristorante in provincia di Brescia.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
+      "role": "cucina",
+      "title": "Lavapiatti",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
+      "source": "regione-lombardia",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia (sede Via Cipro) per lavapiatti in nuovo ristorante, orario spezzato dal lunedì al sabato (10:30-14:30 e 19:00-22:00), contratto a termine finalizzato a stabilizzazione.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41491",
+      "role": "cucina",
+      "title": "Lavapiatti - Trattoria L'Arcangelo",
+      "company": "Trattoria L'Arcangelo",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41491",
+      "source": "regione-lombardia",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta pubblicata dal Centro per l'Impiego per lavapiatti presso Trattoria L'Arcangelo: lavaggio stoviglie e pentolame, pulizia e sanificazione, gestione rifiuti, riordino. Richiesta patente B e mezzo proprio.",
+      "firstSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-15T05:11:43Z"
     }
   ]
 }
