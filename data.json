@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-15T05:11:43Z",
+  "lastUpdated": "2026-09-16T05:20:00Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -159,7 +159,7 @@
       "datePosted": null,
       "description": "Bar Dolce Vita a Brescia cerca 3 bariste per ampliamento staff, orario diurno.",
       "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-04T05:15:20Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "areadocks-barista-brescia",
@@ -175,7 +175,7 @@
       "datePosted": null,
       "description": "Areadocks Loft cerca personale per cocktail bar con servizio serale su turni feriali e festivi, minima esperienza richiesta.",
       "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-14T05:14:54Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "actionitalia-commessa-ghedi",
@@ -191,7 +191,7 @@
       "datePosted": null,
       "description": "Action Italia ricerca addetto/a alla vendita per punto vendita di Ghedi, contratti part-time o full-time.",
       "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-04T05:15:20Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "pinthouse-cameriera-castenedolo",
@@ -287,7 +287,7 @@
       "datePosted": null,
       "description": "Signorvino Brescia ricerca lavapiatti per collaborare con il team di cucina, seguendo le procedure di igiene e sicurezza alimentare.",
       "firstSeen": "2026-09-06T05:12:39Z",
-      "lastSeen": "2026-09-14T05:14:54Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "markas-mensa-lavapiatti-brescia",
@@ -303,7 +303,7 @@
       "datePosted": null,
       "description": "Markas S.p.A. ricerca operatore mensa/lavapiatti per mensa aziendale a Brescia.",
       "firstSeen": "2026-09-07T05:17:39Z",
-      "lastSeen": "2026-09-14T05:14:54Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-617333768.htm",
@@ -464,7 +464,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista per punti vendita in provincia di Brescia.",
       "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-09-15T05:11:43Z"
+      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "gigroup-cameriere-ristorante-brescia-pr",
@@ -480,7 +480,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cameriere/a di ristorante in provincia di Brescia.",
       "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-09-15T05:11:43Z",
+      "lastSeen": "2026-09-16T05:20:00Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -514,6 +514,166 @@
       "description": "Offerta pubblicata dal Centro per l'Impiego per lavapiatti presso Trattoria L'Arcangelo: lavaggio stoviglie e pentolame, pulizia e sanificazione, gestione rifiuti, riordino. Richiesta patente B e mezzo proprio.",
       "firstSeen": "2026-09-15T05:11:43Z",
       "lastSeen": "2026-09-15T05:11:43Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "role": "cassiera",
+      "title": "Cassiera Full Time",
+      "company": "Gi Group",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Gi Group ricerca una cassiera a tempo pieno per punto vendita a Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://www.subito.it/offerte-lavoro/barista-brescia-527058035.htm",
+      "role": "barista",
+      "title": "Barista",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.subito.it/offerte-lavoro/barista-brescia-527058035.htm",
+      "source": "subito",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Ricerca barista con esperienza per bar-tabaccheria in zona Campo Marte, via Veneto, Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "role": "barista",
+      "title": "Barista - Brescia",
+      "company": "Adecco",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco ricerca barista per punto vendita a Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "role": "commessa",
+      "title": "Commessa/o Supermercato - Stage",
+      "company": "Adecco",
+      "location": "Brescia (BS)",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco ricerca commessa/o per supermercato a Brescia (BS), stage/tirocinio nel settore GDO retail.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "role": "cameriera",
+      "title": "Cameriere/a a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
+      "source": "randstad",
+      "salary": "15.000-18.000 EUR/anno",
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Randstad ricerca cameriere/a part-time 12 ore settimanali, turni venerdì, sabato e domenica sera, nessuna esperienza richiesta.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "randstad-receptionist-brescia-pr",
+      "role": "reception",
+      "title": "Receptionist - Provincia di Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad ricerca receptionist per aziende in provincia di Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "gigroup-receptionist-brescia-pr",
+      "role": "reception",
+      "title": "Receptionist - Provincia di Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca receptionist per aziende in provincia di Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
+      "role": "cassiera",
+      "title": "Cassiera, Barista e Cameriera",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.linkedin.com/jobs/view/cassiera-barista-e-cameriera-4144151408",
+      "source": "linkedin",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta di lavoro combinata per cassiera, barista e cameriera a Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
+      "role": "cameriera",
+      "title": "Cameriera/Barista/Cassiera Part-time 4h",
+      "company": "In Job",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
+      "source": "linkedin",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "In Job ricerca personale cameriera/barista/cassiera part-time 4 ore a Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
+    },
+    {
+      "id": "https://it.indeed.com/q-hostess,-promoter,-steward-l-brescia,-lombardia-offerte-lavoro.html",
+      "role": "reception",
+      "title": "Promoter/Dialogatore - Medici Senza Frontiere",
+      "company": "Medici Senza Frontiere",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-hostess,-promoter,-steward-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Medici Senza Frontiere ricerca promoter/dialogatore per attività di piazza a Brescia.",
+      "firstSeen": "2026-09-16T05:20:00Z",
+      "lastSeen": "2026-09-16T05:20:00Z"
     }
   ]
 }
