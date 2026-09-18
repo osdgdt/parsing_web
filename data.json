@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-17T05:10:18Z",
+  "lastUpdated": "2026-09-18T05:13:46Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -63,7 +63,7 @@
       "datePosted": null,
       "description": "Offerta di lavoro come cassiera/e a Brescia.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-08T05:15:22Z"
+      "lastSeen": "2026-09-18T05:13:46Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/commessa-in-negozio-di-ricamo-bambino-brescia-634649942.htm",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca cassiera/e part-time a Brescia.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-08T05:15:22Z"
+      "lastSeen": "2026-09-18T05:13:46Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/commessa-o-addetta-o-vendite-brescia-623827264.htm",
@@ -255,7 +255,7 @@
       "datePosted": null,
       "description": "Cigierre (Wiener Haus) ricerca responsabile di cucina per il punto vendita di Brescia Sorbanella.",
       "firstSeen": "2026-09-05T05:12:13Z",
-      "lastSeen": "2026-09-14T05:14:54Z",
+      "lastSeen": "2026-09-18T05:13:46Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -320,7 +320,7 @@
       "datePosted": null,
       "description": "Da Pino Srl ricerca cassiera/e a Brescia.",
       "firstSeen": "2026-09-08T05:15:22Z",
-      "lastSeen": "2026-09-08T05:15:22Z"
+      "lastSeen": "2026-09-18T05:13:46Z"
     },
     {
       "id": "indeed-latteria-2-0-cassiere-brescia",
@@ -448,7 +448,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista per punti vendita in provincia di Brescia.",
       "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-09-16T05:20:00Z"
+      "lastSeen": "2026-09-18T05:13:46Z"
     },
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
@@ -545,7 +545,7 @@
       "datePosted": null,
       "description": "Randstad ricerca barista part-time (24/28/32 ore) per punto vendita a Rezzato, retribuzione annua indicativa 18.000-22.000 EUR.",
       "firstSeen": "2026-09-17T05:10:18Z",
-      "lastSeen": "2026-09-17T05:10:18Z",
+      "lastSeen": "2026-09-18T05:13:46Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -562,7 +562,7 @@
       "datePosted": null,
       "description": "Randstad ricerca aiuto cuoco per struttura di ristorazione a Brescia.",
       "firstSeen": "2026-09-17T05:10:18Z",
-      "lastSeen": "2026-09-17T05:10:18Z",
+      "lastSeen": "2026-09-18T05:13:46Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -579,7 +579,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista part-time (24h) per realtà del settore ristorazione a Roncadelle (BS).",
       "firstSeen": "2026-09-17T05:10:18Z",
-      "lastSeen": "2026-09-17T05:10:18Z",
+      "lastSeen": "2026-09-18T05:13:46Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -665,6 +665,70 @@
       "firstSeen": "2026-09-17T05:10:18Z",
       "lastSeen": "2026-09-17T05:10:18Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "role": "cassiera",
+      "title": "Cassiera Full Time - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Gi Group ricerca cassiera full time per negozio di fiori a Brescia: gestione cassa, emissione fatture e note di credito, richiesta esperienza di settore e dinamismo.",
+      "firstSeen": "2026-09-18T05:13:46Z",
+      "lastSeen": "2026-09-18T05:13:46Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "role": "barista",
+      "title": "Barista - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Adecco ricerca barista con esperienza per punto vendita a Brescia, contratto a tempo pieno.",
+      "firstSeen": "2026-09-18T05:13:46Z",
+      "lastSeen": "2026-09-18T05:13:46Z"
+    },
+    {
+      "id": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
+      "role": "cassiera",
+      "title": "Cassiera Part-time GDO - Sostituzione Maternità",
+      "company": null,
+      "location": "Gussago",
+      "comune": "gussago",
+      "url": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Adecco ricerca cassiera part-time per sostituzione maternità in GDO a Gussago.",
+      "firstSeen": "2026-09-18T05:13:46Z",
+      "lastSeen": "2026-09-18T05:13:46Z"
+    },
+    {
+      "id": "randstad-receptionist-centroestetico-brescia",
+      "role": "reception",
+      "title": "Receptionist - Centro Estetico Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad ricerca receptionist per centro estetico elegante e dinamico a Brescia, richiesta attitudine commerciale e orientamento alla vendita, full time 40 ore settimanali.",
+      "firstSeen": "2026-09-18T05:13:46Z",
+      "lastSeen": "2026-09-18T05:13:46Z"
     }
   ]
 }
