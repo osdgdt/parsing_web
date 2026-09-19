@@ -514,74 +514,6 @@
       "lastSeen": "2026-09-17T05:10:18Z"
     },
     {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "role": "cassiera",
-      "title": "Cassiera Full Time - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Gi Group ricerca cassiera full time per negozio di fiori a Brescia: gestione cassa, emissione fatture e note di credito, richiesta esperienza di settore e dinamismo.",
-      "firstSeen": "2026-09-18T05:13:46Z",
-      "lastSeen": "2026-09-18T05:13:46Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Adecco ricerca barista con esperienza per punto vendita a Brescia, contratto a tempo pieno.",
-      "firstSeen": "2026-09-18T05:13:46Z",
-      "lastSeen": "2026-09-19T05:10:38Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
-      "role": "cassiera",
-      "title": "Cassiera Part-time GDO - Sostituzione Maternità",
-      "company": null,
-      "location": "Gussago",
-      "comune": "gussago",
-      "url": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco ricerca cassiera part-time per sostituzione maternità in GDO a Gussago.",
-      "firstSeen": "2026-09-18T05:13:46Z",
-      "lastSeen": "2026-09-18T05:13:46Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-receptionist-centroestetico-brescia",
-      "role": "reception",
-      "title": "Receptionist - Centro Estetico Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-customer-service/s2-receptionist/r-receptionist/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad ricerca receptionist per centro estetico elegante e dinamico a Brescia, richiesta attitudine commerciale e orientamento alla vendita, full time 40 ore settimanali.",
-      "firstSeen": "2026-09-18T05:13:46Z",
-      "lastSeen": "2026-09-19T05:10:38Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
       "role": "commessa",
       "title": "Commessa/o Supermercato - Stage - Brescia (BS)",
@@ -595,7 +527,8 @@
       "datePosted": null,
       "description": "Adecco ricerca commessa/o per supermercato a Brescia, stage finalizzato all'inserimento, mansioni gdo/retail.",
       "firstSeen": "2026-09-19T05:10:38Z",
-      "lastSeen": "2026-09-19T05:10:38Z"
+      "lastSeen": "2026-09-19T05:10:38Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/lavapiatti-hotel-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=a118b600-d2f4-4064-a761-f77725c24210",
@@ -611,7 +544,8 @@
       "datePosted": null,
       "description": "Adecco ricerca lavapiatti per struttura alberghiera a Brescia.",
       "firstSeen": "2026-09-19T05:10:38Z",
-      "lastSeen": "2026-09-19T05:10:38Z"
+      "lastSeen": "2026-09-19T05:10:38Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -627,7 +561,8 @@
       "datePosted": null,
       "description": "Randstad ricerca cameriere/a per birreria in zona Mompiano, Brescia: turni serali (19-23) nei weekend, retribuzione oraria 7-9 euro, nessuna esperienza richiesta.",
       "firstSeen": "2026-09-19T05:10:38Z",
-      "lastSeen": "2026-09-19T05:10:38Z"
+      "lastSeen": "2026-09-19T05:10:38Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
@@ -643,7 +578,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista part-time per punto vendita in zona Roncadelle sud.",
       "firstSeen": "2026-09-19T05:10:38Z",
-      "lastSeen": "2026-09-19T05:10:38Z"
+      "lastSeen": "2026-09-19T05:10:38Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro/lombardia-re/brescia-pr/#receptionist-lingue-estere",
