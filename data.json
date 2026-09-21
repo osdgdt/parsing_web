@@ -594,108 +594,6 @@
       "lastSeen": "2026-09-19T05:10:38Z"
     },
     {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "role": "cassiera",
-      "title": "Cassiera Full Time - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Gi Group ricerca cassiera full time per punto vendita a Brescia.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/cameriere_brescia_72efe4a5-9083-4e8f-81da-e1cebc3594fc/",
-      "role": "cameriera",
-      "title": "Cameriere/a a Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/cameriere_brescia_72efe4a5-9083-4e8f-81da-e1cebc3594fc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca cameriere/a per locale a Brescia.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerieri-e-cameriere-di-sala_brescia_97b7d4a0-fe17-4512-b6c8-87cc0e2da91a/",
-      "role": "cameriera",
-      "title": "Camerieri e Cameriere di sala a Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerieri-e-cameriere-di-sala_brescia_97b7d4a0-fe17-4512-b6c8-87cc0e2da91a/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca camerieri e cameriere di sala per servizio a Brescia.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-versococktailclub-cameriera-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Verso Cocktail Club",
-      "company": "Verso Cocktail Club",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriera",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Verso Cocktail Club, cocktail bar con cucina nel centro di Brescia, ricerca personale di sala/cameriere.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-humangest-lavapiatti-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti - Humangest",
-      "company": "Humangest S.p.A.",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=lavapiatti",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Humangest S.p.A., filiale di Brescia, ricerca lavapiatti per azienda cliente.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-relizont-cuoco-brescia",
-      "role": "cucina",
-      "title": "Addetto cucina - Relizont",
-      "company": "Relizont S.p.A.",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cuoco",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Relizont S.p.A., filiale di Brescia, ricerca addetto cucina per catena di ristoranti presso centro commerciale.",
-      "firstSeen": "2026-09-20T05:20:00Z",
-      "lastSeen": "2026-09-20T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
       "role": "barista",
       "title": "Barista - Brescia",
@@ -709,7 +607,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca barista per bar/locale a Brescia.",
       "firstSeen": "2026-09-21T05:13:37Z",
-      "lastSeen": "2026-09-21T05:13:37Z"
+      "lastSeen": "2026-09-21T05:13:37Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
@@ -725,7 +624,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca commessa/o per stage in supermercato a Brescia, finalizzato a inserimento in un importante catena della GDO.",
       "firstSeen": "2026-09-21T05:13:37Z",
-      "lastSeen": "2026-09-21T05:13:37Z"
+      "lastSeen": "2026-09-21T05:13:37Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -741,7 +641,8 @@
       "datePosted": null,
       "description": "Randstad ricerca cameriere/a per ristorante fast casual a Brescia.",
       "firstSeen": "2026-09-21T05:13:37Z",
-      "lastSeen": "2026-09-21T05:13:37Z"
+      "lastSeen": "2026-09-21T05:13:37Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista_rezzato_67e3c83f-aac2-43b0-b559-4c587a43a1e4/",
@@ -757,7 +658,8 @@
       "datePosted": null,
       "description": "Randstad ricerca barista per area di servizio a Rezzato, part-time 24 ore settimanali, nessuna esperienza richiesta.",
       "firstSeen": "2026-09-21T05:13:37Z",
-      "lastSeen": "2026-09-21T05:13:37Z"
+      "lastSeen": "2026-09-21T05:13:37Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.percassi.com/jobs/barista-starbucks-brescia-elnos-shopping/",
@@ -773,7 +675,8 @@
       "datePosted": null,
       "description": "Percassi assume barista per Starbucks al centro commerciale Elnòs Shopping di Roncadelle.",
       "firstSeen": "2026-09-21T05:13:37Z",
-      "lastSeen": "2026-09-21T05:13:37Z"
+      "lastSeen": "2026-09-21T05:13:37Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.indeed.com/q-barista-l-nuvolento,-lombardia-offerte-lavoro.html",
