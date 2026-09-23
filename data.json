@@ -610,159 +610,6 @@
       "lastSeen": "2026-09-22T05:08:12Z"
     },
     {
-      "id": "versococktailclub-cameriera-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Verso Cocktail Club",
-      "company": "Verso Cocktail Club",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriere",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Verso Cocktail Club, locale con cucina nel centro di Brescia, ricerca un/a cameriere/a solare e professionale.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "semapost-barista-brescia",
-      "role": "barista",
-      "title": "Barista - SEM A POST",
-      "company": "SEM A POST",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=barista",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "SEM A POST ricerca un/a barista giovane e dinamico/a per bar nel centro di Brescia.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "adecco-lavapiatti-hotel-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti Hotel Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=Lavapiatti+Hotel+Brescia&l=Brescia",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca lavapiatti per struttura alberghiera a Brescia.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "adecco-hostess-steward-stazione-brescia",
-      "role": "reception",
-      "title": "Hostess/Steward di Stazione Ferroviaria",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=Hostess/Steward+di+Stazione+Ferroviaria&l=Brescia&display=5",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca hostess/steward per servizio in stazione ferroviaria a Brescia.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerieri-e-cameriere-di-sala_brescia_97b7d4a0-fe17-4512-b6c8-87cc0e2da91a/",
-      "role": "cameriera",
-      "title": "Camerieri e Cameriere di sala - zona Mompiano, Brescia",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerieri-e-cameriere-di-sala_brescia_97b7d4a0-fe17-4512-b6c8-87cc0e2da91a/",
-      "source": "randstad",
-      "salary": "€7-9/ora",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad ricerca cameriere/a per servizio weekend serale in zona Mompiano, Brescia.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-lavapiatti-mompiano-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti/aiuto cucina weekend - zona Mompiano, Brescia",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-personale-di-cucina/r-lavapiatti/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad ricerca lavapiatti/aiuto cucina per birrificio noto in zona Mompiano, Brescia, part-time 12 ore settimanali nel weekend.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "role": "cassiera",
-      "title": "Cassiera Full Time - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Gi Group ricerca cassiera a tempo pieno per punto vendita a Brescia.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-22T05:08:12Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "role": "barista",
-      "title": "Barista PT - Roncadelle Sud",
-      "company": null,
-      "location": "Roncadelle",
-      "comune": "roncadelle",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Gi Group ricerca barista part-time per punto vendita in zona Roncadelle Sud.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/responsabile-di-cucina-wiener-haus-opportunit%C3%A0-a-brescia-sorbanella-at-cigierre-compagnia-generale-ristorazione-spa-4439439028",
-      "role": "cucina",
-      "title": "Responsabile di Cucina - Wiener Haus",
-      "company": "Cigierre - Compagnia Generale Ristorazione SpA",
-      "location": "Brescia (Sorbanella)",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/responsabile-di-cucina-wiener-haus-opportunit%C3%A0-a-brescia-sorbanella-at-cigierre-compagnia-generale-ristorazione-spa-4439439028",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Cigierre - Compagnia Generale Ristorazione SpA ricerca responsabile di cucina per il locale Wiener Haus a Brescia (zona Sorbanella).",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-22T05:08:12Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "autogrill-barista-bagnolomella",
       "role": "barista",
       "title": "Barista/Addetto Ristorazione - Autogrill Ghedi Ovest",
@@ -792,7 +639,8 @@
       "datePosted": null,
       "description": "Randstad ricerca hostess/steward per il servizio di stazione di Italo a Brescia.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.linkedin.com/jobs/view/lavapiatti-at-jobbit-4202201714",
@@ -808,7 +656,8 @@
       "datePosted": null,
       "description": "Jobbit ricerca personale lavapiatti a Brescia.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.linkedin.com/jobs/view/lavapiatti-brescia-at-quojobis-4033713913",
@@ -824,7 +673,8 @@
       "datePosted": null,
       "description": "QuoJobis ricerca personale lavapiatti a Brescia.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.linkedin.com/jobs/view/brescia-centro-hostess-promoter-at-ita-formazione-4087259946",
@@ -840,7 +690,8 @@
       "datePosted": null,
       "description": "ITA Formazione ricerca hostess e promoter per attività nel centro di Brescia.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro/cameriere-di-ristorante-jo/lombardia-re/brescia-pr/",
@@ -856,7 +707,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca cameriere/a di ristorante per punti vendita in provincia di Brescia.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-mensa-torbole-casaglia",
@@ -872,7 +724,8 @@
       "datePosted": null,
       "description": "Randstad ricerca addetto/a mensa per centro di produzione pasti a Torbole Casaglia, dal lunedì al venerdì.",
       "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z"
+      "lastSeen": "2026-09-23T05:21:39Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
