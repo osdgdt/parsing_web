@@ -610,108 +610,6 @@
       "lastSeen": "2026-09-22T05:08:12Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "role": "reception",
-      "title": "Hostess & Steward di Stazione Italo - Brescia",
-      "company": "Italo",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca hostess/steward per il servizio di stazione di Italo a Brescia.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-24T05:22:51Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/lavapiatti-at-jobbit-4202201714",
-      "role": "cucina",
-      "title": "Lavapiatti",
-      "company": "Jobbit",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/lavapiatti-at-jobbit-4202201714",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Jobbit ricerca personale lavapiatti a Brescia.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/lavapiatti-brescia-at-quojobis-4033713913",
-      "role": "cucina",
-      "title": "Lavapiatti - Brescia",
-      "company": "QuoJobis",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/lavapiatti-brescia-at-quojobis-4033713913",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "QuoJobis ricerca personale lavapiatti a Brescia.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://it.linkedin.com/jobs/view/brescia-centro-hostess-promoter-at-ita-formazione-4087259946",
-      "role": "reception",
-      "title": "Hostess & Promoter - Brescia Centro",
-      "company": "ITA Formazione",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.linkedin.com/jobs/view/brescia-centro-hostess-promoter-at-ita-formazione-4087259946",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "ITA Formazione ricerca hostess e promoter per attività nel centro di Brescia.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro/cameriere-di-ristorante-jo/lombardia-re/brescia-pr/",
-      "role": "cameriera",
-      "title": "Cameriere di Ristorante - Provincia di Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro/cameriere-di-ristorante-jo/lombardia-re/brescia-pr/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Gi Group ricerca cameriere/a di ristorante per punti vendita in provincia di Brescia.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-24T05:22:51Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-mensa-torbole-casaglia",
-      "role": "cucina",
-      "title": "Addetto/a mensa - Torbole Casaglia",
-      "company": null,
-      "location": "Torbole Casaglia",
-      "comune": "torbole-casaglia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-personale-di-cucina/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca addetto/a mensa per centro di produzione pasti a Torbole Casaglia, dal lunedì al venerdì.",
-      "firstSeen": "2026-09-23T05:21:39Z",
-      "lastSeen": "2026-09-23T05:21:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
       "role": "barista",
       "title": "Barista - Brescia",
@@ -725,7 +623,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca barista per punto vendita a Brescia.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
@@ -741,7 +640,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca commessa/o per supermercato a Brescia, stage finalizzato a stabilizzazione.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/lavapiatti-hotel-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=a118b600-d2f4-4064-a761-f77725c24210",
@@ -757,7 +657,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca lavapiatti per hotel 4 stelle a Brescia.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -773,7 +674,8 @@
       "datePosted": null,
       "description": "Randstad ricerca cameriere/a a Brescia, 12 ore settimanali su turni serali di venerdì, sabato e domenica.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista_rezzato_67e3c83f-aac2-43b0-b559-4c587a43a1e4/",
@@ -789,7 +691,8 @@
       "datePosted": null,
       "description": "Randstad ricerca barista part-time (24, 28 o 32 ore settimanali) a Rezzato, richiesto 1 anno di esperienza.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-birreria-lavapiatti-mompiano-brescia",
@@ -805,7 +708,8 @@
       "datePosted": null,
       "description": "Randstad ricerca lavapiatti/operatore per birreria in zona Mompiano, Brescia, part-time 12 ore settimanali nel weekend.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "gigroup-pasticciere-collebeato",
@@ -837,7 +741,8 @@
       "datePosted": null,
       "description": "Percassi ricerca barista per il punto vendita Starbucks presso Elnos Shopping a Roncadelle.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.linkedin.com/jobs/view/responsabile-di-cucina-wiener-haus-opportunit%C3%A0-a-brescia-sorbanella-at-cigierre-compagnia-generale-ristorazione-spa-4439439028",
@@ -853,7 +758,8 @@
       "datePosted": null,
       "description": "Cigierre (Wiener Haus) ricerca responsabile di cucina per il punto vendita di Brescia Sorbanella.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "versococktailclub-barista-cameriera-brescia",
@@ -869,7 +775,8 @@
       "datePosted": null,
       "description": "Verso Cocktail Club, locale con cucina nel centro di Brescia, ricerca barista/cameriera con almeno 6 mesi di esperienza, turni serali.",
       "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-24T05:22:51Z"
+      "lastSeen": "2026-09-24T05:22:51Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
