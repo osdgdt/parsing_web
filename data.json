@@ -626,57 +626,6 @@
       "lastSeen": "2026-09-25T05:09:19Z"
     },
     {
-      "id": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
-      "role": "cassiera",
-      "title": "Cassiera Part-Time GDO - Sostituzione Maternità",
-      "company": "Adecco Italia SpA",
-      "location": "Gussago",
-      "comune": "gussago",
-      "url": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca cassiera/e part-time per sostituzione maternità nel settore GDO (grande distribuzione organizzata) a Gussago.",
-      "firstSeen": "2026-09-25T05:09:19Z",
-      "lastSeen": "2026-09-25T05:09:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "role": "barista",
-      "title": "Barista PT - Roncadelle Sud",
-      "company": null,
-      "location": "Roncadelle",
-      "comune": "roncadelle",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Gi Group ricerca barista part-time (24 ore settimanali) per punto vendita a Roncadelle Sud, contratto a tempo determinato con possibilità di rinnovo, turni serali e weekend inclusi.",
-      "firstSeen": "2026-09-25T05:09:19Z",
-      "lastSeen": "2026-09-26T05:08:48Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "role": "cassiera",
-      "title": "Cassiera Full Time - Fioreria",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Gi Group, filiale di Brescia, ricerca per una fioreria una cassiera per gestione operazioni di cassa, fatturazione e note di credito, contratto full time 40 ore settimanali con turnazione sabato e domenica.",
-      "firstSeen": "2026-09-25T05:09:19Z",
-      "lastSeen": "2026-09-25T05:09:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40834/",
       "role": "cucina",
       "title": "Lavapiatti - Ristorante di lusso",
@@ -693,40 +642,6 @@
       "lastSeen": "2026-09-25T05:09:19Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/s-amministrazione-segreteria-e-risorse-umane/re-lombardia/ci-ghedi/",
-      "role": "reception",
-      "title": "Receptionist e Front Office - Ghedi",
-      "company": null,
-      "location": "Ghedi",
-      "comune": "ghedi",
-      "url": "https://www.randstad.it/offerte-lavoro/s-amministrazione-segreteria-e-risorse-umane/re-lombardia/ci-ghedi/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia (filiale di Montichiari) ricerca per azienda del settore chimico con sede a Ghedi una figura di Receptionist e Front Office, retribuzione oraria 10-11€, richiesto circa 1 anno di esperienza.",
-      "firstSeen": "2026-09-25T05:09:19Z",
-      "lastSeen": "2026-09-25T05:09:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/r-barista/re-lombardia/",
-      "role": "barista",
-      "title": "Barista - Franciacorta Designer Village",
-      "company": null,
-      "location": "Rodengo-Saiano",
-      "comune": "rodengo-saiano",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/r-barista/re-lombardia/",
-      "source": "randstad",
-      "salary": "€15.000-18.000/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca barista part-time (20-24 ore settimanali) per punto vendita presso Franciacorta Designer Village a Rodengo Saiano.",
-      "firstSeen": "2026-09-25T05:09:19Z",
-      "lastSeen": "2026-09-26T05:08:48Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
       "role": "barista",
       "title": "Barista - Brescia",
@@ -740,7 +655,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca barista per bar/catering a Brescia.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
@@ -756,7 +672,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca commessa/o per supermercato a Brescia (BS), stage nel settore GDO retail.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/q-part-time/re-lombardia/ci-rezzato/",
@@ -772,7 +689,8 @@
       "datePosted": null,
       "description": "Randstad Italia (filiale di Brescia) ricerca barista part-time (24, 28 o 32 ore settimanali) a Rezzato, richiesto circa 1 anno di esperienza.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/q-weekend/re-lombardia/ci-brescia/",
@@ -788,7 +706,8 @@
       "datePosted": null,
       "description": "Randstad Italia (filiale di Brescia) ricerca cameriera per turni weekend (19:00-23:00) in zona Mompiano, Brescia, nessuna esperienza richiesta.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40849/",
@@ -820,7 +739,8 @@
       "datePosted": null,
       "description": "Solo 50 Centesimi ricerca personale per mansioni di cassiera, barista e cameriera a Brescia.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://it.linkedin.com/jobs/view/cameriera-barista-cassiera-part-time-4h-at-in-job-3963208528",
@@ -836,7 +756,8 @@
       "datePosted": null,
       "description": "In Job (agenzia per il lavoro) ricerca personale part-time (4 ore) per mansioni di cameriera/barista/cassiera a Brescia.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-09-26T05:08:48Z"
+      "lastSeen": "2026-09-26T05:08:48Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
