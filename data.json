@@ -658,74 +658,6 @@
       "lastSeen": "2026-09-26T05:08:48Z"
     },
     {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "role": "barista",
-      "title": "Barista PT - Roncadelle Sud",
-      "company": null,
-      "location": "Roncadelle",
-      "comune": "roncadelle",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Gi Group ricerca barista part-time per punto vendita a Roncadelle Sud, provincia di Brescia.",
-      "firstSeen": "2026-09-27T05:31:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/lavapiatti-hotel-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=a118b600-d2f4-4064-a761-f77725c24210",
-      "role": "cucina",
-      "title": "Lavapiatti Hotel Brescia",
-      "company": "Adecco Italia SpA",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/lavapiatti-hotel-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=a118b600-d2f4-4064-a761-f77725c24210",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca lavapiatti per hotel a Brescia.",
-      "firstSeen": "2026-09-27T05:31:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "verso-cocktail-club-cameriere-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Verso Cocktail Club",
-      "company": "Verso Cocktail Club (Echo S.r.l.)",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/?keyword=cameriera",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Verso Cocktail Club, cocktail bar con cucina nel centro di Brescia, ricerca cameriere/a per il servizio serale.",
-      "firstSeen": "2026-09-27T05:31:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
-      "role": "cameriera",
-      "title": "Cameriera/e - Ristorazione Fast Casual",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca cameriera/e per importante realtà della ristorazione fast casual a Brescia.",
-      "firstSeen": "2026-09-27T05:31:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41348/",
       "role": "commessa",
       "title": "Commessa/o profumeria - The W Fragrances",
@@ -803,7 +735,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca barista con esperienza per bar all'interno di un punto vendita a Brescia, contratto full-time.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
@@ -819,7 +752,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA offre uno stage retribuito come commessa/o in un noto supermercato a Brescia, finalizzato all'inserimento.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-barista-parttime-rezzato",
@@ -835,7 +769,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca barista part-time (24/28/32 ore) a Rezzato, richiesto un anno di esperienza.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-weekend-birreria-mompiano-brescia",
@@ -851,7 +786,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cameriere/a per il weekend presso una birreria in zona Mompiano, Brescia, orario 19:00-23:00, nessuna esperienza richiesta.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-commesso-mondoconvenienza-brescia",
@@ -867,7 +803,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca commesso/a part-time per punto vendita Mondo Convenienza a Brescia.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-lavapiatti-weekend-birreria-mompiano-brescia",
@@ -883,7 +820,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca lavapiatti/aiuto cucina per il weekend presso una birreria in zona Mompiano, Brescia, part-time serale 12 ore settimanali.",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "linkedin-starbucks-barista-roncadelle",
@@ -899,7 +837,8 @@
       "datePosted": null,
       "description": "Starbucks ricerca barista per il punto vendita presso il centro commerciale Elnos Shopping a Roncadelle (BS).",
       "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
+      "lastSeen": "2026-09-28T05:20:00Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
