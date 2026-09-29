@@ -722,125 +722,6 @@
       "lastSeen": "2026-09-28T05:20:00Z"
     },
     {
-      "id": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/barista-brescia-bar-catering-personale-di-sala-cuochi-chef?ID=d110580c-762a-4ad3-b233-b91a15215b82",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca barista con esperienza per bar all'interno di un punto vendita a Brescia, contratto full-time.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "role": "commessa",
-      "title": "Commessa/o Supermercato - Stage",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/commessao-supermercato-stage-brescia-bs-gdo-retail-commessi-scaffalisti?ID=adb26682-edf6-4bdb-8f14-ed03014b70e2",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco Italia SpA offre uno stage retribuito come commessa/o in un noto supermercato a Brescia, finalizzato all'inserimento.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-barista-parttime-rezzato",
-      "role": "barista",
-      "title": "Barista part-time - Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/r-barista/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "€18.000-22.000/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca barista part-time (24/28/32 ore) a Rezzato, richiesto un anno di esperienza.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cameriere-weekend-birreria-mompiano-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a weekend - Birreria zona Mompiano",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/ss-camerieri-e-personale-del-bar/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "€7-9/ora",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca cameriere/a per il weekend presso una birreria in zona Mompiano, Brescia, orario 19:00-23:00, nessuna esperienza richiesta.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-commesso-mondoconvenienza-brescia",
-      "role": "commessa",
-      "title": "Commesso/a part-time - Mondo Convenienza",
-      "company": "Mondo Convenienza",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca commesso/a part-time per punto vendita Mondo Convenienza a Brescia.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-lavapiatti-weekend-birreria-mompiano-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti weekend - Birreria zona Mompiano",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/q-lavapiatti/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca lavapiatti/aiuto cucina per il weekend presso una birreria in zona Mompiano, Brescia, part-time serale 12 ore settimanali.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-28T05:20:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "linkedin-starbucks-barista-roncadelle",
-      "role": "barista",
-      "title": "Barista - Starbucks Elnos Shopping",
-      "company": "Starbucks",
-      "location": "Roncadelle",
-      "comune": "roncadelle",
-      "url": "https://it.linkedin.com/jobs/barista-offerte-di-lavoro",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Starbucks ricerca barista per il punto vendita presso il centro commerciale Elnos Shopping a Roncadelle (BS).",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-roncadelle-brescia-barista-pt-roncadelle-sud/985671/",
       "role": "barista",
       "title": "Barista PT - Roncadelle Sud",
@@ -854,7 +735,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista part-time (24 ore settimanali) per gestione bar, preparazione caffetteria, servizio clienti e gestione cassa a Roncadelle Sud, turni anche serali e festivi, contratto a termine con finalita' di stabilizzazione.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
@@ -870,7 +752,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetto/a alla cassa per negozio di fiori a Brescia: gestione operazioni di cassa, emissione fatture e note di credito, richiesta esperienza nel settore, full-time 40 ore settimanali su turni che includono sabato e domenica a rotazione.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cameriera-e-weekendista/1059423/",
@@ -886,7 +769,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca cameriera/weekendista per locale a Brescia.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/cassiera-part-time-gdo-sostituzione-maternita-gdo-retail-commessi-scaffalisti?ID=58fa8d86-37cb-4930-9a25-c7ac250b3634",
@@ -902,7 +786,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca cassiera part-time per punto vendita GDO a Gussago, sostituzione maternita'.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerta/addettao-cassa-part-time-gussago-per-sostituzione-gdo-retail-commessi-scaffalisti?ID=80114e71-3cad-4a1b-aee3-652eb94c4ca1",
@@ -918,7 +803,8 @@
       "datePosted": null,
       "description": "Adecco Italia SpA ricerca addetta/o cassa part-time a Gussago per sostituzione.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-receptionist-centro-estetico-brescia",
@@ -934,7 +820,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca receptionist con attitudine commerciale per centro estetico a Brescia: accoglienza clienti, gestione agenda, promozione servizi e prodotti, full-time 40 ore settimanali dal lunedi' al sabato.",
       "firstSeen": "2026-09-29T05:30:00Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
+      "lastSeen": "2026-09-29T05:30:00Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
