@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T05:08:49Z",
+  "lastUpdated": "2026-10-03T05:10:30Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia per barista, nuova apertura ristorante, gestione autonoma del servizio bar.",
       "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-10-02T05:08:49Z"
+      "lastSeen": "2026-10-03T05:10:30Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-641809183.htm",
@@ -242,22 +242,6 @@
       "lastSeen": "2026-09-29T05:30:00Z"
     },
     {
-      "id": "indeed-latteria-2-0-cassiere-brescia",
-      "role": "cassiera",
-      "title": "Cassiere/a - Latteria 2.0",
-      "company": "Latteria 2.0",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-cassiere-l-provincia-di-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Latteria 2.0, locale nel centro di Brescia, ricerca cassiere/a.",
-      "firstSeen": "2026-09-09T05:15:03Z",
-      "lastSeen": "2026-09-11T05:15:45Z"
-    },
-    {
       "id": "https://it.indeed.com/viewjob?jk=19a336907f66e337",
       "role": "commessa",
       "title": "Addetta/o alle Vendite - Rodengo Saiano (BS)",
@@ -367,7 +351,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca barista per punti vendita in provincia di Brescia.",
       "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-10-02T05:08:49Z"
+      "lastSeen": "2026-10-03T05:10:30Z"
     },
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
@@ -655,7 +639,7 @@
       "datePosted": null,
       "description": "Offerta pubblicata dal Centro per l'Impiego per barista con mansioni di commesso/a: attivita' di specialty coffee, servizio e cocktail bar, oltre a vendita al dettaglio nel settore occhialeria.",
       "firstSeen": "2026-09-26T05:08:48Z",
-      "lastSeen": "2026-10-02T05:08:49Z"
+      "lastSeen": "2026-10-03T05:10:30Z"
     },
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41348/",
@@ -735,7 +719,7 @@
       "datePosted": null,
       "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia per barista.",
       "firstSeen": "2026-09-30T05:08:47Z",
-      "lastSeen": "2026-10-02T05:08:49Z"
+      "lastSeen": "2026-10-03T05:10:30Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/hostess-promoter-citta-di-brescia-brescia-575840794.htm",
@@ -852,6 +836,166 @@
       "firstSeen": "2026-10-02T05:08:49Z",
       "lastSeen": "2026-10-02T05:08:49Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "coop-rondine-barista-bagnolomella",
+      "role": "barista",
+      "title": "Barista - Cooperativa Sociale La Rondine",
+      "company": "Cooperativa Sociale La Rondine",
+      "location": "Bagnolo Mella (BS)",
+      "comune": "bagnolo-mella",
+      "url": "https://it.indeed.com/q-barista-l-bagnolo-mella,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Contratto a tempo determinato part-time 25 ore settimanali, richiesta disponibilita' nel weekend.",
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "sushi-nagoya-cameriere-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Ristorante Sushi Nagoya",
+      "company": "Ristorante Sushi Nagoya",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-cameriere-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": "1300-1700 EUR/mese",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Richiesta almeno 1 anno di esperienza come cameriere/a.",
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "teatro-grande-cameriere-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Caffe' del Teatro Grande",
+      "company": "Caffe' del Teatro Grande",
+      "location": "Brescia centro",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-cameriere-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Contratto a tempo determinato, posizione part-time nello storico caffe' del Teatro Grande.",
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "bar-palestro-barista-brescia",
+      "role": "barista",
+      "title": "Barista - Bar Palestro",
+      "company": "Bar Palestro",
+      "location": "Brescia centro",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-barista-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": "9 EUR/ora",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Almeno 25 ore settimanali.",
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "randstad-barista-brescia",
+      "role": "barista",
+      "title": "Barista - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/barista_brescia_bf9b1cc8-15b1-4bba-9749-593ef86cd340/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "randstad-cuoco-aiutocuoco-brescia",
+      "role": "cucina",
+      "title": "Cuoco/Aiuto Cuoco - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "randstad-cameriere-brescia",
+      "role": "cameriera",
+      "title": "Cameriere - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/cameriere_brescia_72efe4a5-9083-4e8f-81da-e1cebc3594fc/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "gigroup-sala-bar-collebeato",
+      "role": "barista",
+      "title": "Addetto/a Sala Bar - Collebeato",
+      "company": null,
+      "location": "Collebeato (BS)",
+      "comune": "collebeato",
+      "url": "https://www.gigroup.it/offerte-lavoro/alimentari-e-bevande-si/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "gigroup-banco-bar-pasticceria-ospitaletto",
+      "role": "barista",
+      "title": "Addetto/a Banco Bar Pasticceria - Ospitaletto",
+      "company": null,
+      "location": "Ospitaletto (BS)",
+      "comune": "ospitaletto",
+      "url": "https://www.gigroup.it/offerte-lavoro/alimentari-e-bevande-si/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
+    },
+    {
+      "id": "gigroup-responsabile-bar-brescia",
+      "role": "barista",
+      "title": "Allievi Responsabili Bar - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro/horeca-generalista-ap/lombardia-re/brescia-pr/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
+      "firstSeen": "2026-10-03T05:10:30Z",
+      "lastSeen": "2026-10-03T05:10:30Z"
     }
   ]
 }
