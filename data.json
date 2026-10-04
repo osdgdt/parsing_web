@@ -834,57 +834,6 @@
       "lastSeen": "2026-10-03T05:10:30Z"
     },
     {
-      "id": "randstad-barista-brescia",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/barista_brescia_bf9b1cc8-15b1-4bba-9749-593ef86cd340/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-04T05:11:51Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuoco-aiutocuoco-brescia",
-      "role": "cucina",
-      "title": "Cuoco/Aiuto Cuoco - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-04T05:11:51Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cameriere-brescia",
-      "role": "cameriera",
-      "title": "Cameriere - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/cameriere_brescia_72efe4a5-9083-4e8f-81da-e1cebc3594fc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-03T05:10:30Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "gigroup-sala-bar-collebeato",
       "role": "barista",
       "title": "Addetto/a Sala Bar - Collebeato",
@@ -1026,7 +975,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca aiuto cucina a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
@@ -1042,7 +992,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca aiuto cuoco part-time a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -1058,7 +1009,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cameriere/a a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bluhotelbrixia-lavapiatti-castenedolo",
@@ -1074,7 +1026,8 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia a Castenedolo ricerca lavapiatti (plonge).",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "tempjob-receptionist-brescia",
@@ -1090,7 +1043,8 @@
       "datePosted": null,
       "description": "TempJob Italia ricerca receptionist per hotel a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-aiutocuoco-gussago",
@@ -1106,7 +1060,8 @@
       "datePosted": null,
       "description": "Adecco ricerca aiuto cuoco per rafforzare lo staff di un ristorante in zona Gussago.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-receptionist-concessionaria-auto-brescia",
@@ -1122,7 +1077,8 @@
       "datePosted": null,
       "description": "Adecco ricerca receptionist per concessionaria auto a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-hostess-steward-stazione-ferroviaria-brescia",
@@ -1138,7 +1094,8 @@
       "datePosted": null,
       "description": "Adecco ricerca hostess/steward per stazione ferroviaria di Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-lavapiatti-hotel-brescia",
@@ -1154,7 +1111,8 @@
       "datePosted": null,
       "description": "Adecco ricerca lavapiatti per hotel a Brescia.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/lavoro-brescia-cassiera-full-time/1049503/",
@@ -1170,7 +1128,8 @@
       "datePosted": null,
       "description": "Gi Group ricerca cassiera full-time a Brescia per negozio di fiori: gestione cassa, emissione fatture e note di credito.",
       "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-04T05:11:51Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
