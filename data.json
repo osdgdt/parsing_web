@@ -1042,74 +1042,6 @@
       "lastSeen": "2026-10-04T05:11:51Z"
     },
     {
-      "id": "https://www.adecco.it/offerte-lavoro?k=MACELLAIO+BANCONISTA&l=Brescia",
-      "role": "cucina",
-      "title": "Macellaio Banconista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro?k=MACELLAIO+BANCONISTA&l=Brescia",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca macellaio/banconista per punto vendita a Brescia.",
-      "firstSeen": "2026-10-05T05:10:41Z",
-      "lastSeen": "2026-10-05T05:10:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista-reparto-macelleria_brescia_98adf553-3cdc-446e-99a3-d7edcfb999f3/",
-      "role": "cucina",
-      "title": "Banconista Reparto Macelleria - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista-reparto-macelleria_brescia_98adf553-3cdc-446e-99a3-d7edcfb999f3/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca banconista per reparto macelleria a Brescia.",
-      "firstSeen": "2026-10-05T05:10:41Z",
-      "lastSeen": "2026-10-05T05:10:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista-pasticceria_brescia_4e58c719-c16f-4f13-85ee-e3441ab98fb9/",
-      "role": "cucina",
-      "title": "Banconista Pasticceria - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista-pasticceria_brescia_4e58c719-c16f-4f13-85ee-e3441ab98fb9/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca banconista per storica pasticceria nel centro di Brescia, tempo pieno.",
-      "firstSeen": "2026-10-05T05:10:41Z",
-      "lastSeen": "2026-10-05T05:10:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "role": "reception",
-      "title": "Hostess & Steward di Stazione Italo - Brescia",
-      "company": "Italo",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/hostess-steward-di-stazione-italo-brescia_brescia_8134a377-aa08-4652-a593-329ced7142bc/",
-      "source": "randstad",
-      "salary": "9-10 EUR/ora",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca hostess/steward per la stazione ferroviaria di Brescia per conto di Italo.",
-      "firstSeen": "2026-10-05T05:10:41Z",
-      "lastSeen": "2026-10-05T05:10:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "creiamopubblicita-promoter-hostess-brescia",
       "role": "reception",
       "title": "Promoter/Hostess - Creiamo Pubblicità Srls",
@@ -1171,7 +1103,8 @@
       "datePosted": null,
       "description": "Adecco Italia ricerca cassiera/scaffalista part-time (24 ore settimanali) per supermercato a Gussago, sostituzione maternità.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.it/offerte-lavoro?k=Barista+all'interno+di+una+scuola+e+centro+educativo&l=Brescia",
@@ -1187,7 +1120,8 @@
       "datePosted": null,
       "description": "Adecco ricerca un/a barista per il bar interno di una scuola e centro educativo a Brescia.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_ce3b22a3-c305-47e1-860a-8cbc5b702eb1/",
@@ -1203,7 +1137,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cameriere/a per locale a Brescia.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista_brescia_bf9b1cc8-15b1-4bba-9749-593ef86cd340/",
@@ -1219,7 +1154,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca barista per locale a Brescia.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-barista-elnos-roncadelle",
@@ -1235,7 +1171,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca barista part-time (20/24 ore settimanali) per il centro commerciale Elnòs Shopping a Roncadelle, richiesta 1 anno di esperienza.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-weekend-birreria-mompiano",
@@ -1251,7 +1188,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca cameriere/a per il weekend (19:00-23:00) per birreria in zona Mompiano, Brescia, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-aiuto-cuoco-parttime-brescia",
@@ -1267,7 +1205,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca aiuto cuoco part-time (24 ore settimanali su turni) a Brescia.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-receptionist-centroestetico-brescia",
@@ -1283,7 +1222,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca receptionist con attitudine commerciale per elegante e dinamico centro estetico a Brescia.",
       "firstSeen": "2026-10-06T05:11:59Z",
-      "lastSeen": "2026-10-06T05:11:59Z"
+      "lastSeen": "2026-10-06T05:11:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "gigroup-receptionist-lingue-nave",
