@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-06T05:11:59Z",
+  "lastUpdated": "2026-10-07T05:08:24Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -1304,6 +1304,70 @@
       "description": "Terrazza Triclinium a Castenedolo ricerca barman/barlady per preparazione drink e servizio bar.",
       "firstSeen": "2026-10-06T05:11:59Z",
       "lastSeen": "2026-10-06T05:11:59Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
+      "role": "cucina",
+      "title": "Addetto/a Gastronomia Full Time - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Gi Group ricerca addetto/a gastronomia full time per punto vendita a Brescia.",
+      "firstSeen": "2026-10-07T05:08:24Z",
+      "lastSeen": "2026-10-07T05:08:24Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
+      "role": "cucina",
+      "title": "Addetti/e Ristorazione - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
+      "firstSeen": "2026-10-07T05:08:24Z",
+      "lastSeen": "2026-10-07T05:08:24Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
+      "role": "cucina",
+      "title": "Cuoco/Cameriere - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
+      "firstSeen": "2026-10-07T05:08:24Z",
+      "lastSeen": "2026-10-07T05:08:24Z"
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
+      "role": "cucina",
+      "title": "Cuoco/Cameriere - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
+      "firstSeen": "2026-10-07T05:08:24Z",
+      "lastSeen": "2026-10-07T05:08:24Z"
     }
   ]
 }
