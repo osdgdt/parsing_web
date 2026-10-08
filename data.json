@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-07T05:08:24Z",
+  "lastUpdated": "2026-10-08T05:10:00Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -82,22 +82,6 @@
       "lastSeen": "2026-09-29T05:30:00Z"
     },
     {
-      "id": "bardolcevita-barista-brescia",
-      "role": "barista",
-      "title": "Barista - Bar Dolce Vita",
-      "company": "Bar Dolce Vita",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/cmp/Bar-Dolce-Vita",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Bar Dolce Vita a Brescia cerca 3 bariste per ampliamento staff, orario diurno.",
-      "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-16T05:20:00Z"
-    },
-    {
       "id": "areadocks-barista-brescia",
       "role": "barista",
       "title": "Barista/Cameriere - Areadocks Loft",
@@ -111,23 +95,7 @@
       "datePosted": null,
       "description": "Areadocks Loft cerca personale per cocktail bar con servizio serale su turni feriali e festivi, minima esperienza richiesta.",
       "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-16T05:20:00Z"
-    },
-    {
-      "id": "actionitalia-commessa-ghedi",
-      "role": "commessa",
-      "title": "Addetto/a alla Vendita - Action Italia",
-      "company": "Action Italia",
-      "location": "Ghedi",
-      "comune": "ghedi",
-      "url": "https://it.indeed.com/q-addetto-vendite-l-ghedi,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Action Italia ricerca addetto/a alla vendita per punto vendita di Ghedi, contratti part-time o full-time.",
-      "firstSeen": "2026-09-04T05:15:20Z",
-      "lastSeen": "2026-09-16T05:20:00Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
     },
     {
       "id": "pinthouse-cameriera-castenedolo",
@@ -287,7 +255,7 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Chef de Rang per il servizio di sala.",
       "firstSeen": "2026-09-13T05:10:16Z",
-      "lastSeen": "2026-10-04T05:11:51Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
     },
     {
       "id": "indeed-receptionist-nightshift-brescia",
@@ -368,22 +336,6 @@
       "description": "Offerta pubblicata dal Centro per l'Impiego per lavapiatti presso Trattoria L'Arcangelo: lavaggio stoviglie e pentolame, pulizia e sanificazione, gestione rifiuti, riordino. Richiesta patente B e mezzo proprio.",
       "firstSeen": "2026-09-15T05:11:43Z",
       "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "https://www.subito.it/offerte-lavoro/barista-brescia-527058035.htm",
-      "role": "barista",
-      "title": "Barista",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.subito.it/offerte-lavoro/barista-brescia-527058035.htm",
-      "source": "subito",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Ricerca barista con esperienza per bar-tabaccheria in zona Campo Marte, via Veneto, Brescia.",
-      "firstSeen": "2026-09-16T05:20:00Z",
-      "lastSeen": "2026-09-16T05:20:00Z"
     },
     {
       "id": "https://it.indeed.com/q-hostess,-promoter,-steward-l-brescia,-lombardia-offerte-lavoro.html",
@@ -856,14 +808,14 @@
       "company": null,
       "location": "Brescia",
       "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro/horeca-generalista-ap/lombardia-re/brescia-pr/",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-allievi-responsabili-bar-brescia/1363291/",
       "source": "gigroup",
       "salary": null,
       "contractType": "tempo-pieno",
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1199,7 +1151,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-07T05:08:24Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -1215,7 +1167,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-07T05:08:24Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1231,7 +1183,23 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-07T05:08:24Z"
+      "lastSeen": "2026-10-08T05:10:00Z"
+    },
+    {
+      "id": "areadocks-cuoco-pizzaiolo-brescia",
+      "role": "cucina",
+      "title": "Cuoco/Pizzaiolo - Areadocks",
+      "company": "Areadocks",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/cmp/Areadocks/jobs",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
+      "firstSeen": "2026-10-08T05:10:00Z",
+      "lastSeen": "2026-10-08T05:10:00Z"
     }
   ]
 }
