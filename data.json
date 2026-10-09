@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-08T05:10:00Z",
+  "lastUpdated": "2026-10-09T05:10:08Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -1162,12 +1162,12 @@
       "comune": "brescia",
       "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
       "source": "gigroup",
-      "salary": null,
+      "salary": "€20.000-25.000/anno",
       "contractType": "indifferente",
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-08T05:10:00Z"
+      "lastSeen": "2026-10-09T05:10:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1200,6 +1200,86 @@
       "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
       "firstSeen": "2026-10-08T05:10:00Z",
       "lastSeen": "2026-10-08T05:10:00Z"
+    },
+    {
+      "id": "randstad-cameriere-sala-bar-brescia",
+      "role": "cameriera",
+      "title": "Cameriere di Sala e Bar",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "€22.000-28.000/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca cameriere di sala e bar per struttura ristorativa di prestigio, lavoro su turni, richiesto almeno un anno di esperienza.",
+      "firstSeen": "2026-10-09T05:10:08Z",
+      "lastSeen": "2026-10-09T05:10:08Z"
+    },
+    {
+      "id": "randstad-cuoco-brescia-hotel",
+      "role": "cucina",
+      "title": "Cuoco - Hotel di prestigio",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "€22.000-28.000/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un cuoco per un hotel di prestigio a Brescia, turno mattutino o serale con due giorni di riposo settimanali garantiti.",
+      "firstSeen": "2026-10-09T05:10:08Z",
+      "lastSeen": "2026-10-09T05:10:08Z"
+    },
+    {
+      "id": "randstad-vendite-calzature-roncadelle",
+      "role": "commessa",
+      "title": "Addetto/a Vendite - negozio di calzature",
+      "company": null,
+      "location": "Roncadelle",
+      "comune": "roncadelle",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "€18.000-22.000/anno",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Brescia ricerca addetto/a alle vendite part-time (30 ore) per negozio di calzature a Roncadelle, turni su 6 giorni con un giorno di riposo infrasettimanale.",
+      "firstSeen": "2026-10-09T05:10:08Z",
+      "lastSeen": "2026-10-09T05:10:08Z"
+    },
+    {
+      "id": "randstad-vendite-outlet-rodengo-saiano",
+      "role": "commessa",
+      "title": "Addetto/a Vendite - Franciacorta Outlet Village",
+      "company": null,
+      "location": "Rodengo-Saiano",
+      "comune": "rodengo-saiano",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Brescia ricerca addetto/a alle vendite per uno store di marchio sportivo al Franciacorta Outlet Village di Rodengo-Saiano, contratto in somministrazione a tempo determinato.",
+      "firstSeen": "2026-10-09T05:10:08Z",
+      "lastSeen": "2026-10-09T05:10:08Z"
+    },
+    {
+      "id": "randstad-vendite-mondoconvenienza-castegnato",
+      "role": "commessa",
+      "title": "Commesso/a part-time - Mondo Convenienza",
+      "company": "Mondo Convenienza",
+      "location": "Castegnato",
+      "comune": "castegnato",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "€9-10/ora",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad ricerca commesso/a part-time per punto vendita Mondo Convenienza di Castegnato, richiesta disponibilità anche nel weekend.",
+      "firstSeen": "2026-10-09T05:10:08Z",
+      "lastSeen": "2026-10-09T05:10:08Z"
     }
   ]
 }
