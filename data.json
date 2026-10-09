@@ -1215,7 +1215,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca cameriere di sala e bar per struttura ristorativa di prestigio, lavoro su turni, richiesto almeno un anno di esperienza.",
       "firstSeen": "2026-10-09T05:10:08Z",
-      "lastSeen": "2026-10-09T05:10:08Z"
+      "lastSeen": "2026-10-09T05:10:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cuoco-brescia-hotel",
@@ -1231,7 +1232,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un cuoco per un hotel di prestigio a Brescia, turno mattutino o serale con due giorni di riposo settimanali garantiti.",
       "firstSeen": "2026-10-09T05:10:08Z",
-      "lastSeen": "2026-10-09T05:10:08Z"
+      "lastSeen": "2026-10-09T05:10:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-vendite-calzature-roncadelle",
@@ -1247,7 +1249,8 @@
       "datePosted": null,
       "description": "Randstad Brescia ricerca addetto/a alle vendite part-time (30 ore) per negozio di calzature a Roncadelle, turni su 6 giorni con un giorno di riposo infrasettimanale.",
       "firstSeen": "2026-10-09T05:10:08Z",
-      "lastSeen": "2026-10-09T05:10:08Z"
+      "lastSeen": "2026-10-09T05:10:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-vendite-outlet-rodengo-saiano",
@@ -1263,7 +1266,8 @@
       "datePosted": null,
       "description": "Randstad Brescia ricerca addetto/a alle vendite per uno store di marchio sportivo al Franciacorta Outlet Village di Rodengo-Saiano, contratto in somministrazione a tempo determinato.",
       "firstSeen": "2026-10-09T05:10:08Z",
-      "lastSeen": "2026-10-09T05:10:08Z"
+      "lastSeen": "2026-10-09T05:10:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-vendite-mondoconvenienza-castegnato",
@@ -1279,7 +1283,8 @@
       "datePosted": null,
       "description": "Randstad ricerca commesso/a part-time per punto vendita Mondo Convenienza di Castegnato, richiesta disponibilità anche nel weekend.",
       "firstSeen": "2026-10-09T05:10:08Z",
-      "lastSeen": "2026-10-09T05:10:08Z"
+      "lastSeen": "2026-10-09T05:10:08Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
