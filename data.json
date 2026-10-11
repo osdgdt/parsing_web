@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-10T05:08:30Z",
+  "lastUpdated": "2026-10-11T05:08:35Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -255,7 +255,7 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Chef de Rang per il servizio di sala.",
       "firstSeen": "2026-09-13T05:10:16Z",
-      "lastSeen": "2026-10-08T05:10:00Z"
+      "lastSeen": "2026-10-11T05:08:35Z"
     },
     {
       "id": "indeed-receptionist-nightshift-brescia",
@@ -815,7 +815,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-10T05:08:30Z"
+      "lastSeen": "2026-10-11T05:08:35Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1167,7 +1167,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-10T05:08:30Z"
+      "lastSeen": "2026-10-11T05:08:35Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1231,7 +1231,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per una nota realta' della ristorazione a Brescia, ricerca un/a Cuoco/a Junior su turno singolo.",
       "firstSeen": "2026-10-10T05:08:30Z",
-      "lastSeen": "2026-10-10T05:08:30Z",
+      "lastSeen": "2026-10-11T05:08:35Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1248,7 +1248,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per una nota catena di ristorazione/birreria un/a cameriere/a part-time in zona Sorbanella/Brescia Sud, non richiesta esperienza.",
       "firstSeen": "2026-10-10T05:08:30Z",
-      "lastSeen": "2026-10-10T05:08:30Z",
+      "lastSeen": "2026-10-11T05:08:35Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1265,8 +1265,56 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca cassiera/e per punto vendita GDO a Concesio, contratto in somministrazione.",
       "firstSeen": "2026-10-10T05:08:30Z",
-      "lastSeen": "2026-10-10T05:08:30Z",
+      "lastSeen": "2026-10-11T05:08:35Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-alle-vendite/1343271/",
+      "role": "commessa",
+      "title": "Addetto/a alle Vendite",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-alle-vendite/1343271/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group seleziona un/a addetto/a alle vendite per il supporto al reparto commerciale a Brescia.",
+      "firstSeen": "2026-10-11T05:08:35Z",
+      "lastSeen": "2026-10-11T05:08:35Z"
+    },
+    {
+      "id": "indeed-segafredo-weekend-barista-brescia",
+      "role": "barista",
+      "title": "Barista Weekend",
+      "company": "Segafredo Zanetti",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/weekend-barista-jobs?fromage=1",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Segafredo Zanetti cerca personale per accoglienza e servizio al banco bar nei weekend a Brescia.",
+      "firstSeen": "2026-10-11T05:08:35Z",
+      "lastSeen": "2026-10-11T05:08:35Z"
+    },
+    {
+      "id": "indeed-trattoria-la-rosa-cucina-ghedi",
+      "role": "cucina",
+      "title": "Addetto/a di Cucina",
+      "company": "Trattoria La Rosa",
+      "location": "Ghedi",
+      "comune": "ghedi",
+      "url": "https://it.indeed.com/Ghedi,-Lombardia-offerte-lavoro-Cuoco",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Trattoria La Rosa a Ghedi cerca personale di cucina per preparazione piatti, part-time o full-time, nessuna esperienza richiesta.",
+      "firstSeen": "2026-10-11T05:08:35Z",
+      "lastSeen": "2026-10-11T05:08:35Z"
     }
   ]
 }
