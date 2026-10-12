@@ -1279,7 +1279,8 @@
       "datePosted": null,
       "description": "Filiale di Brescia ricerca per importante e prestigioso locale un Cameriere di Sala e Bar a tempo pieno su turni, richiesto un anno di esperienza.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cuoco-hotel-brescia",
@@ -1295,7 +1296,8 @@
       "datePosted": null,
       "description": "Filiale di Brescia seleziona per prestigioso hotel un Cuoco/a a tempo pieno, turni mattina o pomeriggio/sera, due giorni di riposo settimanali, un anno di esperienza richiesto.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-birreria-sorbanella-brescia",
@@ -1311,7 +1313,8 @@
       "datePosted": null,
       "description": "Filiale di Brescia seleziona per importante e nota catena di Ristorazione/Birreria un Cameriere/a part-time, zona Brescia Sud/Sorbanella, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-receptionist-centro-estetico-brescia",
@@ -1327,7 +1330,8 @@
       "datePosted": null,
       "description": "Receptionist per centro estetico a Brescia con attitudine commerciale: accoglienza clienti, gestione appuntamenti e promozione dei servizi, full-time 40 ore settimanali.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addetto-cassa-ipermercato-brescia",
@@ -1343,7 +1347,8 @@
       "datePosted": null,
       "description": "Randstad seleziona per conto di uno strutturato ipermercato a Brescia una risorsa come Addetto/a alle Operazioni di Cassa, un anno di esperienza richiesto.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addetto-vendita-alimentare-brescia",
@@ -1359,7 +1364,8 @@
       "datePosted": null,
       "description": "Filiale di Brescia ricerca un Addetto/a Vendita per negozio alimentare, tempo pieno su sei giorni settimanali.",
       "firstSeen": "2026-10-12T05:11:06Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-12T05:11:06Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
