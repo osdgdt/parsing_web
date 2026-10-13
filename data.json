@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-12T05:11:06Z",
+  "lastUpdated": "2026-10-13T05:08:52Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -1151,7 +1151,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-10T05:08:30Z"
+      "lastSeen": "2026-10-13T05:08:52Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -1167,7 +1167,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-13T05:08:52Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1366,6 +1366,22 @@
       "firstSeen": "2026-10-12T05:11:06Z",
       "lastSeen": "2026-10-12T05:11:06Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-lavapiatti-weekend-brescia",
+      "role": "cucina",
+      "title": "Addetto/a al Lavaggio Stoviglie (Lavapiatti) - Weekend",
+      "company": "Randstad Italia",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "12.000-14.000 euro annui",
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Filiale di Brescia seleziona per importante realta del settore ristorazione un/una addetto/a al lavaggio stoviglie part-time nel weekend, 12 ore settimanali.",
+      "firstSeen": "2026-10-13T05:08:52Z",
+      "lastSeen": "2026-10-13T05:08:52Z"
     }
   ]
 }
