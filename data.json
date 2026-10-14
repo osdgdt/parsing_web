@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-13T05:08:52Z",
+  "lastUpdated": "2026-10-14T05:08:52Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -498,22 +498,6 @@
       "lastSeen": "2026-10-04T05:11:51Z"
     },
     {
-      "id": "schiaccinoteca-toscana-banconista-brescia",
-      "role": "cucina",
-      "title": "Banconista - La Schiaccinoteca Toscana",
-      "company": "La Schiaccinoteca Toscana",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-banconista-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "La Schiaccinoteca Toscana a Brescia ricerca banconista, oltre a personale di cucina e addetti vendita.",
-      "firstSeen": "2026-09-22T05:08:12Z",
-      "lastSeen": "2026-09-22T05:08:12Z"
-    },
-    {
       "id": "autogrill-barista-bagnolomella",
       "role": "barista",
       "title": "Barista/Addetto Ristorazione - Autogrill Ghedi Ovest",
@@ -815,7 +799,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-14T05:08:52Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1151,7 +1135,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-13T05:08:52Z"
+      "lastSeen": "2026-10-14T05:08:52Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -1167,7 +1151,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-13T05:08:52Z"
+      "lastSeen": "2026-10-14T05:08:52Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1183,7 +1167,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-12T05:11:06Z"
+      "lastSeen": "2026-10-14T05:08:52Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -1281,6 +1265,70 @@
       "firstSeen": "2026-10-13T05:08:52Z",
       "lastSeen": "2026-10-13T05:08:52Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://it.indeed.com/cmp/Accor/jobs",
+      "role": "cameriera",
+      "title": "Cameriere sala e bar / Chef de rang",
+      "company": "Accor",
+      "location": "Brescia, Lombardia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/cmp/Accor/jobs",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
+      "firstSeen": "2026-10-14T05:08:52Z",
+      "lastSeen": "2026-10-14T05:08:52Z"
+    },
+    {
+      "id": "h-34281e51c2de0253",
+      "role": "cameriera",
+      "title": "Cameriere/a di sala e bar",
+      "company": "Randstad Italia",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "22.000€ - 28.000€ annui",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per prestigiosa attività un cameriere/a di sala e bar con almeno un anno di esperienza.",
+      "firstSeen": "2026-10-14T05:08:52Z",
+      "lastSeen": "2026-10-14T05:08:52Z"
+    },
+    {
+      "id": "h-aff1ce3173f19284",
+      "role": "cassiera",
+      "title": "Cassiere/a settore GDO",
+      "company": "Randstad Italia",
+      "location": "Flero (BS)",
+      "comune": "flero",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad seleziona un/a cassiere/a per il settore GDO a Flero, contratto in agenzia.",
+      "firstSeen": "2026-10-14T05:08:52Z",
+      "lastSeen": "2026-10-14T05:08:52Z"
+    },
+    {
+      "id": "h-727ef948a7cd2262",
+      "role": "cucina",
+      "title": "Aiuto Pasticcere / Pasticcera",
+      "company": "Randstad Italia",
+      "location": "Collebeato (BS)",
+      "comune": "collebeato",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad ricerca un/a aiuto pasticcere/a per una realtà di Collebeato.",
+      "firstSeen": "2026-10-14T05:08:52Z",
+      "lastSeen": "2026-10-14T05:08:52Z"
     }
   ]
 }
