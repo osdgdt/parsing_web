@@ -1250,23 +1250,6 @@
       "lastSeen": "2026-10-11T05:08:35Z"
     },
     {
-      "id": "randstad-lavapiatti-weekend-brescia",
-      "role": "cucina",
-      "title": "Addetto/a al Lavaggio Stoviglie (Lavapiatti) - Weekend",
-      "company": "Randstad Italia",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "12.000-14.000 euro annui",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Filiale di Brescia seleziona per importante realta del settore ristorazione un/una addetto/a al lavaggio stoviglie part-time nel weekend, 12 ore settimanali.",
-      "firstSeen": "2026-10-13T05:08:52Z",
-      "lastSeen": "2026-10-13T05:08:52Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://it.indeed.com/cmp/Accor/jobs",
       "role": "cameriera",
       "title": "Cameriere sala e bar / Chef de rang",
@@ -1296,7 +1279,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per prestigiosa attività un cameriere/a di sala e bar con almeno un anno di esperienza.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z"
+      "lastSeen": "2026-10-14T05:08:52Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "h-aff1ce3173f19284",
@@ -1312,7 +1296,8 @@
       "datePosted": null,
       "description": "Randstad seleziona un/a cassiere/a per il settore GDO a Flero, contratto in agenzia.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z"
+      "lastSeen": "2026-10-14T05:08:52Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "h-727ef948a7cd2262",
@@ -1328,7 +1313,8 @@
       "datePosted": null,
       "description": "Randstad ricerca un/a aiuto pasticcere/a per una realtà di Collebeato.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z"
+      "lastSeen": "2026-10-14T05:08:52Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
