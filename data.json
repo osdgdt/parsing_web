@@ -1266,57 +1266,6 @@
       "lastSeen": "2026-10-14T05:08:52Z"
     },
     {
-      "id": "h-34281e51c2de0253",
-      "role": "cameriera",
-      "title": "Cameriere/a di sala e bar",
-      "company": "Randstad Italia",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "22.000€ - 28.000€ annui",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per prestigiosa attività un cameriere/a di sala e bar con almeno un anno di esperienza.",
-      "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "h-aff1ce3173f19284",
-      "role": "cassiera",
-      "title": "Cassiere/a settore GDO",
-      "company": "Randstad Italia",
-      "location": "Flero (BS)",
-      "comune": "flero",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad seleziona un/a cassiere/a per il settore GDO a Flero, contratto in agenzia.",
-      "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "h-727ef948a7cd2262",
-      "role": "cucina",
-      "title": "Aiuto Pasticcere / Pasticcera",
-      "company": "Randstad Italia",
-      "location": "Collebeato (BS)",
-      "comune": "collebeato",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a aiuto pasticcere/a per una realtà di Collebeato.",
-      "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
       "role": "commessa",
       "title": "Addetto/a alle Vendite (categoria protetta L.68/99)",
@@ -1346,7 +1295,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona un/a cuoco/a per struttura hotel, full-time 40 ore, turno fisso mattina o pomeriggio/sera, un anno di esperienza richiesto.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-pt-sorbanella-brescia",
@@ -1362,7 +1312,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a cameriere/a part-time in zona Sorbanella, Brescia Sud, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-banco-barista-rezzato",
@@ -1378,7 +1329,8 @@
       "datePosted": null,
       "description": "Randstad seleziona un/a addetto/a al banco per azienda di ristorazione a Rezzato, part-time 24 ore settimanali, esperienza non richiesta.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-junior-cook-brescia",
@@ -1394,7 +1346,8 @@
       "datePosted": null,
       "description": "Randstad seleziona un/a junior cook per ristorante di fascia alta a Brescia, turno unico.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cassiera-ipermercato-brescia",
@@ -1410,7 +1363,8 @@
       "datePosted": null,
       "description": "Randstad seleziona un/a cassiere/a per ipermercato a Brescia.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addetto-mensa-brescia",
@@ -1426,7 +1380,8 @@
       "datePosted": null,
       "description": "Randstad seleziona un/a addetto/a mensa a Brescia, part-time 15 ore settimanali, contratto in agenzia.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-sala-rodengo-saiano",
@@ -1442,7 +1397,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona un/a addetto/a alla sala per cliente della ristorazione presso il Franciacorta Designer Village, Rodengo Saiano, 20/24 ore settimanali.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-commessa-tessile-rodengo-saiano",
@@ -1458,7 +1414,8 @@
       "datePosted": null,
       "description": "Adecco Italia, filiale di Castegnato, ricerca per azienda del settore tessile un/a addetto/a vendita part-time 26 ore settimanali, zona Rodengo Saiano.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-cameriera-turismo-brescia",
@@ -1474,7 +1431,8 @@
       "datePosted": null,
       "description": "Adecco ricerca per attività del settore turismo, hotel e ristorazione a Brescia un/a cameriere/a disponibile su servizi di pranzo e cena.",
       "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
+      "lastSeen": "2026-10-15T09:00:00Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
