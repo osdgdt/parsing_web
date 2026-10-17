@@ -1264,23 +1264,6 @@
       "description": "Gi Group ricerca un/a addetto/a vendite riservato a categorie protette (L.68/99) per punto vendita a Brescia.",
       "firstSeen": "2026-10-15T09:00:00Z",
       "lastSeen": "2026-10-15T09:00:00Z"
-    },
-    {
-      "id": "adecco-vendita-cassa-castel-mella",
-      "role": "commessa",
-      "title": "Addetto/a Vendita e Cassa",
-      "company": "Adecco Italia",
-      "location": "Castel Mella (BS)",
-      "comune": "castel-mella",
-      "url": "https://www.adecco.it/offerte-lavoro",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco ricerca, per un importante cliente della GDO, addetti/e vendita e cassa part time 24h nel punto vendita di Castel Mella.",
-      "firstSeen": "2026-10-16T05:10:49Z",
-      "lastSeen": "2026-10-16T05:10:49Z",
-      "linkVerifyFailCount": 1
     }
   ]
 }
