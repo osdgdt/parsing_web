@@ -1263,7 +1263,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a Cameriere/a, zona Mompiano.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-sala-bar-brescia",
@@ -1279,7 +1280,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere/a di Sala e Bar, lavoro su turni, un anno di esperienza preferibile.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cuoco-hotel-brescia",
@@ -1295,7 +1297,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cuoco/a per struttura hotel, turni su rotazione con due giorni di riposo garantiti.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-banco-pasticceria-collebeato",
@@ -1311,7 +1314,8 @@
       "datePosted": null,
       "description": "Randstad Italia seleziona per una storica e rinomata pasticceria di Collebeato un/a Addetto/a al Banco; ricerca aperta anche a junior e studenti.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addetto-vendita-gdo-brescia",
@@ -1327,7 +1331,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per un'affermata realta della Grande Distribuzione Organizzata un/a Addetto/a alla Vendita, part-time 24 ore su turni.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addetto-vendita-alimentare-brescia",
@@ -1343,7 +1348,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Addetto/a Vendita per negozio alimentare, tempo pieno 40 ore su sei giorni, un anno di esperienza richiesto.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-19T05:15:58Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
