@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-18T05:15:00Z",
+  "lastUpdated": "2026-10-19T05:15:58Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -546,22 +546,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41348/",
-      "role": "commessa",
-      "title": "Commessa/o profumeria - The W Fragrances",
-      "company": "THE W FRAGRANCES",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41348/",
-      "source": "regione-lombardia",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerta pubblicata dal Centro per l'Impiego per commessa/o in profumeria (The W Fragrances): accoglienza e assistenza clienti, gestione cassa, riassortimento, orario full-time con possibilità di part-time 24/30/36 ore, contratto a termine, apprendistato o tirocinio.",
-      "firstSeen": "2026-09-27T05:31:00Z",
-      "lastSeen": "2026-09-27T05:31:00Z"
-    },
-    {
       "id": "storico-cafe-cameriere-brescia",
       "role": "cameriera",
       "title": "Cameriere/a - Storico Café",
@@ -783,7 +767,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-18T05:15:00Z"
+      "lastSeen": "2026-10-19T05:15:58Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1103,7 +1087,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetto/a gastronomia full time per punto vendita a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-18T05:15:00Z"
+      "lastSeen": "2026-10-19T05:15:58Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
@@ -1119,7 +1103,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-18T05:15:00Z"
+      "lastSeen": "2026-10-19T05:15:58Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -1135,7 +1119,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-18T05:15:00Z"
+      "lastSeen": "2026-10-19T05:15:58Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1247,7 +1231,7 @@
       "datePosted": null,
       "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-14T05:08:52Z"
+      "lastSeen": "2026-10-19T05:15:58Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
@@ -1264,6 +1248,102 @@
       "description": "Gi Group ricerca un/a addetto/a vendite riservato a categorie protette (L.68/99) per punto vendita a Brescia.",
       "firstSeen": "2026-10-15T09:00:00Z",
       "lastSeen": "2026-10-15T09:00:00Z"
+    },
+    {
+      "id": "randstad-cameriere-birreria-mompiano-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Birreria (zona Mompiano)",
+      "company": "Randstad Italia, filiale di Brescia",
+      "location": "Brescia (zona Mompiano)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a Cameriere/a, zona Mompiano.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
+    },
+    {
+      "id": "randstad-cameriere-sala-bar-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a di Sala e Bar",
+      "company": "Randstad Italia, filiale di Brescia",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "22.000-28.000",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere/a di Sala e Bar, lavoro su turni, un anno di esperienza preferibile.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
+    },
+    {
+      "id": "randstad-cuoco-hotel-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a - Hotel",
+      "company": "Randstad Italia, filiale di Brescia",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cuoco/a per struttura hotel, turni su rotazione con due giorni di riposo garantiti.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
+    },
+    {
+      "id": "randstad-banco-pasticceria-collebeato",
+      "role": "cucina",
+      "title": "Addetto/a al Banco - Pasticceria storica",
+      "company": "Randstad Italia (pasticceria storica, Collebeato)",
+      "location": "Collebeato",
+      "comune": "collebeato",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "15.000-18.000",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia seleziona per una storica e rinomata pasticceria di Collebeato un/a Addetto/a al Banco; ricerca aperta anche a junior e studenti.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
+    },
+    {
+      "id": "randstad-addetto-vendita-gdo-brescia",
+      "role": "commessa",
+      "title": "Addetto/a alla Vendita - GDO",
+      "company": "Randstad Italia (GDO)",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "15.000-18.000",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per un'affermata realta della Grande Distribuzione Organizzata un/a Addetto/a alla Vendita, part-time 24 ore su turni.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
+    },
+    {
+      "id": "randstad-addetto-vendita-alimentare-brescia",
+      "role": "commessa",
+      "title": "Addetto/a Vendita - Negozio alimentare",
+      "company": "Randstad Italia (negozio alimentare)",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "22.000-28.000",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Addetto/a Vendita per negozio alimentare, tempo pieno 40 ore su sei giorni, un anno di esperienza richiesto.",
+      "firstSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-19T05:15:58Z"
     }
   ]
 }
