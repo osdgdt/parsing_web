@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-19T05:15:58Z",
+  "lastUpdated": "2026-10-20T05:13:52Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -256,22 +256,6 @@
       "description": "Ricerca receptionist con disponibilità al turno notturno, provincia di Brescia.",
       "firstSeen": "2026-09-15T05:11:43Z",
       "lastSeen": "2026-10-06T05:11:59Z"
-    },
-    {
-      "id": "indeed-hostess-resort-brescia",
-      "role": "reception",
-      "title": "Hostess - Resort",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-hostess-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Resort in zona Brescia ricerca hostess per accoglienza ospiti in ristorante, sistemazione ai tavoli e gestione di richieste speciali.",
-      "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-09-28T05:20:00Z"
     },
     {
       "id": "gigroup-barista-brescia-pr",
@@ -1277,10 +1261,10 @@
       "source": "randstad",
       "salary": "22.000-28.000",
       "contractType": "tempo-pieno",
-      "datePosted": null,
+      "datePosted": "2026-06-30",
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere/a di Sala e Bar, lavoro su turni, un anno di esperienza preferibile.",
       "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
+      "lastSeen": "2026-10-20T05:13:52Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1350,6 +1334,102 @@
       "firstSeen": "2026-10-19T05:15:58Z",
       "lastSeen": "2026-10-19T05:15:58Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "gigroup-cuococameriere-brescia",
+      "role": "cucina",
+      "title": "Cuoco/Cameriere a Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
+      "source": "gigroup",
+      "salary": "20.000-25.000 EUR/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": "2026-08-02",
+      "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
+    },
+    {
+      "id": "randstad-cameriere-sorbanella-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Brescia (Sorbanella/Brescia Sud)",
+      "company": null,
+      "location": "Brescia (Sorbanella/Brescia Sud)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione/lombardia",
+      "source": "randstad",
+      "salary": "15.000-18.000 EUR/anno",
+      "contractType": "part-time",
+      "datePosted": "2026-09-16",
+      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un cameriere/a, nessuna esperienza richiesta.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
+    },
+    {
+      "id": "randstad-cuoco-junior-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a Junior - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione/lombardia",
+      "source": "randstad",
+      "salary": "22.000-26.000 EUR/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": "2026-08-28",
+      "description": "Randstad Italia, filiale di Brescia, ricerca un cuoco junior per ristorante di fascia medio-alta in città, turno singolo, circa un anno di esperienza richiesto.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
+    },
+    {
+      "id": "randstad-cassiere-gdo-concesio",
+      "role": "cassiera",
+      "title": "Cassiere/a Settore GDO - Concesio",
+      "company": null,
+      "location": "Concesio (BS)",
+      "comune": "concesio",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca un/a cassiere/a per punto vendita GDO a Concesio, contratto di somministrazione a tempo determinato.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
+    },
+    {
+      "id": "autogrill-barista-roncadelle",
+      "role": "barista",
+      "title": "Barista/Addetto Ristorazione - Autogrill Roncadelle",
+      "company": "Autogrill Italia",
+      "location": "Roncadelle",
+      "comune": "roncadelle",
+      "url": "https://it.indeed.com/q-bar-l-roncadelle,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Autogrill Italia ricerca barista/addetto ristorazione part-time per il punto vendita autostradale di Roncadelle, turni programmati da 8 a 24 ore settimanali.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
+    },
+    {
+      "id": "bluhotelbrixia-cuocojunior-castenedolo",
+      "role": "cucina",
+      "title": "Cuoco/a Junior - Blu Hotel Brixia",
+      "company": "Blu Hotel Brixia",
+      "location": "Castenedolo",
+      "comune": "castenedolo",
+      "url": "https://it.indeed.com/Castenedolo,-Lombardia-offerte-lavoro-Barista,cameriera,commessa",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Cuoco/a Junior con possibilità di inserimento imminente.",
+      "firstSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-20T05:13:52Z"
     }
   ]
 }
