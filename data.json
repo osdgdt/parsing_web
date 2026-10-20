@@ -1234,108 +1234,6 @@
       "lastSeen": "2026-10-15T09:00:00Z"
     },
     {
-      "id": "randstad-cameriere-birreria-mompiano-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Birreria (zona Mompiano)",
-      "company": "Randstad Italia, filiale di Brescia",
-      "location": "Brescia (zona Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a Cameriere/a, zona Mompiano.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cameriere-sala-bar-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a di Sala e Bar",
-      "company": "Randstad Italia, filiale di Brescia",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "22.000-28.000",
-      "contractType": "tempo-pieno",
-      "datePosted": "2026-06-30",
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere/a di Sala e Bar, lavoro su turni, un anno di esperienza preferibile.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-20T05:13:52Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuoco-hotel-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a - Hotel",
-      "company": "Randstad Italia, filiale di Brescia",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cuoco/a per struttura hotel, turni su rotazione con due giorni di riposo garantiti.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-banco-pasticceria-collebeato",
-      "role": "cucina",
-      "title": "Addetto/a al Banco - Pasticceria storica",
-      "company": "Randstad Italia (pasticceria storica, Collebeato)",
-      "location": "Collebeato",
-      "comune": "collebeato",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "15.000-18.000",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia seleziona per una storica e rinomata pasticceria di Collebeato un/a Addetto/a al Banco; ricerca aperta anche a junior e studenti.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addetto-vendita-gdo-brescia",
-      "role": "commessa",
-      "title": "Addetto/a alla Vendita - GDO",
-      "company": "Randstad Italia (GDO)",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "15.000-18.000",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per un'affermata realta della Grande Distribuzione Organizzata un/a Addetto/a alla Vendita, part-time 24 ore su turni.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addetto-vendita-alimentare-brescia",
-      "role": "commessa",
-      "title": "Addetto/a Vendita - Negozio alimentare",
-      "company": "Randstad Italia (negozio alimentare)",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "22.000-28.000",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Addetto/a Vendita per negozio alimentare, tempo pieno 40 ore su sei giorni, un anno di esperienza richiesto.",
-      "firstSeen": "2026-10-19T05:15:58Z",
-      "lastSeen": "2026-10-19T05:15:58Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "gigroup-cuococameriere-brescia",
       "role": "cucina",
       "title": "Cuoco/Cameriere a Brescia",
@@ -1365,7 +1263,8 @@
       "datePosted": "2026-09-16",
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un cameriere/a, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-20T05:13:52Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cuoco-junior-brescia",
@@ -1381,7 +1280,8 @@
       "datePosted": "2026-08-28",
       "description": "Randstad Italia, filiale di Brescia, ricerca un cuoco junior per ristorante di fascia medio-alta in città, turno singolo, circa un anno di esperienza richiesto.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-20T05:13:52Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cassiere-gdo-concesio",
@@ -1397,7 +1297,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a cassiere/a per punto vendita GDO a Concesio, contratto di somministrazione a tempo determinato.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-20T05:13:52Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "autogrill-barista-roncadelle",
