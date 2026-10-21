@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-20T05:13:52Z",
+  "lastUpdated": "2026-10-21T05:14:59Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -48,38 +48,6 @@
       "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia per barista, nuova apertura ristorante, gestione autonoma del servizio bar.",
       "firstSeen": "2026-09-02T05:16:42Z",
       "lastSeen": "2026-10-06T05:11:59Z"
-    },
-    {
-      "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-641809183.htm",
-      "role": "cassiera",
-      "title": "Cassiera/e",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-641809183.htm",
-      "source": "subito",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerta di lavoro come cassiera/e a Brescia.",
-      "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
-    },
-    {
-      "id": "https://www.subito.it/offerte-lavoro/cassiera-e-part-time-0406-brescia-642507646.htm",
-      "role": "cassiera",
-      "title": "Cassiera/e Part-Time 0406",
-      "company": "Adecco Italia SpA",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.subito.it/offerte-lavoro/cassiera-e-part-time-0406-brescia-642507646.htm",
-      "source": "subito",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco Italia SpA ricerca cassiera/e part-time a Brescia.",
-      "firstSeen": "2026-09-02T05:16:42Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
     },
     {
       "id": "areadocks-barista-brescia",
@@ -194,22 +162,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-617333768.htm",
-      "role": "cassiera",
-      "title": "Cassiera/e - Brescia",
-      "company": "Da Pino Srl",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.subito.it/offerte-lavoro/cassiera-e-brescia-brescia-617333768.htm",
-      "source": "subito",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Da Pino Srl ricerca cassiera/e a Brescia.",
-      "firstSeen": "2026-09-08T05:15:22Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
-    },
-    {
       "id": "indeed-barista-cameriera-rezzato-fulltime",
       "role": "barista",
       "title": "Barista/Cameriera - Rezzato",
@@ -239,7 +191,7 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Chef de Rang per il servizio di sala.",
       "firstSeen": "2026-09-13T05:10:16Z",
-      "lastSeen": "2026-10-11T05:08:35Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
       "id": "indeed-receptionist-nightshift-brescia",
@@ -482,22 +434,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "gigroup-pasticciere-collebeato",
-      "role": "cucina",
-      "title": "Pasticciere - Collebeato",
-      "company": null,
-      "location": "Collebeato",
-      "comune": "collebeato",
-      "url": "https://www.gigroup.it/offerte-lavoro/alimentari-e-bevande-si/lombardia-re/brescia-pr/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Gi Group ricerca pasticciere per laboratorio/punto vendita a Collebeato.",
-      "firstSeen": "2026-09-24T05:22:51Z",
-      "lastSeen": "2026-09-29T05:30:00Z"
-    },
-    {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40834/",
       "role": "cucina",
       "title": "Lavapiatti - Ristorante di lusso",
@@ -592,22 +528,6 @@
       "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia per barista.",
       "firstSeen": "2026-09-30T05:08:47Z",
       "lastSeen": "2026-10-06T05:11:59Z"
-    },
-    {
-      "id": "https://www.subito.it/offerte-lavoro/hostess-promoter-citta-di-brescia-brescia-575840794.htm",
-      "role": "reception",
-      "title": "Hostess & Promoter - Città di Brescia (D Rec)",
-      "company": "D Rec",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.subito.it/offerte-lavoro/hostess-promoter-citta-di-brescia-brescia-575840794.htm",
-      "source": "subito",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "D Rec ricerca hostess e promoter per attività promozionali nella città di Brescia.",
-      "firstSeen": "2026-09-30T05:08:47Z",
-      "lastSeen": "2026-09-30T05:08:47Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/receptionist-lumezzane-brescia-651982735.htm",
@@ -751,7 +671,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1199,7 +1119,7 @@
       "datePosted": null,
       "description": "Trattoria La Rosa a Ghedi cerca personale di cucina per preparazione piatti, part-time o full-time, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-11T05:08:35Z",
-      "lastSeen": "2026-10-11T05:08:35Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
       "id": "https://it.indeed.com/cmp/Accor/jobs",
@@ -1247,7 +1167,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
       "id": "randstad-cameriere-sorbanella-brescia",
@@ -1263,7 +1183,7 @@
       "datePosted": "2026-09-16",
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un cameriere/a, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-21T05:14:59Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1280,7 +1200,7 @@
       "datePosted": "2026-08-28",
       "description": "Randstad Italia, filiale di Brescia, ricerca un cuoco junior per ristorante di fascia medio-alta in città, turno singolo, circa un anno di esperienza richiesto.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-21T05:14:59Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1297,7 +1217,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a cassiere/a per punto vendita GDO a Concesio, contratto di somministrazione a tempo determinato.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z",
+      "lastSeen": "2026-10-21T05:14:59Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1314,7 +1234,7 @@
       "datePosted": null,
       "description": "Autogrill Italia ricerca barista/addetto ristorazione part-time per il punto vendita autostradale di Roncadelle, turni programmati da 8 a 24 ore settimanali.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
       "id": "bluhotelbrixia-cuocojunior-castenedolo",
@@ -1330,7 +1250,39 @@
       "datePosted": null,
       "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Cuoco/a Junior con possibilità di inserimento imminente.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-20T05:13:52Z"
+      "lastSeen": "2026-10-21T05:14:59Z"
+    },
+    {
+      "id": "randstad-cameriere-salaebar-brescia",
+      "role": "cameriera",
+      "title": "Cameriere di Sala e Bar",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "22.000€ - 28.000€ annui",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Cameriere di Sala e Bar per locale a Brescia, richiesta circa un anno di esperienza.",
+      "firstSeen": "2026-10-21T05:14:59Z",
+      "lastSeen": "2026-10-21T05:14:59Z"
+    },
+    {
+      "id": "randstad-cassiere-ipermercato-brescia",
+      "role": "cassiera",
+      "title": "Cassiere/a - Ipermercato",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "23.000€ - 26.000€ annui",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Addetto/a cassa per importante ipermercato situato a Brescia.",
+      "firstSeen": "2026-10-21T05:14:59Z",
+      "lastSeen": "2026-10-21T05:14:59Z"
     }
   ]
 }
