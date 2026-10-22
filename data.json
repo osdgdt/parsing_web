@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-21T05:14:59Z",
+  "lastUpdated": "2026-10-22T05:15:20Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -671,7 +671,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-21T05:14:59Z"
+      "lastSeen": "2026-10-22T05:15:20Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -1007,7 +1007,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-22T05:15:20Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -1023,7 +1023,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-22T05:15:20Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -1167,7 +1167,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-21T05:14:59Z"
+      "lastSeen": "2026-10-22T05:15:20Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -1215,7 +1215,7 @@
       "datePosted": null,
       "description": "Cameriere di Sala e Bar per locale a Brescia, richiesta circa un anno di esperienza.",
       "firstSeen": "2026-10-21T05:14:59Z",
-      "lastSeen": "2026-10-21T05:14:59Z",
+      "lastSeen": "2026-10-22T05:15:20Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -1232,8 +1232,72 @@
       "datePosted": null,
       "description": "Addetto/a cassa per importante ipermercato situato a Brescia.",
       "firstSeen": "2026-10-21T05:14:59Z",
-      "lastSeen": "2026-10-21T05:14:59Z",
+      "lastSeen": "2026-10-22T05:15:20Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-cameriere-birreria-sorbanella-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Catena Ristorazione/Birreria (zona Sorbanella)",
+      "company": null,
+      "location": "Brescia (zona Sorbanella / Brescia Sud)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "15.000€ - 18.000€ annui",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per importante e nota catena di Ristorazione/Birreria un Cameriere/a part-time in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
+      "firstSeen": "2026-10-22T05:15:20Z",
+      "lastSeen": "2026-10-22T05:15:20Z"
+    },
+    {
+      "id": "randstad-cuoco-hotel-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a - Hotel Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": "22.000€ - 28.000€ annui",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un Cuoco/a per un hotel a Brescia, full-time su turni (mattina/sera) con due giorni di riposo settimanali.",
+      "firstSeen": "2026-10-22T05:15:20Z",
+      "lastSeen": "2026-10-22T05:15:20Z"
+    },
+    {
+      "id": "randstad-cassiere-gdo-flero",
+      "role": "cassiera",
+      "title": "Cassiere/a Settore GDO - Flero",
+      "company": null,
+      "location": "Flero",
+      "comune": "flero",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia S.p.A., filiale di Brescia, seleziona per azienda della grande distribuzione organizzata un/a Cassiere/a a Flero, contratto di somministrazione a tempo determinato CCNL Commercio, full-time o part-time.",
+      "firstSeen": "2026-10-22T05:15:20Z",
+      "lastSeen": "2026-10-22T05:15:20Z"
+    },
+    {
+      "id": "randstad-addetto-vendita-alimentari-brescia",
+      "role": "commessa",
+      "title": "Addetto/a Vendita - Negozio Specialità Alimentari",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Addetto/a vendita per un negozio di specialità alimentari a Brescia, full-time su 6 giorni a settimana, richiesto un anno di esperienza.",
+      "firstSeen": "2026-10-22T05:15:20Z",
+      "lastSeen": "2026-10-22T05:15:20Z"
     }
   ]
 }
