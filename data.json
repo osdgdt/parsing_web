@@ -1010,74 +1010,6 @@
       "lastSeen": "2026-10-21T05:14:59Z"
     },
     {
-      "id": "randstad-cameriere-birreria-sorbanella-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Catena Ristorazione/Birreria (zona Sorbanella)",
-      "company": null,
-      "location": "Brescia (zona Sorbanella / Brescia Sud)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "15.000€ - 18.000€ annui",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per importante e nota catena di Ristorazione/Birreria un Cameriere/a part-time in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
-      "firstSeen": "2026-10-22T05:15:20Z",
-      "lastSeen": "2026-10-22T05:15:20Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuoco-hotel-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a - Hotel Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": "22.000€ - 28.000€ annui",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un Cuoco/a per un hotel a Brescia, full-time su turni (mattina/sera) con due giorni di riposo settimanali.",
-      "firstSeen": "2026-10-22T05:15:20Z",
-      "lastSeen": "2026-10-22T05:15:20Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cassiere-gdo-flero",
-      "role": "cassiera",
-      "title": "Cassiere/a Settore GDO - Flero",
-      "company": null,
-      "location": "Flero",
-      "comune": "flero",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia S.p.A., filiale di Brescia, seleziona per azienda della grande distribuzione organizzata un/a Cassiere/a a Flero, contratto di somministrazione a tempo determinato CCNL Commercio, full-time o part-time.",
-      "firstSeen": "2026-10-22T05:15:20Z",
-      "lastSeen": "2026-10-22T05:15:20Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addetto-vendita-alimentari-brescia",
-      "role": "commessa",
-      "title": "Addetto/a Vendita - Negozio Specialità Alimentari",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a Addetto/a vendita per un negozio di specialità alimentari a Brescia, full-time su 6 giorni a settimana, richiesto un anno di esperienza.",
-      "firstSeen": "2026-10-22T05:15:20Z",
-      "lastSeen": "2026-10-22T05:15:20Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "liberini-srl-receptionist-brescia",
       "role": "reception",
       "title": "Receptionist front office",
@@ -1155,7 +1087,8 @@
       "datePosted": null,
       "description": "Personale per hotel presso la Stazione di Brescia: mansioni di barista, piani, reception e back-office.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriera-fastcasual-brescia",
@@ -1171,7 +1104,8 @@
       "datePosted": null,
       "description": "Randstad seleziona per cliente leader nel fast casual food un/a addetto/a ristorazione per il punto vendita di Brescia, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-barista-stazione-brescia",
@@ -1187,7 +1121,8 @@
       "datePosted": null,
       "description": "Posizione part-time presso la Stazione di Brescia: preparazione caffè, colazioni e panini, richiesta anche breve esperienza.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cameriere-ristorazionecollettiva-brescia",
@@ -1203,7 +1138,8 @@
       "datePosted": null,
       "description": "Randstad seleziona per gruppo della ristorazione collettiva a Brescia, 35 ore settimanali.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cucina-birreria-brescia-2",
@@ -1219,7 +1155,8 @@
       "datePosted": null,
       "description": "Randstad, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a addetto/a alla cucina.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-commesso-mondoconvenienza-brescia",
@@ -1235,7 +1172,8 @@
       "datePosted": null,
       "description": "Randstad seleziona per Mondo Convenienza un/a commesso/a part time per il punto vendita di Brescia.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addettovendite-irismobili-brescia",
@@ -1251,7 +1189,8 @@
       "datePosted": null,
       "description": "Iris Mobili Srl, tramite Randstad, ricerca addetto/a alle vendite a Brescia con disponibilità nei weekend.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-barista-barbottega-brescia",
@@ -1267,7 +1206,8 @@
       "datePosted": null,
       "description": "Bar Bottega a Brescia cerca due persone per barista, cameriere e aperitivi, anche senza esperienza, orario full time dal lunedì al venerdì.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-cucina-lavoropiu-brescia",
@@ -1283,7 +1223,8 @@
       "datePosted": null,
       "description": "Lavoropiù ricerca un/a addetta/o cucina per locale a Brescia.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-10-23T05:16:59Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "subito-barista-sanpolino-brescia",
