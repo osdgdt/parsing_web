@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-23T05:16:59Z",
+  "lastUpdated": "2026-10-24T05:15:06Z",
   "listings": [
     {
       "id": "https://www.subito.it/offerte-lavoro/lavapiatti-brescia-brescia-585867719.htm",
@@ -479,7 +479,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-22T05:15:20Z"
+      "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
       "id": "latteria2-0-barista-cameriera-cassiera-brescia",
@@ -815,7 +815,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-22T05:15:20Z"
+      "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -831,7 +831,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-22T05:15:20Z"
+      "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -895,7 +895,7 @@
       "datePosted": null,
       "description": "Gi Group seleziona un/a addetto/a alle vendite per il supporto al reparto commerciale a Brescia.",
       "firstSeen": "2026-10-11T05:08:35Z",
-      "lastSeen": "2026-10-16T05:10:49Z"
+      "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
       "id": "indeed-segafredo-weekend-barista-brescia",
@@ -975,7 +975,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-22T05:15:20Z"
+      "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -1241,6 +1241,102 @@
       "description": "Bar nella zona di San Polino (Brescia) cerca barista con esperienza per turni pomeridiani, inquadramento CCNL Pubblici Esercizi, contratto a tempo indeterminato.",
       "firstSeen": "2026-10-23T05:16:59Z",
       "lastSeen": "2026-10-23T05:16:59Z"
+    },
+    {
+      "id": "gigroup-addettivendite-brescia-3",
+      "role": "commessa",
+      "title": "Addetti/e alle Vendite Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1364237/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca addetti/e alle vendite per punto vendita in provincia di Brescia.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
+    },
+    {
+      "id": "gigroup-addettivendite-brescia-4",
+      "role": "commessa",
+      "title": "Addetti/e alle Vendite Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1348597/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca addetti/e alle vendite per punto vendita in provincia di Brescia.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
+    },
+    {
+      "id": "randstad-banconista-rezzato",
+      "role": "barista",
+      "title": "Banconista - Area di Servizio Rezzato",
+      "company": null,
+      "location": "Rezzato (BS)",
+      "comune": "rezzato",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "15.000 € - 18.000 €/anno",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad, filiale di Brescia, seleziona per azienda della ristorazione un/a banconista per l'area di servizio di Rezzato, part-time 24 ore settimanali.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
+    },
+    {
+      "id": "randstad-lavapiatti-weekend-brescia",
+      "role": "cucina",
+      "title": "Addetto/a al Lavaggio Stoviglie / Lavapiatti",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "12.000 € - 14.000 €/anno",
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Randstad, filiale di Brescia, seleziona un/a addetto/a al lavaggio stoviglie/lavapiatti per il settore ristorazione, part-time weekend 12 ore settimanali.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
+    },
+    {
+      "id": "randstad-addettomensa-brescia",
+      "role": "cucina",
+      "title": "Addetto/a Mensa",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad seleziona per azienda di ristorazione collettiva un/a addetto/a mensa a Brescia, part-time 15 ore settimanali dal lunedì al venerdì, in somministrazione.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
+    },
+    {
+      "id": "randstad-cuocojunior-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a Junior",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "22.000 € - 26.000 €/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad seleziona per elegante realtà della ristorazione a Brescia un/a Cuoco/a Junior, turno unico, richiesta un anno di esperienza.",
+      "firstSeen": "2026-10-24T05:15:06Z",
+      "lastSeen": "2026-10-24T05:15:06Z"
     }
   ]
 }
