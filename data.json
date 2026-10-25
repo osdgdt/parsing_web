@@ -850,74 +850,6 @@
       "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
-      "id": "randstad-banconista-rezzato",
-      "role": "barista",
-      "title": "Banconista - Area di Servizio Rezzato",
-      "company": null,
-      "location": "Rezzato (BS)",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "15.000 € - 18.000 €/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad, filiale di Brescia, seleziona per azienda della ristorazione un/a banconista per l'area di servizio di Rezzato, part-time 24 ore settimanali.",
-      "firstSeen": "2026-10-24T05:15:06Z",
-      "lastSeen": "2026-10-24T05:15:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-lavapiatti-weekend-brescia",
-      "role": "cucina",
-      "title": "Addetto/a al Lavaggio Stoviglie / Lavapiatti",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "12.000 € - 14.000 €/anno",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad, filiale di Brescia, seleziona un/a addetto/a al lavaggio stoviglie/lavapiatti per il settore ristorazione, part-time weekend 12 ore settimanali.",
-      "firstSeen": "2026-10-24T05:15:06Z",
-      "lastSeen": "2026-10-24T05:15:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addettomensa-brescia",
-      "role": "cucina",
-      "title": "Addetto/a Mensa",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad seleziona per azienda di ristorazione collettiva un/a addetto/a mensa a Brescia, part-time 15 ore settimanali dal lunedì al venerdì, in somministrazione.",
-      "firstSeen": "2026-10-24T05:15:06Z",
-      "lastSeen": "2026-10-24T05:15:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuocojunior-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a Junior",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "22.000 € - 26.000 €/anno",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad seleziona per elegante realtà della ristorazione a Brescia un/a Cuoco/a Junior, turno unico, richiesta un anno di esperienza.",
-      "firstSeen": "2026-10-24T05:15:06Z",
-      "lastSeen": "2026-10-24T05:15:06Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "randstad-camerieresala-mompiano-brescia",
       "role": "cameriera",
       "title": "Cameriere di Sala - Birreria zona Mompiano",
@@ -931,7 +863,8 @@
       "datePosted": null,
       "description": "Randstad, filiale di Brescia, seleziona per nota birreria della zona di Mompiano un/a cameriere/a di sala, part-time 12 ore settimanali.",
       "firstSeen": "2026-10-25T05:13:44Z",
-      "lastSeen": "2026-10-25T05:13:44Z"
+      "lastSeen": "2026-10-25T05:13:44Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-camerieresalaebar-brescia",
@@ -947,7 +880,8 @@
       "datePosted": null,
       "description": "Randstad, filiale di Brescia, seleziona un/a cameriere/a di sala e bar, turno unico su 40 ore settimanali, richiesto almeno un anno di esperienza.",
       "firstSeen": "2026-10-25T05:13:44Z",
-      "lastSeen": "2026-10-25T05:13:44Z"
+      "lastSeen": "2026-10-25T05:13:44Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
