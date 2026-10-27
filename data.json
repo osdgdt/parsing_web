@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-25T05:13:44Z",
+  "lastUpdated": "2026-10-27T05:15:02Z",
   "listings": [
     {
       "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40946/",
@@ -130,54 +130,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
-      "role": "cucina",
-      "title": "Lavapiatti",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/40608/",
-      "source": "regione-lombardia",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Offerta pubblicata dal Centro per l'Impiego di Brescia (sede Via Cipro) per lavapiatti in nuovo ristorante, orario spezzato dal lunedì al sabato (10:30-14:30 e 19:00-22:00), contratto a termine finalizzato a stabilizzazione.",
-      "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41491",
-      "role": "cucina",
-      "title": "Lavapiatti - Trattoria L'Arcangelo",
-      "company": "Trattoria L'Arcangelo",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://lavoro.provincia.brescia.it/offerte-di-lavoro-e-formazione/dettaglio-offerta/41491",
-      "source": "regione-lombardia",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Offerta pubblicata dal Centro per l'Impiego per lavapiatti presso Trattoria L'Arcangelo: lavaggio stoviglie e pentolame, pulizia e sanificazione, gestione rifiuti, riordino. Richiesta patente B e mezzo proprio.",
-      "firstSeen": "2026-09-15T05:11:43Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "https://it.indeed.com/q-hostess,-promoter,-steward-l-brescia,-lombardia-offerte-lavoro.html",
-      "role": "reception",
-      "title": "Promoter/Dialogatore - Medici Senza Frontiere",
-      "company": "Medici Senza Frontiere",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-hostess,-promoter,-steward-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Medici Senza Frontiere ricerca promoter/dialogatore per attività di piazza a Brescia.",
-      "firstSeen": "2026-09-16T05:20:00Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
       "id": "https://it.indeed.com/viewjob?jk=0939e1e7813b3ab5",
       "role": "cameriera",
       "title": "Risorse con esperienza nella ristorazione - L'Antica Corte",
@@ -242,22 +194,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "storico-cafe-cameriere-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Storico Café",
-      "company": "Storico Café",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-cameriere-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Storico Café, nel centro storico di Brescia in una delle piazze più belle della città, ricerca camerieri/e dinamici.",
-      "firstSeen": "2026-09-28T05:20:00Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
       "id": "ristorante-cavrelle-lavapiatti-brescia",
       "role": "cucina",
       "title": "Lavapiatti - Ristorante Cavrelle",
@@ -290,22 +226,6 @@
       "lastSeen": "2026-10-06T05:11:59Z"
     },
     {
-      "id": "gigroup-sala-bar-collebeato",
-      "role": "barista",
-      "title": "Addetto/a Sala Bar - Collebeato",
-      "company": null,
-      "location": "Collebeato (BS)",
-      "comune": "collebeato",
-      "url": "https://www.gigroup.it/offerte-lavoro/alimentari-e-bevande-si/lombardia-re/brescia-pr/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
       "id": "gigroup-responsabile-bar-brescia",
       "role": "barista",
       "title": "Allievi Responsabili Bar - Brescia",
@@ -320,86 +240,6 @@
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
       "lastSeen": "2026-10-25T05:13:44Z"
-    },
-    {
-      "id": "latteria2-0-barista-cameriera-cassiera-brescia",
-      "role": "barista",
-      "title": "Barista/Cameriera/Cassiera - Latteria 2.0",
-      "company": "Latteria 2.0",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-barista,cameriera,commessa-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Latteria 2.0 a Brescia ricerca personale per i ruoli di barista, cameriera e cassiera, con possibilita' di full-time, part-time o contratto a termine.",
-      "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "pedronisrl-receptionist-barista-brescia",
-      "role": "reception",
-      "title": "Receptionist/Barista - Pedroni Srl",
-      "company": "Pedroni Srl",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-receptionist-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Pedroni Srl ricerca receptionist/barista per struttura a Brescia, orario flessibile, parcheggio gratuito.",
-      "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "medeat-hostess-brescia",
-      "role": "reception",
-      "title": "Hostess comfort - Medeat Srl",
-      "company": "Medeat Srl",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-hostess-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": "€900-1.200/mese",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Medeat Srl ricerca hostess comfort a Brescia, part-time 24 ore settimanali.",
-      "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
-      "role": "reception",
-      "title": "Receptionist - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro/receptionist-jo/lombardia-re/brescia-pr/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Gi Group ricerca receptionist per struttura in provincia di Brescia.",
-      "firstSeen": "2026-10-04T05:11:51Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
-    },
-    {
-      "id": "creiamopubblicita-promoter-hostess-brescia",
-      "role": "reception",
-      "title": "Promoter/Hostess - Creiamo Pubblicità Srls",
-      "company": "Creiamo Pubblicità Srls",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/Brescia,-Lombardia-offerte-lavoro-Promoter,-Hostess,-Volantinaggio",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Creiamo Pubblicità Srls ricerca promoter/hostess per attività di animazione vendita in negozio a Brescia.",
-      "firstSeen": "2026-10-05T05:10:41Z",
-      "lastSeen": "2026-10-05T05:10:41Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/6423-cuoco-a-brescia-606709426.htm",
@@ -527,7 +367,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetto/a gastronomia full time per punto vendita a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-27T05:15:02Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
@@ -559,7 +399,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-25T05:13:44Z"
+      "lastSeen": "2026-10-27T05:15:02Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -575,7 +415,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-14T05:08:52Z"
+      "lastSeen": "2026-10-27T05:15:02Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -671,7 +511,7 @@
       "datePosted": null,
       "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-19T05:15:58Z"
+      "lastSeen": "2026-10-27T05:15:02Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
@@ -858,12 +698,12 @@
       "comune": "brescia",
       "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
       "source": "randstad",
-      "salary": null,
+      "salary": "15.000-18.000 EUR/anno",
       "contractType": "part-time",
       "datePosted": null,
       "description": "Randstad, filiale di Brescia, seleziona per nota birreria della zona di Mompiano un/a cameriere/a di sala, part-time 12 ore settimanali.",
       "firstSeen": "2026-10-25T05:13:44Z",
-      "lastSeen": "2026-10-25T05:13:44Z",
+      "lastSeen": "2026-10-27T05:15:02Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -875,13 +715,61 @@
       "comune": "brescia",
       "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
       "source": "randstad",
-      "salary": null,
+      "salary": "22.000-28.000 EUR/anno",
       "contractType": "tempo-pieno",
       "datePosted": null,
       "description": "Randstad, filiale di Brescia, seleziona un/a cameriere/a di sala e bar, turno unico su 40 ore settimanali, richiesto almeno un anno di esperienza.",
       "firstSeen": "2026-10-25T05:13:44Z",
-      "lastSeen": "2026-10-25T05:13:44Z",
+      "lastSeen": "2026-10-27T05:15:02Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-cuocohotel-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a - Hotel Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "22.000-28.000 EUR/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad, filiale di Brescia, seleziona per prestigioso hotel di Brescia un/a cuoco/a, full-time 40 ore settimanali su turni.",
+      "firstSeen": "2026-10-27T05:15:02Z",
+      "lastSeen": "2026-10-27T05:15:02Z"
+    },
+    {
+      "id": "randstad-cuocojunior-ristorante-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a Junior - Ristorante Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "22.000-26.000 EUR/anno",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad, filiale di Brescia, seleziona per elegante realta' della ristorazione a Brescia un/a cuoco/a junior, turno unico (solo pranzo o solo cena).",
+      "firstSeen": "2026-10-27T05:15:02Z",
+      "lastSeen": "2026-10-27T05:15:02Z"
+    },
+    {
+      "id": "randstad-cassieregdo-concesio",
+      "role": "cassiera",
+      "title": "Cassiere/a settore GDO - Concesio",
+      "company": null,
+      "location": "Concesio",
+      "comune": "concesio",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona un/a cassiere/a per azienda della GDO a Concesio, contratto di somministrazione a tempo determinato.",
+      "firstSeen": "2026-10-27T05:15:02Z",
+      "lastSeen": "2026-10-27T05:15:02Z"
     }
   ]
 }
