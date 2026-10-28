@@ -386,57 +386,6 @@
       "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
-      "id": "randstad-cuocohotel-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a - Hotel Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "22.000-28.000 EUR/anno",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad, filiale di Brescia, seleziona per prestigioso hotel di Brescia un/a cuoco/a, full-time 40 ore settimanali su turni.",
-      "firstSeen": "2026-10-27T05:15:02Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuocojunior-ristorante-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a Junior - Ristorante Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "22.000-26.000 EUR/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad, filiale di Brescia, seleziona per elegante realta' della ristorazione a Brescia un/a cuoco/a junior, turno unico (solo pranzo o solo cena).",
-      "firstSeen": "2026-10-27T05:15:02Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cassieregdo-concesio",
-      "role": "cassiera",
-      "title": "Cassiere/a settore GDO - Concesio",
-      "company": null,
-      "location": "Concesio",
-      "comune": "concesio",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona un/a cassiere/a per azienda della GDO a Concesio, contratto di somministrazione a tempo determinato.",
-      "firstSeen": "2026-10-27T05:15:02Z",
-      "lastSeen": "2026-10-27T05:15:02Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "randstad-camerieresala-birreria-mompiano-brescia",
       "role": "cameriera",
       "title": "Cameriere di Sala - Birreria (zona Mompiano)",
@@ -450,7 +399,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Brescia (Mompiano), ricerca un/a cameriere/a di sala, part-time di circa 12 ore settimanali.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-28T06:05:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-camerieresorbanella-brescia",
@@ -466,7 +416,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per importante e nota catena di Ristorazione/Birreria un/a cameriere/a, sede di lavoro Brescia (zona Sorbanella).",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-28T06:05:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-lavapiatti-ristorazione-brescia",
@@ -482,7 +433,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota realtà del settore ristorazione un/a addetto/a al lavaggio stoviglie/lavapiatti a Brescia.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-28T06:05:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cassiere-hypermarket-brescia",
@@ -498,7 +450,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a cassiere/a per un hypermarket a Brescia.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-28T06:05:00Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-aiutocuoco-fastfood-brescia",
@@ -514,7 +467,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per catena fast food un/a aiuto cuoco/a, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-28T06:05:00Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
