@@ -386,91 +386,6 @@
       "lastSeen": "2026-10-24T05:15:06Z"
     },
     {
-      "id": "randstad-camerieresala-birreria-mompiano-brescia",
-      "role": "cameriera",
-      "title": "Cameriere di Sala - Birreria (zona Mompiano)",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Brescia (Mompiano), ricerca un/a cameriere/a di sala, part-time di circa 12 ore settimanali.",
-      "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-29T05:15:34Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-camerieresorbanella-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - catena Ristorazione/Birreria (zona Sorbanella)",
-      "company": null,
-      "location": "Brescia (Sorbanella)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per importante e nota catena di Ristorazione/Birreria un/a cameriere/a, sede di lavoro Brescia (zona Sorbanella).",
-      "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-29T05:15:34Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-lavapiatti-ristorazione-brescia",
-      "role": "cucina",
-      "title": "Addetto/a Lavaggio Stoviglie/Lavapiatti",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per nota realtà del settore ristorazione un/a addetto/a al lavaggio stoviglie/lavapiatti a Brescia.",
-      "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cassiere-hypermarket-brescia",
-      "role": "cassiera",
-      "title": "Cassiere/a - Hypermarket Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "23.000 EUR/anno",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a cassiere/a per un hypermarket a Brescia.",
-      "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-29T05:15:34Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-aiutocuoco-fastfood-brescia",
-      "role": "cucina",
-      "title": "Aiuto Cuoco - catena Fast Food",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per catena fast food un/a aiuto cuoco/a, nessuna esperienza richiesta.",
-      "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-29T05:15:34Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "gigroup-receptionist-lingue-nave",
       "role": "reception",
       "title": "Receptionist con Lingue - Nave",
@@ -500,7 +415,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per conto di una nota ed elegante realtà della ristorazione situata a Brescia, seleziona un/a Cuoco/a Junior.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-cuoco-hotel-brescia",
@@ -516,7 +432,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per prestigioso Hotel di Brescia un/a Cuoco/a a tempo pieno.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-mensa-parttime-brescia",
@@ -532,7 +449,8 @@
       "datePosted": null,
       "description": "Adecco Brescia ricerca addette/i mensa part-time per ospedali, case di riposo e strutture simili in provincia di Brescia.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-receptionfrontoffice-tessile-brescia",
@@ -548,7 +466,8 @@
       "datePosted": null,
       "description": "Adecco Italia Spa ricerca per azienda del settore tessile/pelletteria a Brescia una figura di front office/reception: accoglienza clienti, gestione centralino ed email.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-cuococapopartita-mensa-passirano",
@@ -564,7 +483,8 @@
       "datePosted": null,
       "description": "Adecco ricerca un/a Cuoco/a Capo Partita per mensa aziendale nella zona di Passirano.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-baristabanconista-ristorazione-brescia",
@@ -580,7 +500,8 @@
       "datePosted": null,
       "description": "Azienda del settore ristorazione a Brescia ricerca un/a Barista Banconista.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-barista-retail-brescia",
@@ -596,7 +517,8 @@
       "datePosted": null,
       "description": "Punto vendita retail a Brescia ricerca un/a Barista, contratto a tempo pieno indeterminato.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "bakeca-commessa-compro-oro-brescia",
@@ -612,7 +534,8 @@
       "datePosted": null,
       "description": "Azienda di gioielleria e compro oro con sede a Brescia ricerca un/a commessa/o commerciale.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "linkedin-barista-lagardere-brescia",
@@ -628,7 +551,8 @@
       "datePosted": null,
       "description": "Lagardère Travel Retail ricerca un/a barista per punto vendita con sede a Brescia.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "linkedin-barista-briccocafe-stazione-brescia",
@@ -644,7 +568,8 @@
       "datePosted": null,
       "description": "Briccocafè, locale presso la Stazione di Brescia, ricerca un/a barista part-time, 24 ore settimanali.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "linkedin-barista-starbucks-roncadelle",
@@ -660,7 +585,8 @@
       "datePosted": null,
       "description": "Starbucks Roncadelle ricerca un/a barista con contratto a tempo determinato e prospettiva di assunzione.",
       "firstSeen": "2026-10-29T05:15:34Z",
-      "lastSeen": "2026-10-29T05:15:34Z"
+      "lastSeen": "2026-10-29T05:15:34Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
