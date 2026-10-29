@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-28T06:05:00Z",
+  "lastUpdated": "2026-10-29T05:15:34Z",
   "listings": [
     {
       "id": "areadocks-barista-brescia",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-29T05:15:34Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -63,7 +63,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetto/a gastronomia full time per punto vendita a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-29T05:15:34Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-29T05:15:34Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -111,7 +111,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-29T05:15:34Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -239,7 +239,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-29T05:15:34Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -399,7 +399,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Brescia (Mompiano), ricerca un/a cameriere/a di sala, part-time di circa 12 ore settimanali.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
+      "lastSeen": "2026-10-29T05:15:34Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -416,7 +416,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per importante e nota catena di Ristorazione/Birreria un/a cameriere/a, sede di lavoro Brescia (zona Sorbanella).",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
+      "lastSeen": "2026-10-29T05:15:34Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -450,7 +450,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a cassiere/a per un hypermarket a Brescia.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
+      "lastSeen": "2026-10-29T05:15:34Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -467,8 +467,200 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per catena fast food un/a aiuto cuoco/a, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-28T06:05:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z",
+      "lastSeen": "2026-10-29T05:15:34Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "gigroup-receptionist-lingue-nave",
+      "role": "reception",
+      "title": "Receptionist con Lingue - Nave",
+      "company": "Gi Group",
+      "location": "Nave",
+      "comune": "nave",
+      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/nave-brescia-receptionist-con-lingue/1329571/",
+      "source": "gigroup",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Gi Group ricerca un/a receptionist con conoscenza di lingue estere per azienda con sede a Nave, contratto in somministrazione.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "randstad-cuocojunior-ristorazione-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a Junior - Ristorazione Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, per conto di una nota ed elegante realtà della ristorazione situata a Brescia, seleziona un/a Cuoco/a Junior.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "randstad-cuoco-hotel-brescia",
+      "role": "cucina",
+      "title": "Cuoco/a - Hotel Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per prestigioso Hotel di Brescia un/a Cuoco/a a tempo pieno.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "adecco-mensa-parttime-brescia",
+      "role": "cucina",
+      "title": "Addette/i Mensa Part-Time",
+      "company": "Adecco",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Adecco Brescia ricerca addette/i mensa part-time per ospedali, case di riposo e strutture simili in provincia di Brescia.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "adecco-receptionfrontoffice-tessile-brescia",
+      "role": "reception",
+      "title": "Front Office/Reception - Settore Tessile",
+      "company": "Adecco Italia Spa",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco Italia Spa ricerca per azienda del settore tessile/pelletteria a Brescia una figura di front office/reception: accoglienza clienti, gestione centralino ed email.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "adecco-cuococapopartita-mensa-passirano",
+      "role": "cucina",
+      "title": "Cuoco/a Capo Partita - Mensa Aziendale",
+      "company": "Adecco",
+      "location": "Passirano",
+      "comune": "passirano",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco ricerca un/a Cuoco/a Capo Partita per mensa aziendale nella zona di Passirano.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "bakeca-baristabanconista-ristorazione-brescia",
+      "role": "barista",
+      "title": "Barista Banconista",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Azienda del settore ristorazione a Brescia ricerca un/a Barista Banconista.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "bakeca-barista-retail-brescia",
+      "role": "barista",
+      "title": "Barista - Retail Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Punto vendita retail a Brescia ricerca un/a Barista, contratto a tempo pieno indeterminato.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "bakeca-commessa-compro-oro-brescia",
+      "role": "commessa",
+      "title": "Commessa/o Commerciale - Compro Oro",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Azienda di gioielleria e compro oro con sede a Brescia ricerca un/a commessa/o commerciale.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "linkedin-barista-lagardere-brescia",
+      "role": "barista",
+      "title": "Barista - Lagardère Travel Retail",
+      "company": "Lagardère Travel Retail",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=barista&location=Brescia%2C%20Italia",
+      "source": "linkedin",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Lagardère Travel Retail ricerca un/a barista per punto vendita con sede a Brescia.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "linkedin-barista-briccocafe-stazione-brescia",
+      "role": "barista",
+      "title": "Barista - Briccocafè Stazione di Brescia",
+      "company": "Briccocafè",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=barista&location=Brescia%2C%20Italia",
+      "source": "linkedin",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Briccocafè, locale presso la Stazione di Brescia, ricerca un/a barista part-time, 24 ore settimanali.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
+    },
+    {
+      "id": "linkedin-barista-starbucks-roncadelle",
+      "role": "barista",
+      "title": "Barista - Starbucks Roncadelle",
+      "company": "Starbucks",
+      "location": "Roncadelle",
+      "comune": "roncadelle",
+      "url": "https://www.linkedin.com/jobs/search/?keywords=barista&location=Roncadelle%2C%20Italia",
+      "source": "linkedin",
+      "salary": "900-1.350 EUR/mese lordi",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Starbucks Roncadelle ricerca un/a barista con contratto a tempo determinato e prospettiva di assunzione.",
+      "firstSeen": "2026-10-29T05:15:34Z",
+      "lastSeen": "2026-10-29T05:15:34Z"
     }
   ]
 }
