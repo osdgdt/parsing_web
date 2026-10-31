@@ -402,142 +402,6 @@
       "lastSeen": "2026-10-30T05:15:36Z"
     },
     {
-      "id": "randstad-camerieresala-birreria-mompiano-brescia",
-      "role": "cameriera",
-      "title": "Cameriere di Sala - Birreria (Mompiano)",
-      "company": null,
-      "location": "Brescia (Mompiano)",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Mompiano, ricerca un/a Cameriere/a di Sala, part-time 12 ore settimanali concentrate nel weekend.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-lavapiatti-weekend-brescia",
-      "role": "cucina",
-      "title": "Lavapiatti - Weekend Part-Time",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "12.000-14.000 EUR/anno",
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a lavapiatti per locale di ristorazione, part-time 12 ore settimanali nel weekend.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-banconista-rezzato",
-      "role": "cucina",
-      "title": "Banco - Ristorazione Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/a addetto/a al banco per locale di ristorazione a Rezzato, part-time 24 ore settimanali.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addettovendita-alimentare-brescia",
-      "role": "commessa",
-      "title": "Addetto/a Vendita - Punto Vendita Alimentare",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, per un elegante punto vendita specializzato nel settore alimentare seleziona un/a addetto/a vendita, 6° livello CCNL Commercio.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "adecco-roadhouse-ristorazione-brescia",
-      "role": "cameriera",
-      "title": "Addetti/e alla Ristorazione (Sala) - Roadhouse",
-      "company": "Roadhouse",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Per Roadhouse di Brescia si cercano addetti/e alla ristorazione part-time: in sala come cameriere/a ad accogliere i clienti, prendere le ordinazioni e servire.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "adecco-lavoropiu-camerierasorbanella-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Ristorazione Sorbanella",
-      "company": "Lavoropiù",
-      "location": "Brescia (Sorbanella)",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerte-lavoro",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Lavoropiù Spa, divisione Horeca, ricerca per locale di ristorazione veloce a Brescia Sorbanella un/a cameriere/a, part-time 24/30 ore settimanali.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-orienta-cameriera-centro-brescia",
-      "role": "cameriera",
-      "title": "Cameriera/e - Attività Ristorativa Centro Brescia",
-      "company": "Orienta S.p.A.",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Orienta S.p.A. - Filiale di Brescia ricerca per attività ristorativa situata in Brescia centro una/un cameriera/e.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "bakeca-tempimoderni-aiutocucina-brescia",
-      "role": "cucina",
-      "title": "Aiuto Cucina - Brescia",
-      "company": "Tempi Moderni SpA",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Tempi Moderni SpA, Agenzia per il lavoro, seleziona per azienda cliente un/a aiuto cucina a Brescia.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "regionelombardia-mcdonalds-cucina-brescia",
       "role": "cucina",
       "title": "Addetti Cucina e Sala - McDonald's Brescia",
@@ -554,23 +418,6 @@
       "lastSeen": "2026-10-30T05:15:36Z"
     },
     {
-      "id": "linkedin-reception-hotel-brescia",
-      "role": "reception",
-      "title": "Receptionist - Hotel Brescia (turni)",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.linkedin.com/jobs/search/?keywords=reception&location=Brescia%2C%20Italia",
-      "source": "linkedin",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Un hotel a Brescia ricerca personale di reception per ruolo full time su turni (7-15 / 15-23 / 23-7), con mansioni di check-in e check-out.",
-      "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "bakeca-centotrecaffe-barista-nave",
       "role": "barista",
       "title": "Barista - Centotrecaffè (Nave)",
@@ -584,7 +431,8 @@
       "datePosted": null,
       "description": "Centotrecaffè S.r.l. a Nave cerca 4 barista per colazioni, aperitivi e serate.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-10-31T05:13:55Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-turismoalbergo-cameriere-brescia",
@@ -600,7 +448,8 @@
       "datePosted": null,
       "description": "Adecco Italia, per una realtà a Brescia operante nel settore turismo, hotel e ristorazione, ricerca una figura di cameriere/a disponibile sui servizi di pranzo e cena.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-10-31T05:13:55Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "adecco-castelmella-vendita-cassa-gdo",
@@ -616,7 +465,8 @@
       "datePosted": null,
       "description": "Adecco, per un importante cliente della GDO, ricerca addetti/e vendita e cassa part time 24h nel punto vendita di Castel Mella.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-10-31T05:13:55Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-mensascolastica-brescia",
@@ -632,7 +482,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca addetti/e alla mensa scolastica a Brescia.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-10-31T05:13:55Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
