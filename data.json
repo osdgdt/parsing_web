@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-30T05:15:36Z",
+  "lastUpdated": "2026-10-31T05:13:55Z",
   "listings": [
     {
       "id": "bluhotelbrixia-chefderang-castenedolo",
@@ -31,7 +31,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-10-31T05:13:55Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-10-31T05:13:55Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-10-31T05:13:55Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -111,7 +111,7 @@
       "datePosted": null,
       "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
       "firstSeen": "2026-10-08T05:10:00Z",
-      "lastSeen": "2026-10-28T06:05:00Z"
+      "lastSeen": "2026-10-31T05:13:55Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetti-e-reparto-food-pt-20-ore-roncadelle/1344661/",
@@ -191,7 +191,7 @@
       "datePosted": null,
       "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-10-31T05:13:55Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
@@ -415,7 +415,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Mompiano, ricerca un/a Cameriere/a di Sala, part-time 12 ore settimanali concentrate nel weekend.",
       "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
+      "lastSeen": "2026-10-31T05:13:55Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -432,7 +432,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a lavapiatti per locale di ristorazione, part-time 12 ore settimanali nel weekend.",
       "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
+      "lastSeen": "2026-10-31T05:13:55Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -449,7 +449,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a addetto/a al banco per locale di ristorazione a Rezzato, part-time 24 ore settimanali.",
       "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
+      "lastSeen": "2026-10-31T05:13:55Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -517,7 +517,7 @@
       "datePosted": null,
       "description": "Orienta S.p.A. - Filiale di Brescia ricerca per attività ristorativa situata in Brescia centro una/un cameriera/e.",
       "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
+      "lastSeen": "2026-10-31T05:13:55Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -567,8 +567,72 @@
       "datePosted": null,
       "description": "Un hotel a Brescia ricerca personale di reception per ruolo full time su turni (7-15 / 15-23 / 23-7), con mansioni di check-in e check-out.",
       "firstSeen": "2026-10-30T05:15:36Z",
-      "lastSeen": "2026-10-30T05:15:36Z",
+      "lastSeen": "2026-10-31T05:13:55Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "bakeca-centotrecaffe-barista-nave",
+      "role": "barista",
+      "title": "Barista - Centotrecaffè (Nave)",
+      "company": "Centotrecaffè S.r.l.",
+      "location": "Nave",
+      "comune": "nave",
+      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Centotrecaffè S.r.l. a Nave cerca 4 barista per colazioni, aperitivi e serate.",
+      "firstSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-10-31T05:13:55Z"
+    },
+    {
+      "id": "adecco-turismoalbergo-cameriere-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Settore Turismo/Hotel/Ristorazione Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco Italia, per una realtà a Brescia operante nel settore turismo, hotel e ristorazione, ricerca una figura di cameriere/a disponibile sui servizi di pranzo e cena.",
+      "firstSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-10-31T05:13:55Z"
+    },
+    {
+      "id": "adecco-castelmella-vendita-cassa-gdo",
+      "role": "cassiera",
+      "title": "Addetto/a Vendita e Cassa - GDO Castel Mella",
+      "company": null,
+      "location": "Castel Mella",
+      "comune": "castel-mella",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Adecco, per un importante cliente della GDO, ricerca addetti/e vendita e cassa part time 24h nel punto vendita di Castel Mella.",
+      "firstSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-10-31T05:13:55Z"
+    },
+    {
+      "id": "randstad-mensascolastica-brescia",
+      "role": "cucina",
+      "title": "Addetto/a Mensa Scolastica - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": "7-9 EUR/ora",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca addetti/e alla mensa scolastica a Brescia.",
+      "firstSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-10-31T05:13:55Z"
     }
   ]
 }
