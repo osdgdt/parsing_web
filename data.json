@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-31T05:13:55Z",
+  "lastUpdated": "2026-11-01T05:13:08Z",
   "listings": [
     {
       "id": "bluhotelbrixia-chefderang-castenedolo",
@@ -31,7 +31,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -63,7 +63,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -111,23 +111,7 @@
       "datePosted": null,
       "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
       "firstSeen": "2026-10-08T05:10:00Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
-    },
-    {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetti-e-reparto-food-pt-20-ore-roncadelle/1344661/",
-      "role": "cucina",
-      "title": "Addetti/e Reparto Food PT 20 ore - Roncadelle",
-      "company": null,
-      "location": "Roncadelle (BS)",
-      "comune": "roncadelle",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetti-e-reparto-food-pt-20-ore-roncadelle/1344661/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Gi Group ricerca addetti/e per il reparto food (bar, bistrot, ristorazione) in un punto vendita a Roncadelle, contratto part-time 20 ore settimanali in somministrazione.",
-      "firstSeen": "2026-10-10T05:08:30Z",
-      "lastSeen": "2026-10-10T05:08:30Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-alle-vendite/1343271/",
@@ -144,22 +128,6 @@
       "description": "Gi Group seleziona un/a addetto/a alle vendite per il supporto al reparto commerciale a Brescia.",
       "firstSeen": "2026-10-11T05:08:35Z",
       "lastSeen": "2026-10-30T05:15:36Z"
-    },
-    {
-      "id": "indeed-segafredo-weekend-barista-brescia",
-      "role": "barista",
-      "title": "Barista Weekend",
-      "company": "Segafredo Zanetti",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/weekend-barista-jobs?fromage=1",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Segafredo Zanetti cerca personale per accoglienza e servizio al banco bar nei weekend a Brescia.",
-      "firstSeen": "2026-10-11T05:08:35Z",
-      "lastSeen": "2026-10-11T05:08:35Z"
     },
     {
       "id": "indeed-trattoria-la-rosa-cucina-ghedi",
@@ -191,7 +159,7 @@
       "datePosted": null,
       "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
       "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-10-31T05:13:55Z"
+      "lastSeen": "2026-11-01T05:13:08Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
@@ -448,7 +416,7 @@
       "datePosted": null,
       "description": "Adecco Italia, per una realtà a Brescia operante nel settore turismo, hotel e ristorazione, ricerca una figura di cameriere/a disponibile sui servizi di pranzo e cena.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-11-01T05:13:08Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -482,8 +450,120 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca addetti/e alla mensa scolastica a Brescia.",
       "firstSeen": "2026-10-31T05:13:55Z",
-      "lastSeen": "2026-10-31T05:13:55Z",
+      "lastSeen": "2026-11-01T05:13:08Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-cameriere-sorbanella-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Zona Sorbanella",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-camerieri/re-lombardia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una cameriere/a per sede di lavoro zona Sorbanella (Brescia), part-time circa 20 ore settimanali.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "randstad-camerieresala-bar-brescia-fulltime",
+      "role": "cameriera",
+      "title": "Cameriere di Sala e Bar - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-camerieri/re-lombardia/",
+      "source": "randstad",
+      "salary": "22.000-28.000 EUR/anno",
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere di sala e bar per struttura importante e prestigiosa, tempo pieno circa 40 ore settimanali.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "randstad-cameriere-mompiano-brescia",
+      "role": "cameriera",
+      "title": "Cameriere di Sala - Birreria Mompiano",
+      "company": null,
+      "location": "Brescia (Mompiano)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-camerieri/re-lombardia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Mompiano (Brescia), ricerca un cameriere di sala, part-time base 12 ore settimanali.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "randstad-cassiere-ipermercato-brescia",
+      "role": "cassiera",
+      "title": "Addetto/a alle Operazioni di Cassa - Ipermercato Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-cassiere/re-lombardia/",
+      "source": "randstad",
+      "salary": "a partire da 23.000 EUR/anno",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per un importante e strutturato ipermercato di Brescia risorse dinamiche per il ruolo di addetto/a alle operazioni di cassa.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "randstad-addettocucina-birreria-brescia",
+      "role": "cucina",
+      "title": "Addetto/a alla Cucina - Catena Birreria/Ristorazione",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-cuoco/re-lombardia/",
+      "source": "randstad",
+      "salary": "15.000-18.000 EUR/anno",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a addetto/a alla cucina per catena di birreria-ristorazione, nessuna esperienza richiesta.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "bakeca-tempimoderni-aiutocucina-brescia",
+      "role": "cucina",
+      "title": "Aiuto Cucina - Tempi Moderni SpA",
+      "company": "Tempi Moderni SpA",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.bakeca.it/annunci/lavoro/brescia/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Tempi Moderni SpA ricerca un/a aiuto cucina per locale a Brescia.",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
+    },
+    {
+      "id": "adecco-barista-roncadelle",
+      "role": "barista",
+      "title": "Barista Part-Time - Roncadelle",
+      "company": null,
+      "location": "Roncadelle (BS)",
+      "comune": "roncadelle",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Adecco Italia ricerca un/a barista part-time (24-30 ore settimanali) per punto vendita a Roncadelle (BS).",
+      "firstSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-01T05:13:08Z"
     }
   ]
 }
