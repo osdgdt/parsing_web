@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-01T05:13:08Z",
+  "lastUpdated": "2026-11-02T05:15:36Z",
   "listings": [
     {
       "id": "bluhotelbrixia-chefderang-castenedolo",
@@ -31,7 +31,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-11-01T05:13:08Z"
+      "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-01T05:13:08Z"
+      "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -191,7 +191,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -287,7 +287,7 @@
       "datePosted": null,
       "description": "Bar Atlantic presso Esselunga, tramite Adecco: caffetteria, servizio, preparazione snack e gestione cassa, contratto a tempo indeterminato.",
       "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-10-23T05:16:59Z"
+      "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
       "id": "subito-barista-sanpolino-brescia",
@@ -433,7 +433,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Mompiano (Brescia), ricerca un cameriere di sala, part-time base 12 ore settimanali.",
       "firstSeen": "2026-11-01T05:13:08Z",
-      "lastSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-02T05:15:36Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -467,7 +467,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a addetto/a alla cucina per catena di birreria-ristorazione, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-01T05:13:08Z",
-      "lastSeen": "2026-11-01T05:13:08Z",
+      "lastSeen": "2026-11-02T05:15:36Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -503,6 +503,182 @@
       "firstSeen": "2026-11-01T05:13:08Z",
       "lastSeen": "2026-11-01T05:13:08Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
+      "role": "cucina",
+      "title": "Aiuto Cuoco Part Time - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-part-time-brescia_brescia_9ab339c3-3456-4f9b-9fbf-fa7c88cbf3f2/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, ricerca un/a aiuto cuoco part-time per locale di ristorazione a Brescia.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
+      "role": "cucina",
+      "title": "Cuoco / Aiuto Cuoco - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/cuoco-aiuto-cuoco_brescia_ee40109c-15df-47fb-b70e-e247754de7db/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca un/a cuoco o aiuto cuoco per locale di ristorazione a Brescia.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "randstad-lavapiatti-cucina-weekend-mompiano-brescia",
+      "role": "cucina",
+      "title": "Lavapiatti / Addetto Cucina Weekend - Birreria Mompiano",
+      "company": null,
+      "location": "Brescia (Mompiano)",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione-intrattenimento-e-servizi-alla-persona/s2-cuochi/r-aiuto-cuoco/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, per nota birreria della zona di Mompiano (Brescia), ricerca un lavapiatti/addetto alla cucina per il weekend, part-time 12 ore settimanali.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "randstad-commesso-mondoconvenienza-brescia",
+      "role": "commessa",
+      "title": "Commesso Part Time - Mondo Convenienza",
+      "company": "Mondo Convenienza",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/s-sales-e-marketing/s2-addetti-alle-vendite-e-personale-del-supermercato/r-addetto-alle-vendite/re-lombardia/ci-brescia/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, divisione Delivery Center Key Client, ricerca per Mondo Convenienza un/a commesso/a part-time per il punto vendita di Brescia.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "indeed-sushinagoya-cameriera-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/Cameriera/Barista - Ristorante Sushi Nagoya",
+      "company": "Ristorante Sushi Nagoya",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-cameriere-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": "1.300-1.700 €/mese",
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Ristorante Sushi Nagoya a Brescia cerca personale part-time per l'accoglienza, esperienza come cameriere preferibile.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "indeed-thegallery-barista-brescia",
+      "role": "barista",
+      "title": "Barista/Banconista - The Gallery",
+      "company": "The Gallery snc",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/q-barista,caffetteria-l-brescia,-lombardia-offerte-lavoro.html",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "The Gallery snc a Brescia cerca un/a barista part-time, 20/15 ore su turni.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "indeed-hotelpedroni-receptionist-brescia",
+      "role": "reception",
+      "title": "Receptionist/Barista - Hotel Pedroni",
+      "company": "Hotel Pedroni Srl",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/Brescia,-Lombardia-offerte-lavoro-Barista,cameriera,commessa",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Hotel Pedroni Srl a Brescia cerca un/a receptionist part-time con mansione anche di barista per le colazioni, adatto anche a studenti.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "subito-barista-concesio",
+      "role": "barista",
+      "title": "Barista Full Time - Concesio",
+      "company": null,
+      "location": "Concesio",
+      "comune": "concesio",
+      "url": "https://www.subito.it/annunci-lombardia/vendita/offerte-lavoro/brescia/?q=barista",
+      "source": "subito",
+      "salary": null,
+      "contractType": "tempo-pieno",
+      "datePosted": null,
+      "description": "Offerta di lavoro per barista a tempo pieno a Concesio, settore turismo-ristorazione.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "subito-cameriere-brescia-centro",
+      "role": "cameriera",
+      "title": "Cameriere/Cameriera - Brescia Centro",
+      "company": null,
+      "location": "Brescia (Centro)",
+      "comune": "brescia",
+      "url": "https://www.subito.it/annunci-lombardia/vendita/offerte-lavoro/?q=cameriere",
+      "source": "subito",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Offerta di lavoro per cameriere/cameriera in zona Brescia Centro.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "bakeca-aiutocuoco-strutturasanitaria-lumezzane",
+      "role": "cucina",
+      "title": "Aiuto Cuoco - Struttura Sanitaria",
+      "company": null,
+      "location": "Lumezzane",
+      "comune": "lumezzane",
+      "url": "https://brescia.bakeca.it/annunci/bar-ristorazione/",
+      "source": "bakeca",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Struttura sanitaria a Lumezzane ricerca un/a aiuto cuoco per la cucina interna.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
+    },
+    {
+      "id": "adecco-gastronomia-bagnolomella",
+      "role": "cucina",
+      "title": "Addetto/a Gastronomia e Banco Salumeria - Supermercato",
+      "company": null,
+      "location": "Bagnolo Mella",
+      "comune": "bagnolo-mella",
+      "url": "https://www.adecco.it/offerte-lavoro",
+      "source": "adecco",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Adecco Italia, filiale di Capriano del Colle, ricerca un/a addetto/a alla gastronomia e banco salumeria per supermercato a Bagnolo Mella.",
+      "firstSeen": "2026-11-02T05:15:36Z",
+      "lastSeen": "2026-11-02T05:15:36Z"
     }
   ]
 }
