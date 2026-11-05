@@ -434,74 +434,6 @@
       "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
-      "id": "randstad-cameriere-birreria-mompiano-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a di Sala - Birreria Mompiano",
-      "company": null,
-      "location": "Mompiano, Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/q-camerieri/re-lombardia/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a cameriere/a di sala per una birreria nella zona di Mompiano (Brescia), part-time di 12 ore settimanali concentrate nel weekend.",
-      "firstSeen": "2026-11-04T05:13:49Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-cuoco-hotel-brescia",
-      "role": "cucina",
-      "title": "Cuoco/a - Hotel Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/s-turismo-ristorazione/lombardia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a cuoco/a per un hotel a Brescia, tempo pieno 40 ore settimanali su turni.",
-      "firstSeen": "2026-11-04T05:13:49Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-banconista-rezzato",
-      "role": "cucina",
-      "title": "Banconista - Area di Servizio Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad, filiale di Brescia, ricerca per importante azienda della ristorazione un/a banconista per l'area di servizio di Rezzato (Brescia), part-time 24 ore settimanali.",
-      "firstSeen": "2026-11-04T05:13:49Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-banconista-salumeria-gdo-brescia",
-      "role": "cucina",
-      "title": "Banconista Salumeria e Gastronomia - GDO Brescia",
-      "company": null,
-      "location": "Brescia e provincia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca per la GDO un/a banconista di reparto salumeria e gastronomia a Brescia e provincia, contratto di inserimento.",
-      "firstSeen": "2026-11-04T05:13:49Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "randstad-camerieresalaebar-brescia",
       "role": "cameriera",
       "title": "Cameriere di Sala e Bar - Brescia",
@@ -515,7 +447,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere di Sala e Bar per locale prestigioso a Brescia, full-time su turni.",
       "firstSeen": "2026-11-05T05:14:19Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-05T05:14:19Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "randstad-addettocucina-birreria-brescia",
@@ -531,7 +464,8 @@
       "datePosted": "2026-09-16",
       "description": "Randstad ricerca un/a addetto/a alla cucina per una catena di ristorazione/birreria a Brescia, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-05T05:14:19Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-05T05:14:19Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
