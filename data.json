@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-05T05:14:19Z",
+  "lastUpdated": "2026-11-06T05:13:39Z",
   "listings": [
     {
       "id": "bluhotelbrixia-chefderang-castenedolo",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetto/a gastronomia full time per punto vendita a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-10-30T05:15:36Z"
+      "lastSeen": "2026-11-06T05:13:39Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-ristorazione-brescia/1325287/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-06T05:13:39Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-01T05:13:08Z"
+      "lastSeen": "2026-11-06T05:13:39Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -111,7 +111,7 @@
       "datePosted": null,
       "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
       "firstSeen": "2026-10-08T05:10:00Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-06T05:13:39Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-alle-vendite/1343271/",
@@ -162,22 +162,6 @@
       "lastSeen": "2026-11-05T05:14:19Z"
     },
     {
-      "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
-      "role": "commessa",
-      "title": "Addetto/a alle Vendite (categoria protetta L.68/99)",
-      "company": "Gi Group",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-vendite-categoria-protette-l-68-99/1357059/",
-      "source": "gigroup",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Gi Group ricerca un/a addetto/a vendite riservato a categorie protette (L.68/99) per punto vendita a Brescia.",
-      "firstSeen": "2026-10-15T09:00:00Z",
-      "lastSeen": "2026-10-15T09:00:00Z"
-    },
-    {
       "id": "gigroup-cuococameriere-brescia",
       "role": "cucina",
       "title": "Cuoco/Cameriere a Brescia",
@@ -191,7 +175,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-06T05:13:39Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -447,7 +431,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a Cameriere di Sala e Bar per locale prestigioso a Brescia, full-time su turni.",
       "firstSeen": "2026-11-05T05:14:19Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
+      "lastSeen": "2026-11-06T05:13:39Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -464,8 +448,40 @@
       "datePosted": "2026-09-16",
       "description": "Randstad ricerca un/a addetto/a alla cucina per una catena di ristorazione/birreria a Brescia, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-05T05:14:19Z",
-      "lastSeen": "2026-11-05T05:14:19Z",
+      "lastSeen": "2026-11-06T05:13:39Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "randstad-cameriere-birreria-sorbanella-brescia",
+      "role": "cameriera",
+      "title": "Cameriere/a - Birreria zona Sorbanella",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "part-time",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una Cameriere/a per il punto vendita zona Sorbanella, part-time 12 ore settimanali.",
+      "firstSeen": "2026-11-06T05:13:39Z",
+      "lastSeen": "2026-11-06T05:13:39Z"
+    },
+    {
+      "id": "randstad-addettocassa-hypermarket-brescia",
+      "role": "cassiera",
+      "title": "Addetto/a alle Operazioni di Cassa - Ipermercato Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/q-cassiere/re-lombardia/",
+      "source": "randstad",
+      "salary": "a partire da 23.000 EUR/anno",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad ricerca un/a addetto/a alle operazioni di cassa per un ipermercato a Brescia.",
+      "firstSeen": "2026-11-06T05:13:39Z",
+      "lastSeen": "2026-11-06T05:13:39Z"
     }
   ]
 }
