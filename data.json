@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-06T05:13:39Z",
+  "lastUpdated": "2026-11-07T05:14:03Z",
   "listings": [
     {
       "id": "bluhotelbrixia-chefderang-castenedolo",
@@ -31,7 +31,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-06T05:13:39Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -95,7 +95,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-06T05:13:39Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -111,7 +111,7 @@
       "datePosted": null,
       "description": "Areadocks a Brescia ricerca personale di cucina (cuoco/pizzaiolo) oltre a barman e personale di sala.",
       "firstSeen": "2026-10-08T05:10:00Z",
-      "lastSeen": "2026-11-06T05:13:39Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-alle-vendite/1343271/",
@@ -143,7 +143,7 @@
       "datePosted": null,
       "description": "Trattoria La Rosa a Ghedi cerca personale di cucina per preparazione piatti, part-time o full-time, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-11T05:08:35Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "https://it.indeed.com/cmp/Accor/jobs",
@@ -175,7 +175,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-11-06T05:13:39Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "autogrill-barista-roncadelle",
@@ -303,7 +303,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e alle vendite per punto vendita in provincia di Brescia.",
       "firstSeen": "2026-10-24T05:15:06Z",
-      "lastSeen": "2026-10-24T05:15:06Z"
+      "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
       "id": "gigroup-addettivendite-brescia-4",
@@ -450,6 +450,86 @@
       "firstSeen": "2026-11-06T05:13:39Z",
       "lastSeen": "2026-11-06T05:13:39Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/cameriere-di-sala-part-time-weekend-mfnb_brescia_e7a71b3c-91ca-41a5-a8e6-b9e4067ce3c1/",
+      "role": "cameriera",
+      "title": "Cameriere/a di Sala part-time weekend - zona Mompiano",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/cameriere-di-sala-part-time-weekend-mfnb_brescia_e7a71b3c-91ca-41a5-a8e6-b9e4067ce3c1/",
+      "source": "randstad",
+      "salary": "15.000-18.000 EUR/anno",
+      "contractType": "weekend-sera",
+      "datePosted": null,
+      "description": "Randstad Italia, filiale di Brescia, seleziona per catena di ristorazione/birreria un/una Cameriere/a di sala per turni weekend, zona Mompiano.",
+      "firstSeen": "2026-11-07T05:14:03Z",
+      "lastSeen": "2026-11-07T05:14:03Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
+      "role": "cucina",
+      "title": "Addetto/a alla Cucina - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
+      "source": "randstad",
+      "salary": "15.000-18.000 EUR/anno",
+      "contractType": "indifferente",
+      "datePosted": "2026-09-16",
+      "description": "Randstad ricerca un/a addetto/a alla cucina per catena di ristorazione a Brescia, nessuna esperienza richiesta.",
+      "firstSeen": "2026-11-07T05:14:03Z",
+      "lastSeen": "2026-11-07T05:14:03Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
+      "role": "cucina",
+      "title": "Banconista - Rezzato",
+      "company": null,
+      "location": "Rezzato",
+      "comune": "rezzato",
+      "url": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad ricerca un/a banconista per punto vendita a Rezzato.",
+      "firstSeen": "2026-11-07T05:14:03Z",
+      "lastSeen": "2026-11-07T05:14:03Z"
+    },
+    {
+      "id": "indeed-italmark-cassiera-brescia",
+      "role": "cassiera",
+      "title": "Cassiera - Italmark",
+      "company": "Italmark",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/cmp/Italmark",
+      "source": "indeed",
+      "salary": "23.241,12-25.102,56 EUR/anno",
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Italmark, catena di supermercati, ricerca una cassiera per punto vendita a Brescia.",
+      "firstSeen": "2026-11-07T05:14:03Z",
+      "lastSeen": "2026-11-07T05:14:03Z"
+    },
+    {
+      "id": "indeed-areadocks-barman-brescia",
+      "role": "barista",
+      "title": "Barman/Barlady - Areadocks",
+      "company": "Areadocks",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://it.indeed.com/cmp/Areadocks/jobs",
+      "source": "indeed",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Areadocks a Brescia ricerca anche personale di barman/barlady, oltre a cuoco/pizzaiolo e personale di sala.",
+      "firstSeen": "2026-11-07T05:14:03Z",
+      "lastSeen": "2026-11-07T05:14:03Z"
     }
   ]
 }
