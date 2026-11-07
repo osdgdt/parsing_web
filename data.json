@@ -418,40 +418,6 @@
       "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
-      "id": "randstad-cameriere-birreria-sorbanella-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/a - Birreria zona Sorbanella",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/re-lombardia/ci-brescia",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una Cameriere/a per il punto vendita zona Sorbanella, part-time 12 ore settimanali.",
-      "firstSeen": "2026-11-06T05:13:39Z",
-      "lastSeen": "2026-11-06T05:13:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "randstad-addettocassa-hypermarket-brescia",
-      "role": "cassiera",
-      "title": "Addetto/a alle Operazioni di Cassa - Ipermercato Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/q-cassiere/re-lombardia/",
-      "source": "randstad",
-      "salary": "a partire da 23.000 EUR/anno",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a addetto/a alle operazioni di cassa per un ipermercato a Brescia.",
-      "firstSeen": "2026-11-06T05:13:39Z",
-      "lastSeen": "2026-11-06T05:13:39Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/cameriere-di-sala-part-time-weekend-mfnb_brescia_e7a71b3c-91ca-41a5-a8e6-b9e4067ce3c1/",
       "role": "cameriera",
       "title": "Cameriere/a di Sala part-time weekend - zona Mompiano",
@@ -497,7 +463,8 @@
       "datePosted": null,
       "description": "Randstad ricerca un/a banconista per punto vendita a Rezzato.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-07T05:14:03Z"
+      "lastSeen": "2026-11-07T05:14:03Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "indeed-italmark-cassiera-brescia",
