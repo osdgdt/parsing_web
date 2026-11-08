@@ -450,23 +450,6 @@
       "lastSeen": "2026-11-07T05:14:03Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "role": "cucina",
-      "title": "Banconista - Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a banconista per punto vendita a Rezzato.",
-      "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-07T05:14:03Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "indeed-italmark-cassiera-brescia",
       "role": "cassiera",
       "title": "Cassiera - Italmark",
@@ -592,7 +575,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una barista per locale a Brescia.",
       "firstSeen": "2026-11-08T05:13:02Z",
-      "lastSeen": "2026-11-08T05:13:02Z"
+      "lastSeen": "2026-11-08T05:13:02Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
