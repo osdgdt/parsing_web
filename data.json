@@ -562,74 +562,6 @@
       "lastSeen": "2026-11-10T05:15:00Z"
     },
     {
-      "id": "https://www.adecco.it/offerta/addettao-cassa-part-time-gussago-per-sostituzione-gdo-retail-commessi-scaffalisti?ID=80114e71-3cad-4a1b-aee3-652eb94c4ca1",
-      "role": "cassiera",
-      "title": "Addetta/o Cassa Part Time - Gussago (sostituzione)",
-      "company": null,
-      "location": "Gussago",
-      "comune": "gussago",
-      "url": "https://www.adecco.it/offerta/addettao-cassa-part-time-gussago-per-sostituzione-gdo-retail-commessi-scaffalisti?ID=80114e71-3cad-4a1b-aee3-652eb94c4ca1",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco ricerca un'addetta/o cassa part-time per sostituzione a Gussago, settore GDO/Retail, richiesta minima esperienza nella gestione cassa e flessibilita' sui turni.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-09T05:14:24Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/impiegatao-reception-junior-segreteria-servizi-generali?ID=885d8b3a-4e9a-4f77-b037-4077c8c92ae4",
-      "role": "reception",
-      "title": "Impiegata/o Reception Junior - Studio Legale Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/impiegatao-reception-junior-segreteria-servizi-generali?ID=885d8b3a-4e9a-4f77-b037-4077c8c92ae4",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco, filiale di Brescia, ricerca un/a receptionist junior per importante e consolidato studio legale a Brescia; non e' richiesta esperienza pregressa.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-09T05:14:24Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.it/offerta/baristie-part-time-stazione-di-brescia-personale-per-hotel-piani-reception-back-office?ID=36e4ea82-6246-4e4a-9820-b1b282a9b7d4",
-      "role": "barista",
-      "title": "Baristi/e Part Time - Stazione di Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.adecco.it/offerta/baristie-part-time-stazione-di-brescia-personale-per-hotel-piani-reception-back-office?ID=36e4ea82-6246-4e4a-9820-b1b282a9b7d4",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Adecco ricerca baristi/e part-time per punto di ristorazione presso la Stazione di Brescia.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-09T05:14:24Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "role": "commessa",
-      "title": "Commesso/a Settore GDO - Brescia e Provincia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona un/una commesso/a per il settore GDO a Brescia e provincia.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-10T05:15:00Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-reception-sales-centro-estetico_brescia_6e914fa9-b9ca-4ceb-a8ec-aaf24b2d7559/",
       "role": "reception",
       "title": "Addetto/a alla Reception/Sales - Centro Estetico Brescia",
@@ -644,23 +576,6 @@
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una addetto/a alla reception con compiti anche di sales per un centro estetico a Brescia.",
       "firstSeen": "2026-11-09T05:14:24Z",
       "lastSeen": "2026-11-09T05:14:24Z"
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "role": "cameriera",
-      "title": "Cameriere/a - Brescia (Sorbanella/Brescia Sud)",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "part-time",
-      "datePosted": "2026-09-16",
-      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una cameriere/a per la zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-09T05:14:24Z",
-      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/nave-brescia-receptionist-con-lingue/1357539/",
@@ -679,23 +594,6 @@
       "lastSeen": "2026-11-09T05:14:24Z"
     },
     {
-      "id": "https://brescia.bakeca.it/dettaglio/bar-ristorazione/barista-yzs9198198510",
-      "role": "barista",
-      "title": "Barista - Annunci Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://brescia.bakeca.it/dettaglio/bar-ristorazione/barista-yzs9198198510",
-      "source": "bakeca",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Annuncio su Bakeca Brescia per la ricerca di un/a barista nella sezione bar/ristorazione.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-09T05:14:24Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
       "role": "barista",
       "title": "Barista - Brescia",
@@ -709,7 +607,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a barista per punto di ristorazione/bar a Brescia.",
       "firstSeen": "2026-11-10T05:15:00Z",
-      "lastSeen": "2026-11-10T05:15:00Z"
+      "lastSeen": "2026-11-10T05:15:00Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
