@@ -578,23 +578,6 @@
       "lastSeen": "2026-11-09T05:14:24Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a barista per punto di ristorazione/bar a Brescia.",
-      "firstSeen": "2026-11-10T05:15:00Z",
-      "lastSeen": "2026-11-12T05:14:40Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetti-e-reparto-food-pt-20-ore-roncadelle/1344661/",
       "role": "cucina",
       "title": "Addetti/e Reparto Food PT 20 Ore - Roncadelle",
@@ -640,7 +623,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a banconista per azienda di ristorazione, part-time 24 ore settimanali, zona servizio Rezzato.",
       "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z"
+      "lastSeen": "2026-11-12T05:14:40Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
@@ -656,7 +640,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a banconista per punto vendita Esselunga a Brescia.",
       "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z"
+      "lastSeen": "2026-11-12T05:14:40Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-al-banco-pasticceria_mazzano_70d60a7b-52d6-4dab-84dc-3f6a708277e2/",
@@ -688,7 +673,8 @@
       "datePosted": null,
       "description": "Randstad ricerca un/a addetto/a al banco salumeria per punto vendita a Flero.",
       "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z"
+      "lastSeen": "2026-11-12T05:14:40Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1387589/",
