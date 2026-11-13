@@ -546,40 +546,6 @@
       "lastSeen": "2026-11-12T05:14:40Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "role": "cucina",
-      "title": "Banconista - Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/a banconista per azienda di ristorazione, part-time 24 ore settimanali, zona servizio Rezzato.",
-      "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
-      "role": "cucina",
-      "title": "Banconista - Esselunga Brescia",
-      "company": "Esselunga",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/a banconista per punto vendita Esselunga a Brescia.",
-      "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-al-banco-pasticceria_mazzano_70d60a7b-52d6-4dab-84dc-3f6a708277e2/",
       "role": "cucina",
       "title": "Addetto/a al Banco Pasticceria - Mazzano",
@@ -594,23 +560,6 @@
       "description": "Randstad Italia ricerca un/a addetto/a al banco pasticceria per punto vendita a Mazzano.",
       "firstSeen": "2026-11-12T05:14:40Z",
       "lastSeen": "2026-11-12T05:14:40Z"
-    },
-    {
-      "id": "https://randstad.com/jobs/addetto-al-banco-salumeria-flero-bs_flero_44307220",
-      "role": "cucina",
-      "title": "Addetto/a al Banco Salumeria - Flero",
-      "company": null,
-      "location": "Flero",
-      "comune": "flero",
-      "url": "https://randstad.com/jobs/addetto-al-banco-salumeria-flero-bs_flero_44307220",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad ricerca un/a addetto/a al banco salumeria per punto vendita a Flero.",
-      "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-12T05:14:40Z",
-      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1387589/",
@@ -658,7 +607,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona un/una barista per punto vendita a Brescia.",
       "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-13T05:18:19Z"
+      "lastSeen": "2026-11-13T05:18:19Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista_prevalle_e8fd4a49-5f66-4c90-be8e-98048ee34529/",
@@ -690,7 +640,8 @@
       "datePosted": null,
       "description": "Adecco ricerca un/a cuoco/a capo partita per mensa aziendale a Rodengo Saiano, con gestione della linea di produzione e coordinamento della partita assegnata.",
       "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-13T05:18:19Z"
+      "lastSeen": "2026-11-13T05:18:19Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
