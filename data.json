@@ -594,23 +594,6 @@
       "lastSeen": "2026-11-12T05:14:40Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, seleziona un/una barista per punto vendita a Brescia.",
-      "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-14T05:13:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/barista_prevalle_e8fd4a49-5f66-4c90-be8e-98048ee34529/",
       "role": "barista",
       "title": "Barista - Prevalle",
@@ -625,23 +608,6 @@
       "description": "Randstad Italia ricerca un/una barista per locale a Prevalle.",
       "firstSeen": "2026-11-13T05:18:19Z",
       "lastSeen": "2026-11-14T05:13:41Z"
-    },
-    {
-      "id": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "role": "cucina",
-      "title": "Cuoco/a Capo Partita - Mensa Aziendale - Rodengo Saiano",
-      "company": null,
-      "location": "Rodengo Saiano",
-      "comune": "rodengo-saiano",
-      "url": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca un/a cuoco/a capo partita per mensa aziendale a Rodengo Saiano, con gestione della linea di produzione e coordinamento della partita assegnata.",
-      "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-13T05:18:19Z",
-      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/cameriere-mfnb_brescia_c65d8dac-f876-4819-aaad-46407bed038a/",
@@ -673,7 +639,8 @@
       "datePosted": "2026-10-29",
       "description": "Randstad Italia, filiale di Brescia, ricerca un/a banconista per azienda di ristorazione presso l'area di servizio di Rezzato, part-time 24 ore settimanali, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-14T05:13:41Z",
-      "lastSeen": "2026-11-14T05:13:41Z"
+      "lastSeen": "2026-11-14T05:13:41Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
