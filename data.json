@@ -495,7 +495,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una addetto/a alla reception con compiti anche di sales per un centro estetico a Brescia.",
       "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-15T05:13:25Z"
+      "lastSeen": "2026-11-15T05:13:25Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/nave-brescia-receptionist-con-lingue/1357539/",
@@ -624,23 +625,6 @@
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a part-time per catena di ristorazione in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-14T05:13:41Z",
       "lastSeen": "2026-11-15T05:13:25Z"
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "role": "cucina",
-      "title": "Banconista - Area di Servizio Rezzato",
-      "company": null,
-      "location": "Rezzato",
-      "comune": "rezzato",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista_rezzato_3ff88e02-c457-464a-beed-fe5c4f050483/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "part-time",
-      "datePosted": "2026-10-29",
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/a banconista per azienda di ristorazione presso l'area di servizio di Rezzato, part-time 24 ore settimanali, nessuna esperienza richiesta.",
-      "firstSeen": "2026-11-14T05:13:41Z",
-      "lastSeen": "2026-11-14T05:13:41Z",
-      "linkVerifyFailCount": 1
     }
   ]
 }
