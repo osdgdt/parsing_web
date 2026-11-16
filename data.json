@@ -482,23 +482,6 @@
       "lastSeen": "2026-11-16T05:14:10Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-reception-sales-centro-estetico_brescia_6e914fa9-b9ca-4ceb-a8ec-aaf24b2d7559/",
-      "role": "reception",
-      "title": "Addetto/a alla Reception/Sales - Centro Estetico Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/addettoa-alla-reception-sales-centro-estetico_brescia_6e914fa9-b9ca-4ceb-a8ec-aaf24b2d7559/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/una addetto/a alla reception con compiti anche di sales per un centro estetico a Brescia.",
-      "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-15T05:13:25Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/nave-brescia-receptionist-con-lingue/1357539/",
       "role": "reception",
       "title": "Receptionist con Lingue - Nave",
@@ -640,7 +623,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una barista per locale a Brescia.",
       "firstSeen": "2026-11-16T05:14:10Z",
-      "lastSeen": "2026-11-16T05:14:10Z"
+      "lastSeen": "2026-11-16T05:14:10Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
