@@ -354,23 +354,6 @@
       "lastSeen": "2026-11-18T05:13:16Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
-      "role": "cucina",
-      "title": "Addetto/a alla Cucina - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "indifferente",
-      "datePosted": "2026-09-16",
-      "description": "Randstad ricerca un/a addetto/a alla cucina per catena di ristorazione a Brescia, nessuna esperienza richiesta.",
-      "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-18T05:13:16Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "indeed-italmark-cassiera-brescia",
       "role": "cassiera",
       "title": "Cassiera - Italmark",
@@ -465,23 +448,6 @@
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota realtà del settore ristorazione un/una addetto/a al lavaggio stoviglie/lavapiatti, part-time weekend 12h, circa un anno di esperienza richiesto.",
       "firstSeen": "2026-11-08T05:13:02Z",
       "lastSeen": "2026-11-18T05:13:16Z"
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "role": "cameriera",
-      "title": "Cameriere/Cameriera - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a per locale/ristorante a Brescia.",
-      "firstSeen": "2026-11-08T05:13:02Z",
-      "lastSeen": "2026-11-18T05:13:16Z",
-      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/nave-brescia-receptionist-con-lingue/1357539/",
@@ -610,23 +576,6 @@
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a part-time per catena di ristorazione in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-14T05:13:41Z",
       "lastSeen": "2026-11-18T05:13:16Z"
-    },
-    {
-      "id": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "role": "cucina",
-      "title": "Cuoco/a Capo Partita - Mensa Aziendale",
-      "company": null,
-      "location": "Rodengo Saiano",
-      "comune": "rodengo-saiano",
-      "url": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "source": "adecco",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca un/a cuoco/a capo partita per la gestione della linea di produzione in una mensa aziendale a Rodengo Saiano.",
-      "firstSeen": "2026-11-17T05:13:32Z",
-      "lastSeen": "2026-11-17T05:13:32Z",
-      "linkVerifyFailCount": 1
     }
   ]
 }
