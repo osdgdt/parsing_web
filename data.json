@@ -610,23 +610,6 @@
       "lastSeen": "2026-11-20T05:14:37Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "role": "commessa",
-      "title": "Commesso/a Settore GDO - Brescia e provincia",
-      "company": null,
-      "location": "Brescia e provincia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/a commesso/a per il settore GDO a Brescia e provincia.",
-      "firstSeen": "2026-11-20T05:14:37Z",
-      "lastSeen": "2026-11-20T05:14:37Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-sales-assistant-_-premium-brand/1334139/",
       "role": "commessa",
       "title": "Sales Assistant - Premium Brand - Brescia",
@@ -656,7 +639,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a cameriere/a per locale a Brescia.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-21T05:14:23Z"
+      "lastSeen": "2026-11-21T05:14:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
@@ -672,7 +656,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a cameriere/cameriera per locale a Brescia.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-21T05:14:23Z"
+      "lastSeen": "2026-11-21T05:14:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
@@ -688,7 +673,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a barista per locale a Brescia.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-21T05:14:23Z"
+      "lastSeen": "2026-11-21T05:14:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
@@ -704,7 +690,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a addetto/a alla cucina per locale a Brescia.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-21T05:14:23Z"
+      "lastSeen": "2026-11-21T05:14:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
@@ -720,7 +707,8 @@
       "datePosted": null,
       "description": "Adecco ricerca un/a cuoco/a capo partita per la gestione operativa delle linee di produzione in una mensa aziendale a Rodengo Saiano.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-21T05:14:23Z"
+      "lastSeen": "2026-11-21T05:14:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-staff-accoglienza-e-portierato-settore-automotive-brescia/2222223331/",
