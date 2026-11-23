@@ -687,7 +687,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una cameriere/a per attivita di ristorazione a Brescia.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-23T05:14:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
@@ -703,7 +704,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una lavapiatti per attivita di ristorazione a Brescia.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-23T05:14:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/lavapiatti-part-time-weekend-12h_brescia_9fe8a86e-cf05-4778-938d-ec305a6bfdce/",
@@ -719,7 +721,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una addetto/a al lavaggio stoviglie/lavapiatti, part-time weekend 12h, per attivita di ristorazione a Brescia.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-23T05:14:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
@@ -735,7 +738,8 @@
       "datePosted": "2026-09-16",
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una addetto/a alla cucina, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-23T05:14:08Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
@@ -751,7 +755,8 @@
       "datePosted": null,
       "description": "Adecco ricerca un/a cuoco/a capo partita per mensa aziendale a Rodengo-Saiano, gestione operativa delle linee di produzione in cucina.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-23T05:14:08Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
