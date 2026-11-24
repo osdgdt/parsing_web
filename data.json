@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-23T05:14:08Z",
+  "lastUpdated": "2026-11-24T05:14:56Z",
   "listings": [
     {
       "id": "gigroup-responsabile-bar-brescia",
@@ -15,7 +15,7 @@
       "datePosted": null,
       "description": "Contratto a tempo indeterminato, avvio previsto 6 ottobre 2026.",
       "firstSeen": "2026-10-03T05:10:30Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetto-a-gastronomia-full-time-brescia/1319089/",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -63,7 +63,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -127,7 +127,7 @@
       "datePosted": null,
       "description": "Trattoria La Rosa a Ghedi cerca personale di cucina per preparazione piatti, part-time o full-time, nessuna esperienza richiesta.",
       "firstSeen": "2026-10-11T05:08:35Z",
-      "lastSeen": "2026-11-10T05:15:00Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://it.indeed.com/cmp/Accor/jobs",
@@ -159,7 +159,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "bluhotelbrixia-cuocojunior-castenedolo",
@@ -176,22 +176,6 @@
       "description": "Blu Hotel Brixia a Castenedolo ricerca una figura di Cuoco/a Junior con possibilità di inserimento imminente.",
       "firstSeen": "2026-10-20T05:13:52Z",
       "lastSeen": "2026-11-18T05:13:16Z"
-    },
-    {
-      "id": "esselunga-baratlantic-barista-cassa-brescia",
-      "role": "barista",
-      "title": "Barista/Cassa - Bar Atlantic (Esselunga)",
-      "company": "Esselunga",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-barista,cameriera,commessa-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": "fino a 22.000 €/anno",
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Bar Atlantic presso Esselunga, tramite Adecco: caffetteria, servizio, preparazione snack e gestione cassa, contratto a tempo indeterminato.",
-      "firstSeen": "2026-10-23T05:16:59Z",
-      "lastSeen": "2026-11-02T05:15:36Z"
     },
     {
       "id": "gigroup-addettivendite-brescia-3",
@@ -258,54 +242,6 @@
       "lastSeen": "2026-11-20T05:14:37Z"
     },
     {
-      "id": "indeed-sushinagoya-cameriera-brescia",
-      "role": "cameriera",
-      "title": "Cameriere/Cameriera/Barista - Ristorante Sushi Nagoya",
-      "company": "Ristorante Sushi Nagoya",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-cameriere-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": "1.300-1.700 €/mese",
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Ristorante Sushi Nagoya a Brescia cerca personale part-time per l'accoglienza, esperienza come cameriere preferibile.",
-      "firstSeen": "2026-11-02T05:15:36Z",
-      "lastSeen": "2026-11-02T05:15:36Z"
-    },
-    {
-      "id": "indeed-thegallery-barista-brescia",
-      "role": "barista",
-      "title": "Barista/Banconista - The Gallery",
-      "company": "The Gallery snc",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/q-barista,caffetteria-l-brescia,-lombardia-offerte-lavoro.html",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "The Gallery snc a Brescia cerca un/a barista part-time, 20/15 ore su turni.",
-      "firstSeen": "2026-11-02T05:15:36Z",
-      "lastSeen": "2026-11-02T05:15:36Z"
-    },
-    {
-      "id": "indeed-hotelpedroni-receptionist-brescia",
-      "role": "reception",
-      "title": "Receptionist/Barista - Hotel Pedroni",
-      "company": "Hotel Pedroni Srl",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/Brescia,-Lombardia-offerte-lavoro-Barista,cameriera,commessa",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "part-time",
-      "datePosted": null,
-      "description": "Hotel Pedroni Srl a Brescia cerca un/a receptionist part-time con mansione anche di barista per le colazioni, adatto anche a studenti.",
-      "firstSeen": "2026-11-02T05:15:36Z",
-      "lastSeen": "2026-11-02T05:15:36Z"
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/cameriere-di-sala-part-time-weekend-mfnb_brescia_e7a71b3c-91ca-41a5-a8e6-b9e4067ce3c1/",
       "role": "cameriera",
       "title": "Cameriere/a di Sala part-time weekend - zona Mompiano",
@@ -319,7 +255,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per catena di ristorazione/birreria un/una Cameriere/a di sala per turni weekend, zona Mompiano.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "indeed-italmark-cassiera-brescia",
@@ -335,7 +271,7 @@
       "datePosted": null,
       "description": "Italmark, catena di supermercati, ricerca una cassiera per punto vendita a Brescia.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "indeed-areadocks-barman-brescia",
@@ -351,7 +287,7 @@
       "datePosted": null,
       "description": "Areadocks a Brescia ricerca anche personale di barman/barlady, oltre a cuoco/pizzaiolo e personale di sala.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetto-a-ristorazione-pt-20h-roncadelle-bs/1383461/",
@@ -431,7 +367,7 @@
       "datePosted": null,
       "description": "Gi Group, filiale di Sarezzo, ricerca un/a receptionist con conoscenza di lingue estere per azienda cliente con sede a Nave, contratto in somministrazione.",
       "firstSeen": "2026-11-09T05:14:24Z",
-      "lastSeen": "2026-11-20T05:14:37Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/roncadelle-brescia-addetti-e-reparto-food-pt-20-ore-roncadelle/1344661/",
@@ -511,7 +447,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca un/a addetto/a alle vendite per punto vendita a Brescia.",
       "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-22T05:14:16Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/barista_prevalle_e8fd4a49-5f66-4c90-be8e-98048ee34529/",
@@ -527,7 +463,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una barista per locale a Prevalle.",
       "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/cameriere-mfnb_brescia_c65d8dac-f876-4819-aaad-46407bed038a/",
@@ -543,7 +479,7 @@
       "datePosted": "2026-09-16",
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a part-time per catena di ristorazione in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-14T05:13:41Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/barista-brescia-661276220.htm",
@@ -591,7 +527,7 @@
       "datePosted": null,
       "description": "Dafà Srl a Ghedi cerca personale di cucina per preparazione linea e cotture, part-time o full-time.",
       "firstSeen": "2026-11-19T05:15:39Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/castel-mella-brescia-addetto-addetta-alle-vendite_castel-mella/1395839/",
@@ -639,7 +575,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca staff di accoglienza e portierato per azienda del settore automotive a Brescia.",
       "firstSeen": "2026-11-21T05:14:23Z",
-      "lastSeen": "2026-11-23T05:14:08Z"
+      "lastSeen": "2026-11-24T05:14:56Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alla-vendita-in-stage-brescia/1333159/",
@@ -687,7 +623,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una cameriere/a per attivita di ristorazione a Brescia.",
       "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z",
+      "lastSeen": "2026-11-24T05:14:56Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -757,6 +693,70 @@
       "firstSeen": "2026-11-23T05:14:08Z",
       "lastSeen": "2026-11-23T05:14:08Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
+      "role": "cameriera",
+      "title": "Cameriere/a",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-11-24T05:14:56Z",
+      "lastSeen": "2026-11-24T05:14:56Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
+      "role": "commessa",
+      "title": "Commesso/a settore GDO",
+      "company": null,
+      "location": "Brescia e provincia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-11-24T05:14:56Z",
+      "lastSeen": "2026-11-24T05:14:56Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
+      "role": "cucina",
+      "title": "Banconista",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-11-24T05:14:56Z",
+      "lastSeen": "2026-11-24T05:14:56Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
+      "role": "cucina",
+      "title": "Banconista",
+      "company": "Esselunga",
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": null,
+      "firstSeen": "2026-11-24T05:14:56Z",
+      "lastSeen": "2026-11-24T05:14:56Z"
     }
   ]
 }
