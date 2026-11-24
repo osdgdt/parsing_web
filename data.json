@@ -415,7 +415,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/a addetto/a al banco pasticceria per punto vendita a Mazzano.",
       "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-14T05:13:41Z"
+      "lastSeen": "2026-11-14T05:13:41Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1387589/",
@@ -610,91 +611,6 @@
       "lastSeen": "2026-11-22T05:14:16Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "role": "cameriera",
-      "title": "Cameriere/Cameriera - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una cameriere/a per attivita di ristorazione a Brescia.",
-      "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-24T05:14:56Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
-      "role": "cucina",
-      "title": "Lavapiatti - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una lavapiatti per attivita di ristorazione a Brescia.",
-      "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/lavapiatti-part-time-weekend-12h_brescia_9fe8a86e-cf05-4778-938d-ec305a6bfdce/",
-      "role": "cucina",
-      "title": "Lavapiatti Part-Time Weekend 12h - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/lavapiatti-part-time-weekend-12h_brescia_9fe8a86e-cf05-4778-938d-ec305a6bfdce/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "weekend-sera",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una addetto/a al lavaggio stoviglie/lavapiatti, part-time weekend 12h, per attivita di ristorazione a Brescia.",
-      "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
-      "role": "cucina",
-      "title": "Addetto/a alla Cucina - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
-      "source": "randstad",
-      "salary": "15.000-18.000 EUR/anno",
-      "contractType": "indifferente",
-      "datePosted": "2026-09-16",
-      "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una addetto/a alla cucina, nessuna esperienza richiesta.",
-      "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "role": "cucina",
-      "title": "Cuoco/a Capo Partita - Mensa Aziendale - Rodengo-Saiano",
-      "company": null,
-      "location": "Rodengo-Saiano",
-      "comune": "rodengo-saiano",
-      "url": "https://www.adecco.com/it-it/cerca-lavoro/cuocoa-capo-partita-mensa-aziendale-rodengo-saiano-brescia/c0077e97-e45e-4a23-a61d-03cbbc6a123a",
-      "source": "adecco",
-      "salary": "1.700-1.750 EUR/mese",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Adecco ricerca un/a cuoco/a capo partita per mensa aziendale a Rodengo-Saiano, gestione operativa delle linee di produzione in cucina.",
-      "firstSeen": "2026-11-23T05:14:08Z",
-      "lastSeen": "2026-11-23T05:14:08Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
       "role": "cameriera",
       "title": "Cameriere/a",
@@ -708,7 +624,8 @@
       "datePosted": null,
       "description": null,
       "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z"
+      "lastSeen": "2026-11-24T05:14:56Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
@@ -724,7 +641,8 @@
       "datePosted": null,
       "description": null,
       "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z"
+      "lastSeen": "2026-11-24T05:14:56Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
@@ -740,7 +658,8 @@
       "datePosted": null,
       "description": null,
       "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z"
+      "lastSeen": "2026-11-24T05:14:56Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
@@ -756,7 +675,8 @@
       "datePosted": null,
       "description": null,
       "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z"
+      "lastSeen": "2026-11-24T05:14:56Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
