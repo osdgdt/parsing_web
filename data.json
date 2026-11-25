@@ -402,23 +402,6 @@
       "lastSeen": "2026-11-12T05:14:40Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/addettoa-al-banco-pasticceria_mazzano_70d60a7b-52d6-4dab-84dc-3f6a708277e2/",
-      "role": "cucina",
-      "title": "Addetto/a al Banco Pasticceria - Mazzano",
-      "company": null,
-      "location": "Mazzano",
-      "comune": "mazzano",
-      "url": "https://www.randstad.it/offerte-lavoro/addettoa-al-banco-pasticceria_mazzano_70d60a7b-52d6-4dab-84dc-3f6a708277e2/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/a addetto/a al banco pasticceria per punto vendita a Mazzano.",
-      "firstSeen": "2026-11-12T05:14:40Z",
-      "lastSeen": "2026-11-14T05:13:41Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-addetti-e-alle-vendite-brescia/1387589/",
       "role": "commessa",
       "title": "Addetti/e alle Vendite Brescia",
@@ -611,74 +594,6 @@
       "lastSeen": "2026-11-22T05:14:16Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "role": "cameriera",
-      "title": "Cameriere/a",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-25T05:15:27Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "role": "commessa",
-      "title": "Commesso/a settore GDO",
-      "company": null,
-      "location": "Brescia e provincia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
-      "role": "cucina",
-      "title": "Banconista",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
-      "role": "cucina",
-      "title": "Banconista",
-      "company": "Esselunga",
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista-fmnb-esselunga-brescia-bs_brescia_da1c6191-8f10-47ec-a422-39bde575f835/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": null,
-      "firstSeen": "2026-11-24T05:14:56Z",
-      "lastSeen": "2026-11-24T05:14:56Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
       "role": "cameriera",
       "title": "Cameriere/Cameriera - Brescia",
@@ -692,7 +607,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
       "firstSeen": "2026-11-25T05:15:27Z",
-      "lastSeen": "2026-11-25T05:15:27Z"
+      "lastSeen": "2026-11-25T05:15:27Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
@@ -708,7 +624,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/a addetto/a alla cucina, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-25T05:15:27Z",
-      "lastSeen": "2026-11-25T05:15:27Z"
+      "lastSeen": "2026-11-25T05:15:27Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
