@@ -594,91 +594,6 @@
       "lastSeen": "2026-11-26T05:15:32Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "role": "cameriera",
-      "title": "Cameriere/a - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
-      "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-27T05:13:23Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "role": "barista",
-      "title": "Barista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/barista-fmnb_brescia_a56588b0-da68-435e-87d2-a1c05ae1a7ca/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una barista per locale a Brescia.",
-      "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-27T05:13:23Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "role": "commessa",
-      "title": "Commesso/a Settore GDO - Brescia e Provincia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/commesso-settore-gdo-fmnb-brescia-e-provincia_brescia_328558a2-57f1-4ae0-bb9a-89733c1b11d3/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia seleziona un/a commesso/a per il settore GDO a Brescia e provincia.",
-      "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-26T05:15:32Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
-      "role": "commessa",
-      "title": "Banconista - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/banconista_brescia_4c234e9f-c0fb-492f-937e-a9d1b5788ea9/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una banconista per punto vendita a Brescia.",
-      "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-26T05:15:32Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/addetta-mensa_lumezzane_5717b3c0-03e0-40b8-aef9-22b6f9af94b5/",
-      "role": "cucina",
-      "title": "Addetta/o Mensa - Lumezzane",
-      "company": null,
-      "location": "Lumezzane",
-      "comune": "lumezzane",
-      "url": "https://www.randstad.it/offerte-lavoro/addetta-mensa_lumezzane_5717b3c0-03e0-40b8-aef9-22b6f9af94b5/",
-      "source": "randstad",
-      "salary": "7-9 EUR/ora",
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una addetta/o mensa per servizio di ristorazione collettiva a Lumezzane.",
-      "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-26T05:15:32Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
       "role": "cameriera",
       "title": "Cameriere/Cameriera - Brescia",
@@ -692,7 +607,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
       "firstSeen": "2026-11-27T05:13:23Z",
-      "lastSeen": "2026-11-27T05:13:23Z"
+      "lastSeen": "2026-11-27T05:13:23Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
@@ -708,7 +624,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una lavapiatti per attività di ristorazione a Brescia.",
       "firstSeen": "2026-11-27T05:13:23Z",
-      "lastSeen": "2026-11-27T05:13:23Z"
+      "lastSeen": "2026-11-27T05:13:23Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
