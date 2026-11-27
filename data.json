@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-26T05:15:32Z",
+  "lastUpdated": "2026-11-27T05:13:23Z",
   "listings": [
     {
       "id": "gigroup-responsabile-bar-brescia",
@@ -47,7 +47,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca addetti/e ristorazione a Brescia, apprendistato part-time.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326331/",
@@ -63,7 +63,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "https://www.gigroup.it/offerte-lavoro-dettaglio/brescia-cuoco-cameriere/1326309/",
@@ -79,7 +79,7 @@
       "datePosted": null,
       "description": "Gi Group ricerca cuoco/cameriere settore Horeca a Brescia.",
       "firstSeen": "2026-10-07T05:08:24Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "areadocks-cuoco-pizzaiolo-brescia",
@@ -130,22 +130,6 @@
       "lastSeen": "2026-11-26T05:15:32Z"
     },
     {
-      "id": "https://it.indeed.com/cmp/Accor/jobs",
-      "role": "cameriera",
-      "title": "Cameriere sala e bar / Chef de rang",
-      "company": "Accor",
-      "location": "Brescia, Lombardia",
-      "comune": "brescia",
-      "url": "https://it.indeed.com/cmp/Accor/jobs",
-      "source": "indeed",
-      "salary": null,
-      "contractType": "tempo-pieno",
-      "datePosted": null,
-      "description": "Accor ricerca personale di sala e bar / chef de rang a Brescia, tempo pieno.",
-      "firstSeen": "2026-10-14T05:08:52Z",
-      "lastSeen": "2026-11-05T05:14:19Z"
-    },
-    {
       "id": "gigroup-cuococameriere-brescia",
       "role": "cucina",
       "title": "Cuoco/Cameriere a Brescia",
@@ -159,7 +143,7 @@
       "datePosted": "2026-08-02",
       "description": "Gi Group, filiale di Brescia, seleziona per azienda del settore hotellerie una figura che unisce mansioni di cuoco e cameriere, contratto a tempo determinato CCNL Turismo, turni 07-15/15-23 su 5 giorni a settimana.",
       "firstSeen": "2026-10-20T05:13:52Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "bluhotelbrixia-cuocojunior-castenedolo",
@@ -255,7 +239,7 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per catena di ristorazione/birreria un/una Cameriere/a di sala per turni weekend, zona Mompiano.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "indeed-italmark-cassiera-brescia",
@@ -271,7 +255,7 @@
       "datePosted": null,
       "description": "Italmark, catena di supermercati, ricerca una cassiera per punto vendita a Brescia.",
       "firstSeen": "2026-11-07T05:14:03Z",
-      "lastSeen": "2026-11-24T05:14:56Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "indeed-areadocks-barman-brescia",
@@ -447,7 +431,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una barista per locale a Prevalle.",
       "firstSeen": "2026-11-13T05:18:19Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/cameriere-mfnb_brescia_c65d8dac-f876-4819-aaad-46407bed038a/",
@@ -463,7 +447,7 @@
       "datePosted": "2026-09-16",
       "description": "Randstad Italia, filiale di Brescia, ricerca un/una cameriere/a part-time per catena di ristorazione in zona Sorbanella/Brescia Sud, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-14T05:13:41Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "https://www.subito.it/offerte-lavoro/barista-brescia-661276220.htm",
@@ -495,7 +479,7 @@
       "datePosted": null,
       "description": "Ristorante Alamare a Bagnolo Mella cerca personale di sala, orario flessibile, anche minima esperienza.",
       "firstSeen": "2026-11-19T05:15:39Z",
-      "lastSeen": "2026-11-26T05:15:32Z"
+      "lastSeen": "2026-11-27T05:13:23Z"
     },
     {
       "id": "indeed-dafa-cucina-ghedi",
@@ -623,7 +607,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
       "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-26T05:15:32Z",
+      "lastSeen": "2026-11-27T05:13:23Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -640,7 +624,7 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una barista per locale a Brescia.",
       "firstSeen": "2026-11-26T05:15:32Z",
-      "lastSeen": "2026-11-26T05:15:32Z",
+      "lastSeen": "2026-11-27T05:13:23Z",
       "linkVerifyFailCount": 1
     },
     {
@@ -693,6 +677,38 @@
       "firstSeen": "2026-11-26T05:15:32Z",
       "lastSeen": "2026-11-26T05:15:32Z",
       "linkVerifyFailCount": 1
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
+      "role": "cameriera",
+      "title": "Cameriere/Cameriera - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
+      "firstSeen": "2026-11-27T05:13:23Z",
+      "lastSeen": "2026-11-27T05:13:23Z"
+    },
+    {
+      "id": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
+      "role": "cucina",
+      "title": "Lavapiatti - Brescia",
+      "company": null,
+      "location": "Brescia",
+      "comune": "brescia",
+      "url": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
+      "source": "randstad",
+      "salary": null,
+      "contractType": "indifferente",
+      "datePosted": null,
+      "description": "Randstad Italia ricerca un/una lavapiatti per attività di ristorazione a Brescia.",
+      "firstSeen": "2026-11-27T05:13:23Z",
+      "lastSeen": "2026-11-27T05:13:23Z"
     }
   ]
 }
