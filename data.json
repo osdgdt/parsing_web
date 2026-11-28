@@ -594,40 +594,6 @@
       "lastSeen": "2026-11-26T05:15:32Z"
     },
     {
-      "id": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "role": "cameriera",
-      "title": "Cameriere/Cameriera - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/camerierecameriera_brescia_d87a0c9e-07c7-45fd-b403-35412f3b7a7e/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
-      "firstSeen": "2026-11-27T05:13:23Z",
-      "lastSeen": "2026-11-28T05:15:11Z",
-      "linkVerifyFailCount": 1
-    },
-    {
-      "id": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
-      "role": "cucina",
-      "title": "Lavapiatti - Brescia",
-      "company": null,
-      "location": "Brescia",
-      "comune": "brescia",
-      "url": "https://www.randstad.it/offerte-lavoro/lavapiatti_brescia_f98dca89-29ac-4143-a931-ef52975e9afc/",
-      "source": "randstad",
-      "salary": null,
-      "contractType": "indifferente",
-      "datePosted": null,
-      "description": "Randstad Italia ricerca un/una lavapiatti per attività di ristorazione a Brescia.",
-      "firstSeen": "2026-11-27T05:13:23Z",
-      "lastSeen": "2026-11-28T05:15:11Z",
-      "linkVerifyFailCount": 1
-    },
-    {
       "id": "https://www.randstad.it/offerte-lavoro/camerierea_brescia_0b4a3b78-ed55-4b64-8972-f09e21db5c0b/",
       "role": "cameriera",
       "title": "Cameriere/a - Brescia",
@@ -641,7 +607,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una cameriere/a per attività di ristorazione a Brescia.",
       "firstSeen": "2026-11-28T05:15:11Z",
-      "lastSeen": "2026-11-28T05:15:11Z"
+      "lastSeen": "2026-11-28T05:15:11Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/lavapiatti-part-time-weekend-12h_brescia_9fe8a86e-cf05-4778-938d-ec305a6bfdce/",
@@ -657,7 +624,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota realtà del settore ristorazione un/una lavapiatti, part-time weekend 12h, circa un anno di esperienza richiesto.",
       "firstSeen": "2026-11-28T05:15:11Z",
-      "lastSeen": "2026-11-28T05:15:11Z"
+      "lastSeen": "2026-11-28T05:15:11Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/addettoa-alla-cucina_brescia_76bff412-ec28-4729-914d-39173df1e7a6/",
@@ -673,7 +641,8 @@
       "datePosted": null,
       "description": "Randstad Italia, filiale di Brescia, seleziona per nota catena di ristorazione/birreria un/una addetto/a alla cucina, nessuna esperienza richiesta.",
       "firstSeen": "2026-11-28T05:15:11Z",
-      "lastSeen": "2026-11-28T05:15:11Z"
+      "lastSeen": "2026-11-28T05:15:11Z",
+      "linkVerifyFailCount": 1
     },
     {
       "id": "https://www.randstad.it/offerte-lavoro/aiuto-cuoco-haccp-fmnb_brescia_6719260f-a1ea-42d0-8e1a-723d8eaabfbc/",
@@ -689,7 +658,8 @@
       "datePosted": null,
       "description": "Randstad Italia ricerca un/una aiuto cuoco con attestato HACCP per Brescia.",
       "firstSeen": "2026-11-28T05:15:11Z",
-      "lastSeen": "2026-11-28T05:15:11Z"
+      "lastSeen": "2026-11-28T05:15:11Z",
+      "linkVerifyFailCount": 1
     }
   ]
 }
